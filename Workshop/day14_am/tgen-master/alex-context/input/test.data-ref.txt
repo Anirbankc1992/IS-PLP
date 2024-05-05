@@ -1,0 +1,1488 @@
+Take the 8:16am subway 1 line to Inwood from Columbus Circle . 
+Subway line 1 , departing at 8:16am from Columbus Circle to Inwood . 
+Take subway line 1 from Columbus Circle to Inwood at 8:16am . 
+
+Going to Grand Street from Cathedral Parkway , at 4:11pm by bus line M104 . 
+There is a bus at 4:11pm going from Cathedral Parkway to Grand Street using line M104 . 
+Take bus line M104 at 4:11pm from Cathedral Parkway to Grand Street . 
+
+Apologies , a subway connection is not found . 
+I 'm sorry I can not find a subway connection . 
+I 'm sorry I can not find a subway . 
+
+By subway , from what station and to what direction ? 
+Take the subway from where to where ? 
+You need a subway connection , please provide from which stop and to which stop . 
+
+Sorry sir but I could not found any connection from Franklin Street to Houston Street on subway . 
+I 'm sorry I can not find a subway connection from Franklin Street to Houston Street . 
+I am sorry , there is no subway connection from Franklin Street to Houston Street . 
+
+You want the pm . 
+OK , you want a pm connection . 
+I understand you want pm . 
+
+No route found from Columbus Circle to Delancey Street . 
+I have not found a connection from Columbus Circle to Delancey Street . 
+I apologize but such a info not found from Columbus Circle to Delancey Street . 
+
+Connection from where , to where ? 
+I need destination points from where to where . 
+From which stop to which stop sir ? 
+
+You want a bus . Where are you traveling from and where is your destination ? 
+OK , so you want to go on the bus instead . Where are you coming from and where are you trying to go to ? 
+I understand that you want to take the bus , but from where to where ? 
+
+It will take 13 minutes . 
+It will take 13 minutes . 
+Journey time is 13 minutes . 
+
+Sorry your trip from Canal Street is not found . 
+I apologize but such a info not found from Canal Street . 
+I did not find information on departures from Canal Street . 
+
+Take the subway on line Q from Washington Square towards Canal Street at 11:03am . 
+From Washington Square , take line Q subway at 11:03am to go to Canal Street . 
+Subway line Q departs from Washington Square at 11:03am towards Canal Street . 
+
+From Rector Street to what direction ? 
+You would like to go from Rector Street , where would you like to go to ? 
+To where from Rector Street ? 
+
+It will take 51 minutes . 
+The trip is 51 minutes . 
+It 'll last 51 minutes . 
+
+I apologize but such a route with a bus not found from Herald Square to Rockefeller Center . 
+Sorry sir but I could not found any connection from Herald Square to Rockefeller Center by bus . 
+I 'm really sorry but the required bus transportation from Herald Square to Rockefeller Center is not found . 
+
+You want to leave from Grand Street to Park Place by taking the M5 bus at 12:10pm . 
+Take the M5 bus at 12:10pm from Grand Street direction Park Place . 
+Take the M5 bus from Grand Street to Park Place at 12:10pm . 
+
+From Bowling Green bus to Bowling Green in line M66 at 10:01am . 
+If you take the M66 bus line from Bowling Green at 10:01am , you will arrive at Bowling Green . 
+You need to take the bus at 10:01am line M66 from bowing green to reach Bowling Green . 
+
+You would like to travel to Marble Hill from Fulton Street . 
+From Fulton Street to Marble Hill . 
+OK , you want a schedule from Fulton Street to Marble Hill . 
+
+From what station and to what direction ? 
+Where to and from ? 
+From which stop to which stop sir ? 
+
+OK , so you want to leave from Essex Street . Where are you going to ? 
+You want Essex Street . To where ? 
+I understand that you want to go from Essex Street , but to where ? 
+
+At 7:09pm by bus line M116 , from City Hall destination Park Place . 
+Take the M116 bus from City Hall to Park Place at 7:09pm . 
+Take bus route M116 , departing at 7:09pm from City Hall , arriving at Park Place . 
+
+So you want to leave at 6:00 pm . 
+You want 6:00 pm . 
+I understand that you want 6:00 pm . 
+
+Please confirm you want to travel to Marble Hill from where ? 
+You want to travel to Marble Hill . What station are you coming from ? 
+Where do you want to travel to Marble Hill from ? 
+
+From where to where , please ? 
+What station are you coming from and to what direction ? 
+From what station and to what direction ? 
+
+Apologies , a later connection is not found . 
+I 'm sorry I can not find a next connection . 
+I 'm sorry I can not find a connection after . 
+
+OK , you want a later option . 
+You want a later option . 
+You would like to find a later service . 
+
+From what station and to what direction ? 
+From where to where ? 
+Where are you departing from , and where is your destination ? 
+
+It takes 5.0 miles . 
+It is 5.0 miles . 
+It is a distance of 5.0 miles . 
+
+Yes , from Washington Square but where would you like to go ? 
+From Washington Square to where ? 
+Once you 'll have departed from Washington Square where do you want to go ? 
+
+In 0:15 . 
+OK you will depart in 0:15 . 
+I confirm you wish to leave in 15 minutes . 
+
+From which place to where ? 
+Where do you need to connect from and to where ? 
+From what station and to what direction ? 
+
+Take the M96 bus at 10:10am from Roosevelt Island direction Union Square . 
+From Roosevelt Island at 10:10am , take bus M96 to Union Square . 
+Take the bus M96 at 10:10am from Roosevelt Island destination Union Square . 
+
+A later time is not found . 
+No route found later . 
+I 'm sorry , I could not find you a later connection . 
+
+From what station and to what destination ? 
+Where would you like to go from and to where ? 
+From where to where ? 
+
+From Broad Street to City Hall . 
+OK , you want a connection from Broad Street to City Hall . 
+I understand your request to get from Broad Street to City Hall . 
+
+Where do you want to travel from to Fulton Street ? 
+You want to go to Fulton Street but where are you departing from ? 
+I understand that you want to go to Fulton Street , where are you going from ? 
+
+From where to where in 0:30 . 
+Where do you want to go from and to in 0:30 . 
+You want to go in 0:30 but where from and to ? 
+
+Sorry sir but I could not found any path by subway . 
+I 'm sorry there is not a subway connection . 
+I 'm sorry , I could not find a connection by subway . 
+
+Where are you coming from ? 
+Yes , but from where you would like to go ? 
+Where are you leaving from ? 
+
+From what station ? 
+Where would you like to go from ? 
+From where , sir ? 
+
+Sorry but I could not find next alternative by subway at 6:00 pm . 
+Apologies , a later subway connection at 6:00 pm is not found . 
+Sorry , I can not find another alternative for 6:00 pm by taking the subway . 
+
+From what station ? 
+Where do you want to depart from ? 
+From which stop are you coming ? 
+
+At 6:00 pm , from what station and to what direction ? 
+You want a schedule for 6:00 pm . From where is it coming and to where is it going . 
+Where would you like to go at 6:00 pm ? 
+
+OK , there is the 9:19pm subway that goes from Cathedral Parkway to the Lincoln Center . It is route J . 
+Just take a subway in the line J at 9:19pm from Cathedral Parkway to Lincoln Center . 
+You can go by subway at 9:19pm on line J from Cathedral Parkway to Lincoln Center . 
+
+It will take 55 minutes . 
+It takes 55 minutes . 
+It will take 55 minutes . 
+
+Take line E subway at 7:04pm from Canal Street direction East Broadway . 
+Going to East Broadway from Canal Street by subway line E at 7:04pm . 
+Take the subway line E from Canal Street at 7:04pm direction East Broadway . 
+
+I 'm sorry , but I was not able to find a connection at 1:00 pm . 
+Really sorry but the requested transportation at 1:00 pm is not found . 
+A connection at 1:00 pm is not found . 
+
+From what station and to what direction ? 
+Where would you like to go from and to where ? 
+From which stop to which stop ? 
+
+At 10:00 pm . 
+You need it at 10:00 pm . 
+Yes , from 10:00 pm . 
+
+Where would you like to go from and to where ? 
+From where to where , please ? 
+From which place to where ? 
+
+I see that you would like to go to Lincoln Center . 
+I can search those direction to the Lincoln Center for you now . 
+OK then , you want to go to Lincoln Center . 
+
+You would like to go to Canal Street from where ? Please provide more information . 
+Confirming to Canal Street , but from where ? 
+From where would you like to go to Canal Street ? 
+
+I 'm sorry there is no connection to Bleecker Street . 
+Going to Bleecker Street is not found . 
+No route found to Bleecker Street . 
+
+Arrival time is 11:46am . 
+You will arrive at 11:46am . 
+Your arrival time will be 11:46am . 
+
+Alright , you are going to Fulton Street . 
+You would like to go to Fulton Street . 
+I understand you want to travel to Fulton Street . 
+
+Please use bus M116 at 6:03pm to Essex Street from Broad Street . 
+The 6:03pm bus line M116 is traveling from Broad Street to Essex Street . 
+Yes , the line M116 bus from Broad Street to Essex Street is at 6:03pm . 
+
+I 'm sorry there is no connection from Fulton Street . 
+No route found from Fulton Street . 
+I 'm sorry there are no connections leaving from Fulton Street . 
+
+From Herald Square to Canal Street by subway line G at 8:08pm . 
+From Herald Square take subway line G to Canal Street at 8:08pm . 
+You will take G to Canal Street from Herald Square at 8:08pm on a subway . 
+
+I 'm sorry , a bus connection was not found . 
+I did not find information about a bus connection . 
+I 'm sorry , I was not able to find you a connection by bus . 
+
+I 'm sorry there is no connection to Union Square . 
+I am sorry there is not a connection from Union Square . 
+I apologize but such a route not found from Union Square . 
+
+Going to City Hall . 
+You 're traveling to City Hall . 
+OK you want to travel to City Hall . 
+
+From Grand Street to Inwood by subway line J at 11:14am . 
+Take the subway line J from Grand Street direction Inwood at 11:14am . 
+From Grand Street to Inwood subway at line J at 11:14am . 
+
+And where would you like to go to ? 
+Can you please confirm to where ? 
+Where do you want to go to ? 
+
+A route from Bowling Green to Rector Street is not found . 
+Sorry a service from Bowling Green to Rector Street is not found . 
+No route found from Bowling Green to Rector Street . 
+
+Yes , to Franklin Street but from where ? 
+You want to go to Franklin Street from where ? 
+You are departing from Franklin Street . Where is your destination ? 
+
+I 'm sorry there is no bus connection from Prince Street to Bowling Green . 
+A bus from Prince Street to Bowling Green is not found . 
+No route found by bus from Prince Street to Bowling Green . 
+
+It will take 65 minutes . 
+It takes 65 minutes to get there . 
+Sir the ride takes approximately 65 minutes . 
+
+Not found at 6:30 . 
+I 'm sorry there is no connection at 6:30 . 
+I 'm sorry there are no modes of transport leaving at 6:30 . 
+
+From where to Essex Street ? 
+So you go to Essex Street from which stop ? 
+From where to Essex Street ? 
+
+Take bus from where to where ? 
+You wish to make the connection by bus , where are you traveling from and where would you like to go to ? 
+Connection by bus from where to where ? 
+
+Yes , by subway . 
+So you 'd like to travel by subway . 
+OK , traveling by subway . 
+
+Take line A subway at 10:17pm from Lincoln Center direction Grand Central . 
+There is A subway at 10:17pm that will take you from Lincoln Center to Grand Central . It is line A . 
+At 10:17pm by subway line A from Lincoln Center to Grand Central . 
+
+You can take the line F subway from Port Authority Bus Terminal to Fulton Street at 7:01pm . 
+From Port Authority Bus Terminal take the subway line F at 7:01pm direction Fulton Street . 
+You can take the 7:01pm subway on the line F from Port Authority Bus Terminal to Fulton Street . 
+
+At 12:18pm by bus line M14 from Columbus Circle direction Delancey Street . 
+There is a bus at 12:18pm going from Columbus Circle to Delancey Street using line M14 . 
+Take bus line M14 at 12:18pm from Columbus Circle to Delancey Street . 
+
+Traveling to Central Park . 
+You want to go to Central Park . 
+To Central Park . 
+
+It would take 16 minutes to reach this area . 
+It will take no more that 16 minutes . 
+It will take 16 minutes . 
+
+You would like to go from Bryant Park to Union Square . 
+From Bryant Park to Union Square . 
+From Bryant Park to Union Square . 
+
+Take subway from where to where ? 
+Where do you want to go from and to by subway ? 
+OK you want to go by subway but I need you to tell me from where and to where you are going ? 
+
+Where would you like to go from and to where ? 
+From where to where , please ? 
+From where to which place ? 
+
+I 'm sorry I can not find a connection from Wall Street to Cortlandt Street . 
+Information to go from Wall Street to Cortlandt Street is not found . 
+No route found from Wall Street to Cortlandt Street . 
+
+At 5:26pm takes 44 minutes . 
+The arrival time is 5:26pm and it will take 44 minutes . 
+It takes 44 minutes ; you 'll arrive at 5:26pm . 
+
+At 7:03pm by bus line M14 from Inwood to Bowling Green . 
+The M14 bus , leaving Inwood at 7:03pm , will take you to Bowling Green . 
+Take the bus M14 from Inwood to Bowling Green at 7:03pm . 
+
+You want to travel from Roosevelt Island to Bleecker Street . 
+I 'll check for a trip from Roosevelt Island to Bleecker Street . 
+Yes , from Roosevelt Island to Bleecker Street . 
+
+You want to leave from East Broadway to where ? 
+Once you depart from East Broadway where do you want to go to ? 
+Where do you want to go from East Broadway to ? 
+
+I understand that you wan na go by subway , where would you go from and to ? 
+I confirm you want to go by subway , and can I please ask where you would like to travel from and to ? 
+You want to go by subway . Where do you wish to depart from and go to . 
+
+The trip from Central Park to Union Square is not found . 
+I apologize but such a info not found from Central Park to Union Square . 
+I did not find information about a connection from Central Park to Union Square . 
+
+At 9:04am by bus line M104 from Houston Street to Central Park . 
+There is a bus at 9:04am going from Houston Street to Central Park using line M104 . 
+Take bus line M104 at 9:04am from Houston Street to Central Park . 
+
+From Cathedral Parkway to East Broadway . 
+So you want to go from Cathedral Parkway to East Broadway . 
+OK you need to go from Cathedral Parkway to East Broadway . 
+
+Where are you going to ? 
+Where do you want to travel to ? 
+What is the destination stop ? 
+
+You would like a ride next . 
+OK , you are looking for the next journey . 
+Get the next ride . 
+
+From Marble Hill to Wall Street by bus line M34 at 9:14am . 
+Take a bus line M34 at 9:14am from Marble Hill to Wall Street . 
+From Marble Hill take the M34 bus to Wall Street at 9:14am . 
+
+From Bleecker Street , take bus M15 at 7:04am to reach Columbia University . 
+From Bleecker Street to Columbia University on M15 bus at 7:04am . 
+There is a bus line M15 from Bleecker Street to Columbia University at 7:04am . 
+
+From where to where ? 
+Where would you like to travel from and where would you like to go ? 
+Yes , but where ? Where would you like to go ? 
+
+From where you would like to go to Chambers Street . 
+You want to go to Chambers Street , where do you want to depart from ? 
+To Chambers Street , from what station ? 
+
+Take line 2 subway at 8:17am from Fulton Street direction Cortlandt Street . 
+You can get line 2 of the subway from Fulton Street to Cortlandt Street at 8:17am . 
+Take the 2 subway from Fulton Street to Cortlandt Street at 8:17am . 
+
+Going to Marble Hill from Times Square . 
+You want to go from Times Square to Marble Hill . 
+I understand you wish to travel from Times Square to Marble Hill . 
+
+It will take 28 minutes . 
+It takes 28 minutes . 
+It will take 28 minutes . 
+
+You would like to go to Grand Central , where would you like to go from ? 
+From where to Grand Central ? 
+Please let me know where you are leaving from when going to Grand Central . 
+
+Connection to Broad Street not found . 
+Sorry a connection to Broad Street is not found . 
+No connections found to Broad Street . 
+
+From Penn Station to Chambers Street . 
+You would like to go from Penn Station to Chambers Street . 
+From Penn Station to Chambers Street . 
+
+From where to where do you want to go ? 
+Where are you going from and to ? 
+Where are you traveling from and where do you want to go ? 
+
+Where are you traveling from ? 
+Where do you want to travel from ? 
+Where are you starting from ? 
+
+Yes , later on . 
+You want to take a later connection . 
+I understand that you want a departure at a later time . 
+
+Yes , 0:30 . But from where ? And where to go ? 
+You would like a connection in thirty minutes . Can you tell me from where going to where . 
+You want a connection in 30 minutes , where are you traveling from and what is your destination ? 
+
+Your trip will take 38 minutes . 
+No more than 38 minutes . 
+Time will be 38 minutes . 
+
+To Astor Place at 9:00 . 
+You would to go to Astor Place at 9:00 . 
+Go to Astor Place at 9:00 . 
+
+I 'm sorry I can not find a connection from Grand Street . 
+Information for leaving from Grand Street is not found . 
+No route found from Grand Street . 
+
+By subway . 
+Take the subway . 
+I 'll check for a subway connection . 
+
+But from where ? And where you would like to go ? 
+From where to where ? 
+You want to go from where to where ? 
+
+Confirming to Dyckman Street . 
+You want to go to Dyckman Street . 
+OK , you want to go to Dyckman Street . 
+
+From East Broadway . 
+OK no from East Broadway . 
+You want a connection from East Broadway . 
+
+A connection in 0:15 , from what station are you coming and to what direction ? 
+Where are coming from and going to in 15 minutes ? 
+OK , you want a connection in 15 minutes , where are you traveling from and where are you going to ? 
+
+I did not find information about a connection from Houston Street . 
+I apologize but such a route not found from Houston Street . 
+Sorry , I can not find a connection from Houston Street . 
+
+You want Essex Street . 
+I understand that you want to go to Essex Street . 
+Yes , to Essex Street . 
+
+From what station and to what direction ? 
+From where to where ? 
+From where to where man ? 
+
+From Bryant Park to Rockefeller Center . 
+Yes , going from Bryant Park to Rockefeller Center . 
+You said you are departing from Bryant Park and you are going to the Rockefeller Center . 
+
+You want a later connection . 
+I 'll check for the next connection . 
+Yes , later on . 
+
+Travel information from Union Square not found . 
+I have received your question and information is not found for travel from Union Square and I apologize that I can not find what you were asking for . 
+I apologize I can not find a connection from Union Square . 
+
+I 'm sorry , I could not find a connection from Cathedral Parkway . 
+I 'm really sorry but the requested transportation from Cathedral Parkway is not found . 
+A route from Cathedral Parkway is not found . 
+
+Take the M102 bus at 9:14am direction Grand Central from Bleecker Street . 
+Starting from Bleecker Street and taking the M102 to Grand Central , your bus departs at 9:14am . 
+Yes , bus line M102 from Bleecker Street to Grand Central from 9:14am . 
+
+It will take 51 minutes . 
+The duration is 51 minutes . 
+It takes 51 minutes . 
+
+From Cortlandt Street to where ? 
+From Cortlandt Street , to what direction ? 
+OK , you want a connection from Cortlandt Street , where do you want to go to ? 
+
+From Times Square to Union Square subway at 10:14pm on line L . 
+Take line L subway at 10:14pm from Times Square direction Union Square . 
+OK sir , you just have to take the subway from Times Square at 10:14pm in the line L in order to go to Union Square . 
+
+To Cathedral Parkway , from what station ? 
+OK sir you want to go to Cathedral Parkway but I need you to tell me from where do you want to go there ? 
+You want go to Cathedral Parkway leaving from where ? 
+
+I understand you want to travel at 10:00 pm . Please confirm where you are leaving from and where you are going to ? 
+Yes , from 10:00 pm . But from where ? Where would you like to go ? 
+From where to where man at 10:00 pm ? 
+
+It will take 49 minutes and the next connection is 6:24pm . 
+It will take 49 minutes . The next connection is at 6:24pm . 
+The next connection is at 6:24pm and it should take you 49 minutes to get to your destination . 
+
+Take the line A subway at 3:19pm from Bryant Park towards Cathedral Parkway . 
+Yes , subway line A from Bryant Park to Cathedral Parkway at 3:19pm . 
+From Bryant Park subway to Cathedral Parkway in line A at 3:19pm . 
+
+You want to travel to Marble Hill . Where are you traveling from ? 
+I understand . But from Marble Hill to where ? 
+I confirm wish to travel to Marble Hill , and can I ask where you are traveling from ? 
+
+I understand you want to go by bus . 
+Yes , with a bus . 
+You want to use the bus . 
+
+OK , so you want to go to Houston Street . 
+You want to go to Houston Street . 
+I understand that you want to go to Houston Street . 
+
+From what station and to what destination ? 
+From where to where , please ? 
+Where are you traveling from and where are you going ? 
+
+Take the subway line 5 from Herald Square towards Wall Street at 1:10pm . 
+Take the subway 5 direction Wall Street from Herald Square at 1:10pm . 
+Yes , subway line 5 from Herald Square to Wall Street at 1:10pm . 
+
+In 30 minutes , from what station and to what direction ? 
+In 30 minutes from where to where ? 
+Yes , 30 minutes but from where ? Where would you like to go ? 
+
+The next trip is not found . 
+I apologize but such a info not found for later on . 
+I did not find a later alternative . 
+
+You wish to travel by bus . 
+Traveling by bus . 
+You wish to make the connection by bus . 
+
+No subway found from Inwood to Delancey Street , sorry . 
+I apologize , the subway connection from Inwood to Delancey Street was not found . 
+Sorry but I did not not found any subway from Inwood to Delancey Street . 
+
+Take the M10 bus at 4:03pm from Chambers Street to Marble Hill . 
+Bus line M10 , departing at 4:03pm , in the direction of Marble Hill from Chambers Street . 
+Take bus line M10 at 4:03pm from Chambers Street to Marble Hill . 
+
+I 'm sorry I can not find the next option . 
+An option for later is not found . 
+No route found later , sir . 
+
+There is a bus route from Central Park to Dyckman Street at 4:16pm , line M4 . 
+Just take a bus in the line M4 at 4:16pm from Central Park to Dyckman Street . 
+Line M4 will take you by bus to Dyckman Street from Central Park at 4:16pm . 
+
+To Penn Station , from what station ? 
+From where to Penn Station ? 
+To Penn Station , from what station ? 
+
+To get to Bowling Green will be about 54 minutes . 
+It will take 54 minutes to get to Bowling Green . 
+It is 54 minutes to Bowling Green . 
+
+To what direction ? 
+Where would you like to go to ? 
+You want to find a connection to which stop ? 
+
+At 9:00 pm , from what station and to what direction ? 
+From 9:00 pm from where to where OK ? 
+At 9:00 pm evening from where to where ? 
+
+Take the line M15 bus from Cortlandt Street towards Grand Street at 3:14pm . 
+Yes , bus line M15 from Cortlandt Street to Grand Street at 3:14pm . 
+Take the M15 bus at 3:14pm direction Grand Street form Cortlandt Street . 
+
+Take line M10 bus at 1:05pm from Houston Street direction Bowery . 
+There is a M10 bus from Houston Street to Bowery at 1:05pm . 
+Take the M10 bus from Houston Street to Bowery at 1:05pm . 
+
+You want to go to Inwood by bus ? Where are you coming from ? 
+OK you need a ride by bus to Inwood but I need you to tell me where you come from ? 
+Where do you want to ride the bus to Inwood from ? 
+
+Yes , with a bus . 
+I 'll check for info about the bus ! 
+You want to go by bus . 
+
+Going to Grand Central . 
+I understand you want to go to Grand Central . 
+You are going to Grand Central . 
+
+There 's a bus on line M98 at 8:08am traveling from Rector Street to City Hall . 
+Take the M98 bus at 8:08am direction City Hall from Rector Street . 
+Departing from Rector Street at 8:08am , take bus M98 to City Hall . 
+
+Sorry , no route was found from Rockefeller Center to Roosevelt Island . 
+Travel to Roosevelt Island from Rockefeller Center is not found . 
+I 'm sorry but I 've not found a route to Roosevelt Island from Rockefeller Center . 
+
+The trip will take 69 minutes and you will reach your destination at 5:52pm . 
+It will take 69 minutes and you will arrive at 5:52pm . 
+No more than 69 minutes , at 5:52pm . 
+
+Where do you want to depart from ? 
+From where will you be leaving ? 
+Where do you want to leave from ? 
+
+So you want to go to Franklin Street . Where are you coming from ? 
+You want Franklin Street . From where ? 
+I understand that you want to go to Franklin Street , but from where are you leaving ? 
+
+By subway , from what station and to what direction ? 
+You are taking the subway but from where and to where ? 
+Take the subway from where to where , please ? 
+
+It will take 65 minutes arriving at 10:06pm . 
+The time needed is 65 minutes and you 'll arrive at 10:06pm . 
+The time needed is 65 minutes and you will arrive at 10:06pm . 
+
+From where to where are you going ? 
+From where to where ? 
+Where from and to ? 
+
+A way to travel by subway is not found . 
+I 'm sorry , I was unable to find a connection by subway . 
+Not found by subway . 
+
+To what direction ? 
+Where are you traveling to ? 
+Where do you want to go to ? 
+
+Not found to City Hall . 
+I apologize I can not find a connection to City Hall . 
+I 'm sorry but the required transportation to City Hall is not found . 
+
+You would like a 2:00 pm connection . 
+You want to go at 2:00 pm . 
+My understanding is that you need a 2:00 pm connection . 
+
+I 'm sorry there is no subway connection . 
+No subway found , sorry . 
+I 'm really sorry but the required transportation by subway is not found . 
+
+There is a bus on line M101 at 9:12am departing from Broad Street and traveling to Cortlandt Street . 
+Take the M101 bus at 9:12am from Broad Street direction Cortlandt Street . 
+At 9:12am , take bus M101 from Broad Street to Cortlandt Street . 
+
+There is a connection to Marble Hill from City Hall on line M23 bus on 12:14pm . 
+At 12:14pm , there is a bus line M23 from City Hall direction Marble Hill . 
+You want to go directly from Marble Hill to City Hall ? There is a connection at 12:14pm on the M23 bus line . 
+
+Direction to Marble Hill . 
+You wish to go to Marble Hill . 
+You want to go to Marble Hill . 
+
+You will arrive at 9:25am . 
+You will arrive at your destination at 9:25am . 
+You will arrive at 9:25am . 
+
+From Park Place to Grand Street . 
+From Park Place to Grand Street . 
+From Park Place to Grand Street . 
+
+I 'm sorry , I could not find a connection at 10:00 am . 
+I 'm sorry , I can not find a departure at 10:00 in the morning . 
+I 'm really sorry , but the requested transportation at 10:00 am is not found . 
+
+From Inwood to Essex Street subway at 8:03pm on line 2 . 
+Please use subway 2 at 8:03pm from Inwood to Essex Street . 
+Connection by subway on line 2 at 8:03pm , traveling from Inwood to Essex Street . 
+
+Destination to Chambers Street . 
+Yes , going to Chambers Street . 
+You want to change the destination to Chambers Street . 
+
+From what station and to what direction ? 
+OK sir , but from and to where do you want to leave ? 
+Leave from where going to where ? 
+
+I understand you are traveling from Park Place . 
+OK , you want a connection from Park Place . 
+I confirm , you want to depart from Park Place . 
+
+It takes around 14 minutes . 
+It takes 14 minutes to get there . 
+The trip will take 14 minutes . 
+
+By bus , from what station and to what direction ? 
+You want to take the bus but where to and from ? 
+Take bus from where to where ? 
+
+You want to take the subway . 
+I confirm you want to take the subway . 
+You are looking for the subway as an alternative option , correct ? 
+
+A bus can take you from Cortlandt Street to Port Authority Bus Terminal at 9:12pm . It is line M23 . 
+Just take a bus in the line M23 at 9:12pm from Cortlandt Street from Port Authority Bus Terminal . 
+Take the M23 bus at 9:12pm from Cortlandt Street to Port Authority Bus Terminal . 
+
+I 'm sorry , I can not find a route to Park Place . 
+Sorry sir , but I can not find any path to Park Place . 
+I apologize but such a route not found to Park Place . 
+
+Where are you traveling from ? 
+Where are you leaving from ? 
+Where do you want to travel from ? 
+
+You will arrive at 12:53pm . 
+It arrives at 12:53pm . 
+It arrives at 12:53pm . 
+
+I 'm sorry , I can not find a connection to Astor Place . 
+No connections found to Astor Place . 
+I 'm sorry , but your trip to Astor Place is not found . 
+
+You want to go to Franklin Street . 
+To Franklin Street . 
+To Franklin Street is that right . 
+
+Yes , but from where you would like to go ? 
+Where do you want to take it from ? 
+Where are you coming from ? 
+
+Where are you traveling from and where is your destination ? 
+Where are you going to and where are you leaving from ? 
+From where to where ? 
+
+The distance is 10.4 miles . 
+It is around 10.4 miles . 
+The trip covers a distance of 10.4 miles . 
+
+A subway was not found . 
+No subway found , sorry . 
+I 'm sorry there are no connections by subway at present . 
+
+Not found from Union Square to Roosevelt Island . 
+I apologize but such a route not found , from Union Square to Roosevelt Island . 
+I 'm sorry , I have not found anything from Union Square to Roosevelt Island . 
+
+Not found at 7:00 to Houston Street . 
+Apologies , a connection to Houston Street at 7:00 is not found . 
+I 'm sorry , I could not find a route to Houston Street at 7:00 . 
+
+Such a route not found from 8:00 pm . 
+Sir but I could not find any connection at 8:00 pm . 
+I apologize but such a route not found from 8:00 pm . 
+
+Next connection at 3:55pm . 
+You would like the next connection , this will be at 3:55pm . 
+The next one is at 3:55pm . 
+
+At 10:00 am . 
+You want an alternative at 10:00 am . 
+I 'll check for a 10:00 am alternative . 
+
+What station are you coming from ? 
+From where are you leaving ? 
+From where are you departing ? 
+
+From where to Grand Central . 
+You want to go to Grand Central . 
+OK you are going to Grand Central . 
+
+I apologize but such a route has not been found , from Penn Station . 
+I 'm sorry but I have not found anything from Penn Station . 
+Sorry results for departure from Penn Station not found . 
+
+You want Park Place at 5:00 . 
+At 5:00 to Park Place . 
+Going to Park Place at 5:00 . 
+
+From World Trade Center to Union Square I can not find . 
+I 'm sorry , I could not find a connection from World Trade Center to Union Square . 
+Not found from World Trade Center to Union Square . 
+
+Connection by subway not found . 
+I 'm sorry that journey you requested by the subway could not be found . 
+I 'm sorry I can not find any information on the subway . 
+
+You want Roosevelt Island , to where ? 
+OK , you are traveling from Roosevelt Island , where would you like to go ? 
+I understand that you want to leave from Roosevelt Island , but where do you want to get ? 
+
+A connection at later time . 
+You want information about later options . 
+I confirm that you want to know later options . 
+
+It will take around 40 minutes . 
+It will take 40 minutes . 
+The ride will take 40 minutes . 
+
+Please use the subway 4 at 3:14pm from Prince Street to Washington Square . 
+You can take subway line 4 , departing from Prince Street at 3:14pm to Washington Square . 
+Take line 4 subway at 3:14pm from Prince Street direction Washington Square . 
+
+Going to Broad Street . 
+You need to go to Broad Street . 
+Traveling to Broad Street . 
+
+From what station ? 
+From where to where ? 
+And can I ask where you would are traveling from ? 
+
+Destination to Penn Station . 
+You want to go to Penn Station . 
+OK , you wish to travel to Penn Station . 
+
+You should arrive at 6:43pm . 
+You will arrive at 6:43pm . 
+You will arrive at 6:43pm . 
+
+You want to go to Broad Street . Where are you coming from ? 
+You want to go to Broad Street . Where are you traveling from ? 
+OK you want to arrive in Broad Street but I need you to tell me where you come from ? 
+
+Take the line M15 bus from Bowling Green towards Cathedral Parkway , departing at 8:01am . 
+You can use bus M15 at 8:01am from Bowling Green to Cathedral Parkway . 
+Take bus M15 from Bowling Green at 8:01am to Cathedral Parkway . 
+
+Where would you like to take the subway from and to where ? 
+Confirming subway , and from where to where ? 
+You want to take the subway , where are you traveling from and where are you going ? 
+
+It will take 70 minutes and you will reach your destination at 12:43pm . 
+It will take 70 minutes and you will get there at 12:43pm . 
+It will take 70 minutes to get there and you will arrive at 12:43pm . 
+
+At 10:16pm by bus line M79 from Herald Square to Grand Central . 
+There is a bus at 10:16pm going from Herald Square to Grand Central using line M79 . 
+Take bus line M79 at 10:16pm from Herald Square to Grand Central . 
+
+Where are you traveling from and which station are you hoping to arrive at ? 
+What stop are you leaving from and what stop are you going to ? 
+You want a connection from which stop and to which stop ? 
+
+OK , the 11:14am M2 bus can take you from Bowling Green to Washington Square . 
+You can take the 11:14am bus from Bowling Green to Washington Square . It 's on the M2 line . 
+You can use bus M2 at 11:14am from Bowling Green to Washington Square . 
+
+This trip lasts 6.0 miles . 
+Your trip will take 6.0 miles . 
+The distance is 6.0 miles . 
+
+Take subway line Q from Park Place direction Roosevelt Island at 10:01pm . 
+Take the subway line Q at 10:01pm from Park Place direction Roosevelt Island . 
+I suggest you take the 10:01pm Q subway from Park Place to Roosevelt Island . 
+
+It takes 26 minutes . 
+Your journey should take 26 minutes . 
+The duration is 26 minutes . 
+
+From Herald Square direction Grand Central by bus line M86 at 3:11pm . 
+Take bus line M86 at 3:11pm from Herald Square to Grand Central . 
+Starting from Herald Square at 3:11pm , take bus M86 to Grand Central . 
+
+It will take around 55 minutes . 
+The journey will take 55 minutes . 
+It takes 55 minutes to get there . 
+
+I understand you want to take the 10:00 am subway , but from where to where ? 
+You want to take the subway at 10:00 am . Where are you leaving from and going to ? 
+I confirm that you want to leave at 10:00 am in a subway , where are you going from ? And where are you going to ? 
+
+To Broad Street , from what station ? 
+You want to go to Broad Street where is your start point ? 
+From where to Broad Street ? 
+
+No connections found at 9:00 . 
+I 'm sorry there is no connection at 9:00 . 
+I 'm sorry there is no connection at 9:00 . 
+
+Your departure time is 9:00 pm , please tell me where you would like to go from and your destination ? 
+I confirm that the time you depart is 9:00 pm . Where are you going from ? What is your destination ? 
+You would like to depart at 9:00 pm . Where would you like to travel to and from ? 
+
+Take subway line B from Grand Central towards Franklin Street , leaving at 7:07am . 
+You can go from Grand Central subway on B line to Franklin Street at 7:07am . 
+Subway line B , departing at 7:07am , from Grand Central in the direction of Franklin Street . 
+
+A next connection . 
+You need alternatives later , sir . 
+I 'll check for an alternative later . 
+
+Where would you like to travel from and to ? 
+Where are you going from and to where ? 
+From which stop to which stop sir ? 
+
+I 'm sorry , a connection at 6:00 pm was not found . 
+I did not find info about 6:00 pm trip . 
+I 'm sorry , I could not find a connection leaving at 6:00 pm . 
+
+Yes you 'll take a bus . 
+I confirm you want information on a bus line . 
+I understand bus line . 
+
+From World Trade Center to which stop ? 
+OK , from World Trade Center going where to ? 
+You are departing from World Trade Center but where are you going to ? 
+
+Take line G subway at 9:14pm from Lincoln Center direction Grand Central . 
+At 9:14pm by subway line G from Lincoln Center to Grand Central . 
+From Lincoln Center subway to Grand Central in line G at 9:14pm . 
+
+At 8:00 pm by subway , from what station and to what direction ? 
+You want an 8:00 pm subway connection , please tell me where you want to go from and where you want to go to . 
+I confirm you want to leave at 8:00 pm by subway , and can I confirm where you are traveling from and to ? 
+
+Take the line M15 bus at 7:17pm from Grand Street towards Union Square . 
+Yes , bus line M15 from Grand Street to Union Square at 7:17pm . 
+You can go by bus to Union Square from Grand Street on line M15 at 7:17pm . 
+
+Details from Dyckman Street to Grand Street . 
+OK , great you are going to Grand Street from Dyckman Street . 
+From Dyckman Street to Grand Street . 
+
+I 'm sorry there is no connection at 8:00 am . 
+Sorry but I could not find any ride at 8:00 am . 
+Sorry but I did not find any ride at 8:00 am . 
+
+You can take bus M86 Rector Street to Dyckman Street at 7:00pm . 
+The last connection from Rector Street to Dyckman Street is at 7:00pm on bus line M86 . 
+Your last connection is line M86 on the bus from Rector Street to Dyckman Street at 7:00pm . 
+
+There is a subway on line D at 9:18pm traveling from Franklin Street to Canal Street . 
+Take the D line subway at 9:18pm direction Canal Street from Franklin Street . 
+Yes , subway line D from Franklin Street to Canal Street from 9:18pm . 
+
+You can take the M100 bus at 9:08pm to get from Cathedral Parkway to Grand Street . 
+Yes , line M100 , bus going from Cathedral Parkway to Grand Street from 9:08pm . 
+From Cathedral Parkway to Grand Street on M100 bus at 9:08pm . 
+
+I 'm sorry I can not find a connection from Port Authority Bus Terminal to Prince Street . 
+Going from Port Authority Bus Terminal to Prince Street could not be found . 
+No connections found from Port Authority Bus Terminal to Prince Street . 
+
+Where would you like to go from your original destination ? 
+I need information to where ? 
+Where would you like to go to ? 
+
+What station are you coming from ? 
+Where are you coming from ? 
+And can I ask where you are traveling from ? 
+
+The duration of the trip is approximately 47 minutes . 
+The trip will take 47 minutes . 
+The trip will take 47 minutes . 
+
+I see that you would like to board from Marble Hill . 
+I confirm you wish to travel from Marble Hill . 
+OK , you want to travel from Marble Hill . 
+
+The trip is 12.0 miles . There are zero transfers . 
+The trip is a distance of 12.0 miles with no transfers needed . 
+This trip has no transfers for a distance of 12.0 miles . 
+
+I understand you are going to Inwood . Please confirm where you are coming from . 
+Yes , to Inwood but from where to ? 
+Where do you want to go to Inwood from ? 
+
+I 'm sorry I can not find a last connection . 
+I 'm sorry , last connection was not found . 
+I am sorry I can not find the last connection . 
+
+Where are you coming from and where are you trying to go to ? 
+Where are you traveling from , and where is your destination ? 
+I need you to tell me where you come from and where you are going ? 
+
+The trip will take 67 minutes and you should arrive at 12:47pm . 
+67 minutes or 12:47pm . 
+The trip is 67 minutes and arrives at 12:47pm . 
+
+You can get a connection by bus . 
+You would like to travel by bus . 
+I confirm you wish to travel by bus . 
+
+A connection from Penn Station to Astor Place . 
+OK , so from Penn Station to Astor Place then . 
+A connection from Penn Station to Astor Place . 
+
+At 8:08am by bus line M100 from Grand Street direction Cortlandt Street . 
+Bus line M100 departs at 8:08am from Grand Street to Cortlandt Street . 
+Take the M100 bus from Grand Street at 8:08am to Cortlandt Street . 
+
+I apologize but such a info not found to go with a bus . 
+I did not find information about a bus connection . 
+Not found by bus . 
+
+At 6:17pm by subway line Z from Bleecker Street to Columbus Circle . 
+You can use subway Z at 6:17pm from Bleecker Street to Columbus Circle . 
+Take subway line Z at 6:17pm from Bleecker Street direction Columbus Circle . 
+
+You would like to get to Roosevelt Island . 
+Arrival to Roosevelt Island . 
+OK , you want to go to Roosevelt Island . 
+
+You will arrive at 12:36pm . 
+It arrives at 12:36pm , sir . 
+You will arrive at 12:36pm . 
+
+Take line 7 subway at 8:11am from Rockefeller Center direction World Trade Center . 
+You can take the 7 line subway at 8:11am from Rockefeller Center to the World Trade Center . 
+There is a connection at 8:11am , take subway line 7 from Rockefeller Center to World Trade Center . 
+
+There is a bus on line M72 at 11:02am traveling from Marble Hill to Rockefeller Center . 
+Yes , there is a bus that can take you from Marble Hill to the Rockefeller Center . It is bus M72 at 11:02am . 
+At 11:02am , you could take the M72 bus from Marble Hill to Rockefeller Center . 
+
+I 'm sorry , I can not find a route from Delancey Street . 
+Sorry but I could not find any path from Delancey Street . 
+With the current route , I am not able to find a departure from Delancey Street . 
+
+From where to where are you traveling ? 
+From where to where ? 
+From which stop to which stop ? 
+
+Please confirm where you are coming from and where you are going to ? 
+Yes , but from where ? Where would you like to go ? 
+A connection going from where and going to where ? 
+
+You want number 2 . 
+You need option 2 . 
+Second option . 
+
+I understand you want to get to the Cathedral Parkway , but from where will you be leaving ? 
+You want to go to Cathedral Parkway from where ? 
+You need to go to Cathedral Parkway , where are you coming from ? 
+
+Where are you traveling from and where is your destination ? 
+Where do you want to go to and where are you leaving from ? 
+OK , but where ? Where to ? 
+
+You want a connection at 5:00 pm . 
+I 'll check for a 5:00 pm trip . 
+You want a connection at 5:00 pm . 
+
+You want a connection at 10:00 am . 
+You want 10:00 am . 
+I understand that you want to leave at 10:00 am . 
+
+At 6:00 . 
+You want a connection at 6:00 . 
+I 'll check for info about the 6:00 ride . 
+
+It will take 48 minutes . 
+It will take 48 minutes . 
+It will take 48 minutes . 
+
+Next one OK . 
+You need later connections . 
+Yes , next . 
+
+I 'm sorry , I can not find a route from Cortlandt Street to Penn Station . 
+I 'm sorry , a trip from Cortlandt Street to Penn Station was not found . 
+Sorry but I could not find any ride from Cortlandt Street to Penn Station . 
+
+It is 9.2 miles , sir . 
+The distance of this trip is 9.2 miles . 
+The distance is approximately 9.2 miles . 
+
+At 10:00 am , from what station and to what direction ? 
+You want to go at 10:00 am . Where to and from ? 
+10:00 am ? From where to where ? 
+
+From where to where do you want to go ? 
+Where are you leaving from and going to ? 
+Where are you traveling from and where are you going to ? 
+
+From Marble Hill , take the M101 bus at 6:13pm to get to Rector Street . 
+Yes , line M101 , bus going from Marble Hill to Rector Street at 6:13pm . 
+From Marble Hill to Rector Street on M101 bus at 6:13pm . 
+
+Please provide more information of where you want to go . 
+I need additional information to where ? 
+Where do you want to go to ? 
+
+I understand you want to journey at 7:00 pm . 
+If you leave at 7:00 in the evening . 
+You want 7:00 pm . 
+
+You want to take the subway . Where is your start and end point ? 
+You would like to travel by subway . Where would you like to travel to and from ? 
+Subway from where to where , sir ? 
+
+You are leaving from Roosevelt Island . Where are you trying to go to ? 
+You want to depart from Roosevelt Island . Where are you traveling to ? 
+OK you need to leave from Roosevelt Island but I need you to tell me where you are going ? 
+
+Next connection . 
+You would like a connection for a later time . 
+I 'll check for the next connection . 
+
+I 'm sorry there is no connection in 0:30 . 
+No connections found in 0:30 , sorry . 
+I 'm sorry , I could not find a connection in 0:30 . 
+
+Schedule at 4:00 pm is not found . 
+No connections found at 4:00 pm . 
+Sorry , your 4:00 pm journey is not found . 
+
+Where are you traveling from and where is your destination ? 
+Where do you want to go to and where are you leaving from ? 
+From where to where ? 
+
+You would like to go at 10:00 am . 
+OK you need an option at 10:00 am . 
+Your are looking for an option at 10:00 in the morning . 
+
+I 'm sorry I can not find a connection to Central Park . 
+Sorry sir but I could not find any path to Central Park . 
+I 'm sorry I can not find any connection leaving Central Park . 
+
+Take the line M4 bus at 7:03pm from Franklin Street towards Wall Street . 
+Take the M4 bus direction Wall Street at 7:03pm from Franklin Street . 
+Yes , bus line M4 from Franklin Street to Wall Street at 7:03pm . 
+
+Take bus M22 from Cortlandt Street at 6:12pm to Port Authority Bus Terminal . 
+You can take the M22 bus from Cortlandt Street to Port Authority Bus Terminal at 6:12pm . 
+Take the M22 bus from Cortlandt Street to Port Authority Bus Terminal at 6:12pm . 
+
+From where to where ? 
+Where do you want to go from and where do you want to go to ? 
+Where to and from ? 
+
+I 'm sorry there is no connection to East Broadway from Broad Street . 
+I 'm sorry , a connection from Broad Street to East Broadway was not found . 
+Sorry , Broad Street to East Broadway is not found . 
+
+You want a connection at 11:00 am . 
+I 'll check for a 11:00 am connection . 
+You want a connection at 11:00 am . 
+
+Where do you want to go from and to at 11:00 am . 
+You want to go at 11:00 am but where from and to ? 
+You want a connection at 11:00 am , where do you wish to depart from and where are you going ? 
+
+You want to go at 9:00 . 
+9:00 , is that correct . 
+Yes , 9:00 . 
+
+You want to go to Central Park from Herald Square . 
+OK you are traveling from Herald Square to Central Park . 
+You want to go from Herald Square to Central Park . 
+
+I understand your destination is Bowery . 
+Confirm you wish to travel to Bowery . 
+You would like to go to Bowery . 
+
+Sorry , Bryant Park to Union Square is not found . 
+I 'm sorry , I could not find you a route from Bryant Park to Union Square . 
+I 'm really sorry but the requested transportation from Bryant Park to Union Square is not found . 
+
+Sorry results for travel from Canal Street to Rector Street not found . 
+I 'm sorry sir , I could not find the travel from Canal Street to Rector Street . 
+Apologies information on travel from Canal Street to Rector Street is not found . 
+
+I 'm sorry , I can not find a later connection . 
+I 'm sorry , a later connection was not found . 
+I 'm sorry but there is no connection after that . 
+
+At 3:14pm by subway line 5 , from Cathedral Parkway direction Marble Hill . 
+The subway line 5 from Cathedral Parkway at 3:14pm to Marble Hill . 
+At 3:14pm , take subway line 5 from Cathedral Parkway to Marble Hill . 
+
+I understand that you want to leave at 11:00 am . 
+You want to go at 11:00 am . 
+You want to know if there is an alternative at 11:00 am . 
+
+I understand you want to leave at 12:00 . Where are you coming from and where are you going to ? 
+Yes , 12:00 . But from where ? Where would you like to go ? 
+You are looking from a connection to where and from where at 12:00 ? 
+
+Where are you coming from ? 
+I need you to tell me where you come from ? 
+Where are you departing from ? 
+
+I 'm sorry but I 've not found a later departure for that journey . 
+I 'm sorry there is not an alternative later time on that schedule . 
+I am sorry I can not find a later time for this service . 
+
+The trip to Essex Street is not found . 
+I apologize but such a info not found to Essex Street . 
+I did not find information about a connection to Essex Street . 
+
+I 'm sorry there is no connection to Fulton Street . 
+I did not find a route to Fulton Street . 
+I 'm sorry , I can not find the information you requested to go to Fulton Street . 
+
+The M34 bus at 1:04pm can take you from Grand Central to Broad Street . 
+There is a bus on line M34 at 1:04pm traveling from Grand Central to Broad Street . 
+Just take the bus in the line M34 at 1:04pm from Grand Central to Broad Street . 
+
+Alright then from Rockefeller Center sir . 
+You 're starting your trip from Rockefeller Center . 
+You want to leave from Rockefeller Center . 
+
+I 'm sorry I can not find a subway connection . 
+I 'm sorry , I could not find a subway connection . 
+I 'm sorry there is no subway connection . 
+
+Transit itinerary from Grand Central . 
+You need the transit itinerary from Grand Central . 
+You want to go from Grand Central . 
+
+There is a subway from Bowery at 7:11am on Q to Canal Street . 
+There is a connection at 7:11am , subway line Q from Bowery direction Canal Street . 
+You can go directly by subway from Bowery to Canal Street on line Q at 7:11am . 
+
+I 'm sorry there is no connection from Penn Station . 
+No routes found from Penn Station . 
+I 'm sorry , I could not find a connection from Penn Station . 
+
+Canal Street to Times Square is not found . 
+Sorry a service from Canal Street to Times Square is not found . 
+I 'm sorry there is no connection from Canal Street to Times Square . 
+
+From Washington Square to where ? 
+From Washington Square to where ? 
+From Washington Square , to what direction ? 
+
+From Washington Square to Fulton Street . 
+From Washington Square to Fulton Street . 
+From Washington Square to Fulton Street . 
+
+At 10:11pm take the subway line A from Herald Square direction Lincoln Center . 
+Take line A subway at 10:11pm from Herald Square direction Lincoln Center . 
+You can take the 10:11pm subway on the line A from Herald Square to Lincoln Center . 
+
+You want to travel by bus . 
+You want to know if you can take the bus . 
+You want to know if you can take the bus . 
+
+Yes , but where to go ? 
+To what direction ? 
+Where are you going to ? 
+
+From what station ? 
+From where please ? 
+From which stop sir ? 
+
+The trip will take 21 minutes with 9.6 miles . 
+The trip will be 9.6 miles and will take 21 minutes . 
+The trip is 9.6 miles long , taking 21 minutes . 
+
+You want information about the 7:00 morning route . 
+You need a connection at 7:00 am . 
+You want to go at 7:00 am . 
+
+To travel from Marble Hill to Dyckman Street take the M66 bus at 1:05pm . 
+There is a bus line M66 from Marble Hill to Dyckman Street at 1:05pm . 
+Line M66 bus leaves at 1:05pm from Marble Hill in the direction of Dyckman Street . 
+
+What station are you coming from and to what direction ? 
+Where are you leaving from and going to ? 
+Where are you traveling from and where are you traveling to ? 
+
+By subway , from what station and to what direction ? 
+You want a subway connection . Where are you traveling from , and where is your destination ? 
+Take the subway from where to where , sir ? 
+
+Take the bus M79 at 9:05pm from Rector Street direction Canal Street . 
+Take bus line M79 from Rector Street direction Canal Street at 9:05pm . 
+From Rector Street , take the M79 bus for Canal Street , departing at 9:05pm . 
+
+You want to leave at 11:00 am by bus . 
+You want to leave at 11:00 am by bus . 
+I 'll check for a 11:00 am bus route . 
+
+I 'm sorry there is no connection at 4:00 pm . 
+Sorry sir but I could not find any alternative at 4:00 pm . 
+Sorry I did not find any alternative at 4:00 pm . 
+
+From Roosevelt Island . 
+You would like transportation from Roosevelt Island . 
+Take it from Roosevelt Island . 
+
+You can take the L line of the subway from Marble Hill to Essex Street at 7:02pm . 
+Take the L subway from Marble Hill to Essex Street at 7:02pm . 
+At 7:02pm , take subway line L from Marble Hill to Essex Street . 
+
+Alright , you want 0:15 . 
+I understand you need a connection in 0:15 . 
+You need a connection in 0:15 , sir . 
+
+It will be 6.5 miles . 
+It is 6.5 miles . 
+It 's a 6.5 miles long . 
+
+I 'm sorry there is no connection later . 
+I can not find a time later . 
+I did not find the next alternative . 
+
+A bus line M8 at 9:08pm from Grand Street to Marble Hill . 
+There is a bus at 9:08pm going from Grand Street to Marble Hill using line M8 . 
+Take bus line M8 at 9:08pm from Grand Street to Marble Hill . 
+
+I apologize but such a route not found from Rector Street to Union Square . 
+Not found from Rector Street to Union Square . 
+I 'm sorry there is no connection from Rector Street to Union Square . 
+
+A connection at 8:00 pm . 
+You need a connection at 8:00 pm , sir . 
+At 8:00 pm . 
+
+OK , destination changed to Port Authority Bus Terminal . 
+You wish to change to Port Authority Bus Terminal . 
+Going to Port Authority Bus Terminal . 
+
+At 11:18am , take subway line 1 from Marble Hill to Grand Street . 
+Yes , the 11:18am subway , line 1 , can take you from Marble Hill to Grand Street . 
+You could take the line 1 of the subway at 11:18am , from Marble Hill to Grand Street . 
+
+Sorry connection from Franklin Street not found . 
+I 'm sorry I can not find a connection from Franklin Street . 
+Apologies , a connection from Franklin Street is not found . 
+
+Yes , in 0:30 . 
+OK , you want a connection in 30 minutes . 
+In 30 minutes . 
+
+I 'm sorry there is no connection in 0:15 . 
+I 'm sorry , a departure in 15 minutes can not be found . 
+I did not find a departure in 15 minutes . 
+
+Sorry , transport from Park Place to Penn Station was not found . 
+I 'm sorry , but I could not find you a route from Park Place to Penn Station . 
+I 'm sorry I can not find any connections from Park Place to Penn Station . 
+
+No route found in 0:30 . 
+I 'm sorry , a connection in 30 minutes is not found . 
+I 'm sorry , I could not find you a connection in 30 minutes . 
+
+You want to travel from Washington Square to Bryant Park . 
+OK , so you want to go to Bryant Park from Washington Square . 
+I understand that you want to go to Bryant Park from Washington Square . 
+
+Can you please confirm to where ? 
+What station are you going to ? 
+Where do you want to go to ? 
+
+Just take the subway in the line R at 3:02pm from Prince Street to Bowery . 
+Use line R of the subway to travel from Prince Street to Bowery at 3:02pm . 
+Take the subway R at 3:02pm from Prince Street direction Bowery . 
+
+At 3:08pm by bus line M79 from Essex Street direction Columbia University . 
+There is a bus at 3:08pm going from Essex Street to Columbia University using line M79 . 
+Please use bus M79 at 3:08pm from Essex Street to Columbia University . 
+
+On G subway at 10:02am from Delancey Street to Houston Street . 
+You can take the subway line G from Delancey Street to Houston Street at 10:02am . 
+At 10:02am by subway line G , from Delancey Street to Houston Street . 
+
+Where are you going to ? 
+Please tell me where you wish to go to . 
+Where would you like to go ? 
+
+OK , so you want to go to Delancey Street from Broad Street . 
+I understand that you want to go from Broad Street to Delancey Street . 
+You want Broad Street to Delancey Street . 
+
+Take subway G at 12:03pm from Penn Station to Lincoln Center . 
+From Penn Station subway to Lincoln Center at line G on 12:03pm . 
+Use subway line G at 12:03pm from Penn Station to Lincoln Center . 
+
+Sorry a service from Bowery to Cortlandt Street is not found . 
+Not found from Bowery to Cortlandt Street . 
+No connections found from Bowery to Cortlandt Street . 
+
+It will take 24 minutes . 
+It will take 24 minutes . 
+It will take 24 minutes . 
+
+At 4:13pm , by bus line M72 from Park Place direction Prince Street . 
+Take the M72 bus from Park Place to Prince Street at 4:13pm . 
+Yes , you can leave at 4:13pm if you take bus M72 from Park Place to Prince Street . 
+
+Going to Houston Street . 
+You want to go to Houston Street . 
+You want to go to Houston Street . 
+
+You want to start from Herald Square . 
+OK you want from Herald Square . 
+You want to go from Herald Square . 
+
+You want to travel from Delancey Street . Where do you want to go to ? 
+You want to depart from Delancey Street and go where ? 
+Confirming from Delancey Street , but where to ? 
+
+Yes , from Cortlandt Street . But where you would like to go ? 
+From Cortlandt Street to where ? 
+OK sir but I need you to tell me the destination of your travel , from Cortlandt Street to where ? 
+
+I did not find information on how to go to Rector Street . 
+I apologize such a route to Rector Street not found . 
+I did not find a route to Rector Street . 
+
+Please use bus M60 at 11:07pm from Cathedral Parkway to Columbus Circle . 
+Take line M60 bus at 11:07pm from Cathedral Parkway direction Columbus Circle . 
+You can take the M60 bus at 11:07pm from Cathedral Parkway to Columbus Circle . 
+
+Coming from City Hall . 
+You would like to go from City Hall . 
+OK then sir , from City Hall it is . 
+
+In 30 minutes . 
+In 30 minutes . 
+I 'll check for a connection in 30 minutes . 
+
+Apologies , a subway connection from Rector Street to Bryant Park is not found . 
+I 'm sorry , I could not find you a subway connection from Rector Street to Bryant Park . 
+Sorry I can not find directions from Rector Street to Bryant Park on the subway . 
+
+By subway , from what station and to what direction ? 
+You want to use the subway but I need you to tell me from where and to where you want to go ? 
+You want a subway connection . Where are you traveling from and where is your destination ? 
+
+Where are you coming from and where are you trying to go ? 
+From where to where ? 
+From where to where do you want to go ? 
+
+You want to go on the subway . 
+You 'd rather ride the subway . 
+I understand that you would rather ride the subway , correct ? 
+
+Take subway line F at 7:02am from Dyckman Street direction Columbia University . 
+Take the subway line F at 7:02am from Dyckman Street direction Columbia University . 
+Then I suggest to take subway F at 7:02am from Dyckman Street to Columbia University . 
+
+I 'm sorry I can not find a connection to Broad Street . 
+I 'm sorry there are no methods of transport currently going to Broad Street . 
+I 'm sorry , a connection to Broad Street is not found . 
+
+It takes 51 minutes to get there . 
+The journey will take 51 minutes . 
+About 51 minutes . 
+
+OK , you want to go from Bowery . 
+So you want to travel from Bowery . 
+You are traveling from Bowery . 
+
+You want to take the subway . 
+Yes , subway . 
+I understand you are going by subway . 
+
+A bus at 2:00 pm is not found . 
+I 'm sorry there is no bus connection at 2:00 pm . 
+I 'm sorry , an alternative bus at 2:00 pm is not found . 
+
+To what station are you going ? 
+Where would you like to go to ? 
+To where , sir ? 
+
+It will take 26 minutes . 
+It takes 26 minutes . 
+No more than 26 minutes . 
+
+I 'm sorry there is no connection from Astor Place to Bowery . 
+Astor Place to Bowery is not found . 
+No route found from Astor Place to Bowery . 
+
+From Cortlandt Street to Lincoln Center . 
+You want to go from Cortlandt Street to Lincoln Center . 
+OK , you want to go from Cortlandt Street to Lincoln Center . 
+
+I apologize but such a route not found East Broadway to Canal Street . 
+Not found from East Broadway to Canal Street . 
+I 'm sorry I can not find a connection from East Broadway to Canal Street . 
+
+You wish to travel to Park Place , starting from Marble Hill . 
+You need to go from Marble Hill to Park Place . 
+Yes , I can help you get to Park Place from Marble Hill . 
+
+You want to leave at 10:00 am by subway . 
+You want to take the subway at 10:00 am . 
+I 'll check for a 10:00 am subway route . 
+
+From where to City Hall ? 
+OK , you want to travel to City Hall , where do you wish to leave from ? 
+Traveling to City Hall , what station are you coming from ? 
+
+You want to depart from Fulton Street . 
+Alrighty then , from Fulton Street . 
+I confirm you wish to travel from Fulton Street . 
+
+From where going to Penn Station ? 
+I understand that you are going to Penn Station . Where are you coming from . 
+You are going to Penn Station . From where ? 
+

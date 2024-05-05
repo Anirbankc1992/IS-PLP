@@ -1,0 +1,3 @@
+model_checkpoint_path: "model.tfsess"
+all_model_checkpoint_paths: "C:\\Users\\isswan\\AppData\\Local\\Temp\\tgen-m16xytzj\\ckpt"
+all_model_checkpoint_paths: "model.tfsess"

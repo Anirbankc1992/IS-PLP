@@ -1,0 +1,1116 @@
+i'm travelling from X-stop to X-stop
+i'm travelling from X-stop to X-stop
+i'm travelling from X-stop to X-stop
+i want to go to X-stop
+i want to go to X-stop
+i want to go to X-stop
+i would like to take the X-vehicle
+i would like to take the X-vehicle
+i would like to take the X-vehicle
+alright if i go by X-vehicle
+alright if i go by X-vehicle
+alright if i go by X-vehicle
+find X-vehicle connection from X-stop to X-stop
+find X-vehicle connection from X-stop to X-stop
+find X-vehicle connection from X-stop to X-stop
+no X-number X-ampm
+no X-number X-ampm
+no X-number X-ampm
+do you have a connection from X-stop to X-stop
+do you have a connection from X-stop to X-stop
+do you have a connection from X-stop to X-stop
+ok and i need to find out the connection in a X-number an hour
+ok and i need to find out the connection in a X-number an hour
+ok and i need to find out the connection in a X-number an hour
+i would rather use the X-vehicle
+i would rather use the X-vehicle
+i would rather use the X-vehicle
+how long will it take
+how long will it take
+how long will it take
+no i want to go from X-stop
+no i want to go from X-stop
+no i want to go from X-stop
+yes i want to go from X-stop to X-stop on the X-vehicle
+yes i want to go from X-stop to X-stop on the X-vehicle
+yes i want to go from X-stop to X-stop on the X-vehicle
+i want to go from X-stop
+i want to go from X-stop
+i want to go from X-stop
+what is the duration of this trip
+what is the duration of this trip
+what is the duration of this trip
+i need to find the X-vehicle connection from X-stop to X-stop
+i need to find the X-vehicle connection from X-stop to X-stop
+i need to find the X-vehicle connection from X-stop to X-stop
+what about a connection at X-number X-ampm
+what about a connection at X-number X-ampm
+what about a connection at X-number X-ampm
+no i want to arrive at X-stop
+no i want to arrive at X-stop
+no i want to arrive at X-stop
+i am looking for a transit schedule from X-stop headed to X-stop
+i am looking for a transit schedule from X-stop headed to X-stop
+i am looking for a transit schedule from X-stop headed to X-stop
+i need a connection at X-number X-ampm
+i need a connection at X-number X-ampm
+i need a connection at X-number X-ampm
+no i want to go from X-stop to
+no i want to go from X-stop to
+no i want to go from X-stop to
+travel by X-vehicle
+travel by X-vehicle
+travel by X-vehicle
+i would like a X-number X-ampm
+i would like a X-number X-ampm
+i would like a X-number X-ampm
+i want to travel to X-stop
+i want to travel to X-stop
+i want to travel to X-stop
+okay what if i'd rather ride the X-vehicle
+okay what if i'd rather ride the X-vehicle
+okay what if i'd rather ride the X-vehicle
+is there another connection after
+is there another connection after
+is there another connection after
+is there a later option
+is there a later option
+is there a later option
+in X-number minutes
+in X-number minutes
+in X-number minutes
+how far is that
+how far is that
+how far is that
+yeah i do want to depart from X-stop
+yeah i do want to depart from X-stop
+yeah i do want to depart from X-stop
+depart in X-number minutes
+depart in X-number minutes
+depart in X-number minutes
+i need a connection by X-vehicle
+i need a connection by X-vehicle
+i need a connection by X-vehicle
+i would like to depart X-stop and go to X-stop
+i would like to depart X-stop and go to X-stop
+i would like to depart X-stop and go to X-stop
+is there a schedule at a later time
+is there a schedule at a later time
+is there a schedule at a later time
+i would like to find a X-vehicle
+i would like to find a X-vehicle
+i would like to find a X-vehicle
+yes how do i get from X-stop to X-stop
+yes how do i get from X-stop to X-stop
+yes how do i get from X-stop to X-stop
+no i would like to travel to X-stop
+no i would like to travel to X-stop
+no i would like to travel to X-stop
+X-number minutes
+X-number minutes
+X-number minutes
+i would rather go by X-vehicle
+i would rather go by X-vehicle
+i would rather go by X-vehicle
+i wanna go to X-stop
+i wanna go to X-stop
+i wanna go to X-stop
+i need to go to X-stop
+i need to go to X-stop
+i need to go to X-stop
+is there another alternative for X-number o'clock in the X-ampm by taking the X-vehicle
+is there another alternative for X-number o'clock in the X-ampm by taking the X-vehicle
+is there another alternative for X-number o'clock in the X-ampm by taking the X-vehicle
+i am traveling to X-stop
+i am traveling to X-stop
+i am traveling to X-stop
+can i get a schedule at X-number X-ampm
+can i get a schedule at X-number X-ampm
+can i get a schedule at X-number X-ampm
+i would rather go by X-vehicle
+i would rather go by X-vehicle
+i would rather go by X-vehicle
+time requirements and next connection
+time requirements and next connection
+time requirements and next connection
+i'm going to X-stop
+i'm going to X-stop
+i'm going to X-stop
+is there an option at X-number X-ampm
+is there an option at X-number X-ampm
+is there an option at X-number X-ampm
+what connection will i be in X-number an hour
+what connection will i be in X-number an hour
+what connection will i be in X-number an hour
+is there a schedule at X-number o'clock X-ampm
+is there a schedule at X-number o'clock X-ampm
+is there a schedule at X-number o'clock X-ampm
+i want to leave at X-number X-ampm by X-vehicle
+i want to leave at X-number X-ampm by X-vehicle
+i want to leave at X-number X-ampm by X-vehicle
+yes i need directions to X-stop
+yes i need directions to X-stop
+yes i need directions to X-stop
+change destination to X-stop
+change destination to X-stop
+change destination to X-stop
+change to X-stop
+change to X-stop
+change to X-stop
+what time will i arrive
+what time will i arrive
+what time will i arrive
+no i would like to travel to X-stop
+no i would like to travel to X-stop
+no i would like to travel to X-stop
+is there a schedule for X-number X-ampm
+is there a schedule for X-number X-ampm
+is there a schedule for X-number X-ampm
+X-stop to X-number street
+X-stop to X-number street
+X-stop to X-number street
+i want to know about a trip going from X-stop
+i want to know about a trip going from X-stop
+i want to know about a trip going from X-stop
+i need to find a X-vehicle connection
+i need to find a X-vehicle connection
+i need to find a X-vehicle connection
+i want to go i want to go from X-stop
+i want to go i want to go from X-stop
+i want to go i want to go from X-stop
+yes i like to travel to X-stop
+yes i like to travel to X-stop
+yes i like to travel to X-stop
+no i want to go from X-stop to X-stop
+no i want to go from X-stop to X-stop
+no i want to go from X-stop to X-stop
+no i want to depart from X-stop
+no i want to depart from X-stop
+no i want to depart from X-stop
+from X-stop to X-stop
+from X-stop to X-stop
+from X-stop to X-stop
+i want to go to X-stop by 
+i want to go to X-stop by 
+i want to go to X-stop by 
+i want to find a X-vehicle connection from X-stop to X-stop X-number
+i want to find a X-vehicle connection from X-stop to X-stop X-number
+i want to find a X-vehicle connection from X-stop to X-stop X-number
+how long does it take to ride
+how long does it take to ride
+how long does it take to ride
+at X-number X-number
+at X-number X-number
+at X-number X-number
+my destination is X-stop c o r t l a n d t st-
+my destination is X-stop c o r t l a n d t st-
+my destination is X-stop c o r t l a n d t st-
+connection by X-vehicle
+connection by X-vehicle
+connection by X-vehicle
+travel by X-vehicle
+travel by X-vehicle
+travel by X-vehicle
+yes i would like to travel from X-stop to X-stop
+yes i would like to travel from X-stop to X-stop
+yes i would like to travel from X-stop to X-stop
+i would like to go to X-stop
+i would like to go to X-stop
+i would like to go to X-stop
+i'm departing from X-stop
+i'm departing from X-stop
+i'm departing from X-stop
+i want to travel to X-stop
+i want to travel to X-stop
+i want to travel to X-stop
+i need to find out about a transit schedule i wanna go from X-stop to X-stop wanna know how long it would take and what X-vehicle that would be on and an alternative for X-number in the X-ampm going to X-stop
+i need to find out about a transit schedule i wanna go from X-stop to X-stop wanna know how long it would take and what X-vehicle that would be on and an alternative for X-number in the X-ampm going to X-stop
+i need to find out about a transit schedule i wanna go from X-stop to X-stop wanna know how long it would take and what X-vehicle that would be on and an alternative for X-number in the X-ampm going to X-stop
+i'm asking for public transport and i want to go from X-stop to X-stop
+i'm asking for public transport and i want to go from X-stop to X-stop
+i'm asking for public transport and i want to go from X-stop to X-stop
+i would prefer to go by X-vehicle
+i would prefer to go by X-vehicle
+i would prefer to go by X-vehicle
+is there a schedule at X-number o'clock in the X-ampm
+is there a schedule at X-number o'clock in the X-ampm
+is there a schedule at X-number o'clock in the X-ampm
+i need to go from X-stop to X-stop
+i need to go from X-stop to X-stop
+i need to go from X-stop to X-stop
+how much time is needed and what is the arrival time
+how much time is needed and what is the arrival time
+how much time is needed and what is the arrival time
+no is there a schedule at X-number X-ampm
+no is there a schedule at X-number X-ampm
+no is there a schedule at X-number X-ampm
+yes i would like to travel from X-stop and go to X-stop
+yes i would like to travel from X-stop and go to X-stop
+yes i would like to travel from X-stop and go to X-stop
+no from X-stop
+no from X-stop
+no from X-stop
+i want to go by X-vehicle
+i want to go by X-vehicle
+i want to go by X-vehicle
+i need to go from X-stop to X-stop and X-number second
+i need to go from X-stop to X-stop and X-number second
+i need to go from X-stop to X-stop and X-number second
+X-stop to X-number street
+X-stop to X-number street
+X-stop to X-number street
+information to get from X-stop to X-stop
+information to get from X-stop to X-stop
+information to get from X-stop to X-stop
+i'm departing from X-stop
+i'm departing from X-stop
+i'm departing from X-stop
+okay can i get another ride
+okay can i get another ride
+okay can i get another ride
+i'd like to go for a trip from X-stop to X-stop
+i'd like to go for a trip from X-stop to X-stop
+i'd like to go for a trip from X-stop to X-stop
+what about the connection at X-number o'clock in the X-ampm i prefer to take the X-vehicle
+what about the connection at X-number o'clock in the X-ampm i prefer to take the X-vehicle
+what about the connection at X-number o'clock in the X-ampm i prefer to take the X-vehicle
+can i get information about a connection at X-number X-ampm
+can i get information about a connection at X-number X-ampm
+can i get information about a connection at X-number X-ampm
+no i want to arrive at X-stop
+no i want to arrive at X-stop
+no i want to arrive at X-stop
+can i get a X-vehicle
+can i get a X-vehicle
+can i get a X-vehicle
+i need to get from X-stop to X-stop
+i need to get from X-stop to X-stop
+i need to get from X-stop to X-stop
+how long the trip will take
+how long the trip will take
+how long the trip will take
+hey what if i am going to X-stop
+hey what if i am going to X-stop
+hey what if i am going to X-stop
+connection to X-stop
+connection to X-stop
+connection to X-stop
+do you have a connection from X-stop to X-stop
+do you have a connection from X-stop to X-stop
+do you have a connection from X-stop to X-stop
+no is there an option at X-number X-ampm
+no is there an option at X-number X-ampm
+no is there an option at X-number X-ampm
+how to travel to X-stop
+how to travel to X-stop
+how to travel to X-stop
+is there a departure at a later time
+is there a departure at a later time
+is there a departure at a later time
+is there a connection in X-number minutes
+is there a connection in X-number minutes
+is there a connection in X-number minutes
+i also want to know about time requirements
+i also want to know about time requirements
+i also want to know about time requirements
+then i would like to get a X-number o'clock travel to X-stop
+then i would like to get a X-number o'clock travel to X-stop
+then i would like to get a X-number o'clock travel to X-stop
+no i want to depart from X-stop
+no i want to depart from X-stop
+no i want to depart from X-stop
+want to find a X-vehicle connection
+want to find a X-vehicle connection
+want to find a X-vehicle connection
+X-number X-ampm schedule
+X-number X-ampm schedule
+X-number X-ampm schedule
+how long will it take to get to X-stop to
+how long will it take to get to X-stop to
+how long will it take to get to X-stop to
+no from X-stop
+no from X-stop
+no from X-stop
+i need a connection in X-number minutes
+i need a connection in X-number minutes
+i need a connection in X-number minutes
+yes can i have a connection to from X-stop to ro
+yes can i have a connection to from X-stop to ro
+yes can i have a connection to from X-stop to ro
+i wanna go to X-stop
+i wanna go to X-stop
+i wanna go to X-stop
+i need a X-number X-ampm
+i need a X-number X-ampm
+i need a X-number X-ampm
+no i'm departing from X-stop and i'm going to X-stop
+no i'm departing from X-stop and i'm going to X-stop
+no i'm departing from X-stop and i'm going to X-stop
+and what time would the next connection be
+and what time would the next connection be
+and what time would the next connection be
+i want to travel from X-stop
+i want to travel from X-stop
+i want to travel from X-stop
+how to travel from X-stop
+how to travel from X-stop
+how to travel from X-stop
+i would like to start from X-stop and go to X-stop
+i would like to start from X-stop and go to X-stop
+i would like to start from X-stop and go to X-stop
+how long is the duration
+how long is the duration
+how long is the duration
+i need a public transit route from departing from X-stop
+i need a public transit route from departing from X-stop
+i need a public transit route from departing from X-stop
+i want to go from X-stop to X-stop
+i want to go from X-stop to X-stop
+i want to go from X-stop to X-stop
+want to go to X-stop
+want to go to X-stop
+want to go to X-stop
+yes i would like to leave later at X-number X-ampm
+yes i would like to leave later at X-number X-ampm
+yes i would like to leave later at X-number X-ampm
+ok how long will that take and when is the next connection
+ok how long will that take and when is the next connection
+ok how long will that take and when is the next connection
+i wanna leave at X-number X-ampm by X-vehicle
+i wanna leave at X-number X-ampm by X-vehicle
+i wanna leave at X-number X-ampm by X-vehicle
+destination is X-stop
+destination is X-stop
+destination is X-stop
+but i wanna go by X-vehicle
+but i wanna go by X-vehicle
+but i wanna go by X-vehicle
+ok i would like to go to X-stop
+ok i would like to go to X-stop
+ok i would like to go to X-stop
+what is the connection in X-number an hour
+what is the connection in X-number an hour
+what is the connection in X-number an hour
+i'm looking for a public transit route from X-stop to X-stop
+i'm looking for a public transit route from X-stop to X-stop
+i'm looking for a public transit route from X-stop to X-stop
+connection in X-number minutes
+connection in X-number minutes
+connection in X-number minutes
+is there another alternative
+is there another alternative
+is there another alternative
+by X-vehicle
+by X-vehicle
+by X-vehicle
+i would like to find a X-vehicle connection from X-stop to X-stop
+i would like to find a X-vehicle connection from X-stop to X-stop
+i would like to find a X-vehicle connection from X-stop to X-stop
+i want to go at X-number X-ampm by X-vehicle
+i want to go at X-number X-ampm by X-vehicle
+i want to go at X-number X-ampm by X-vehicle
+is there a later option
+is there a later option
+is there a later option
+to X-stop at X-number o'clock
+to X-stop at X-number o'clock
+to X-stop at X-number o'clock
+i want to arrive at X-stop
+i want to arrive at X-stop
+i want to arrive at X-stop
+i'm saying i want to go to X-stop and i know i want to know how long it will take
+i'm saying i want to go to X-stop and i know i want to know how long it will take
+i'm saying i want to go to X-stop and i know i want to know how long it will take
+so i want to find a connection from X-stop
+so i want to find a connection from X-stop
+so i want to find a connection from X-stop
+can i get a ride at X-number X-ampm
+can i get a ride at X-number X-ampm
+can i get a ride at X-number X-ampm
+from X-stop to X-stop
+from X-stop to X-stop
+from X-stop to X-stop
+is there a different connection like a X-vehicle
+is there a different connection like a X-vehicle
+is there a different connection like a X-vehicle
+ride on the X-vehicle from delancey to X-stop
+ride on the X-vehicle from delancey to X-stop
+ride on the X-vehicle from delancey to X-stop
+can i go by X-vehicle
+can i go by X-vehicle
+can i go by X-vehicle
+hey what if i am going to X-stop
+hey what if i am going to X-stop
+hey what if i am going to X-stop
+transit itinerary from X-stop to X-stop
+transit itinerary from X-stop to X-stop
+transit itinerary from X-stop to X-stop
+X-stop to X-stop
+X-stop to X-stop
+X-stop to X-stop
+how long will it take and what time will i arrive
+how long will it take and what time will i arrive
+how long will it take and what time will i arrive
+change destination to X-stop
+change destination to X-stop
+change destination to X-stop
+instead of going to X-stop i'd like to g-
+instead of going to X-stop i'd like to g-
+instead of going to X-stop i'd like to g-
+what about a connection by X-vehicle
+what about a connection by X-vehicle
+what about a connection by X-vehicle
+what is the time needed and the arrival time
+what is the time needed and the arrival time
+what is the time needed and the arrival time
+looking for X-vehicle connection
+looking for X-vehicle connection
+looking for X-vehicle connection
+travel by X-vehicle
+travel by X-vehicle
+travel by X-vehicle
+i want to go from X-stop
+i want to go from X-stop
+i want to go from X-stop
+ok i want to go to X-stop
+ok i want to go to X-stop
+ok i want to go to X-stop
+i'm looking for a X-number X-ampm connection
+i'm looking for a X-number X-ampm connection
+i'm looking for a X-number X-ampm connection
+i would rather use the X-vehicle
+i would rather use the X-vehicle
+i would rather use the X-vehicle
+is there a schedule at X-number o'clock in the X-ampm
+is there a schedule at X-number o'clock in the X-ampm
+is there a schedule at X-number o'clock in the X-ampm
+connection in X-number an hour
+connection in X-number an hour
+connection in X-number an hour
+i want to arrive in X-stop
+i want to arrive in X-stop
+i want to arrive in X-stop
+what time will i arrive at my destination
+what time will i arrive at my destination
+what time will i arrive at my destination
+yes i would like to go from X-stop to X-stop
+yes i would like to go from X-stop to X-stop
+yes i would like to go from X-stop to X-stop
+i would like my departure time at X-number X-ampm
+i would like my departure time at X-number X-ampm
+i would like my departure time at X-number X-ampm
+connection by X-vehicle
+connection by X-vehicle
+connection by X-vehicle
+can i change the destination to X-stop
+can i change the destination to X-stop
+can i change the destination to X-stop
+i need to leave at X-number in the X-ampm
+i need to leave at X-number in the X-ampm
+i need to leave at X-number in the X-ampm
+i would like to go from X-stop towards X-stop
+i would like to go from X-stop towards X-stop
+i would like to go from X-stop towards X-stop
+how long does the trip take
+how long does the trip take
+how long does the trip take
+prefer to use the X-vehicle
+prefer to use the X-vehicle
+prefer to use the X-vehicle
+is there an alternative to take the X-vehicle
+is there an alternative to take the X-vehicle
+is there an alternative to take the X-vehicle
+i need a ride at X-number X-ampm
+i need a ride at X-number X-ampm
+i need a ride at X-number X-ampm
+i want to go to X-stop
+i want to go to X-stop
+i want to go to X-stop
+i want to go to X-stop
+i want to go to X-stop
+i want to go to X-stop
+time of arrival
+time of arrival
+time of arrival
+i want to travel to X-stop
+i want to travel to X-stop
+i want to travel to X-stop
+instead of going to X-stop i'd like to g-
+instead of going to X-stop i'd like to g-
+instead of going to X-stop i'd like to g-
+my destination is X-stop
+my destination is X-stop
+my destination is X-stop
+and what is the connection in an X-number an hour
+and what is the connection in an X-number an hour
+and what is the connection in an X-number an hour
+what is the distance of this trip
+what is the distance of this trip
+what is the distance of this trip
+is there a connection by X-vehicle
+is there a connection by X-vehicle
+is there a connection by X-vehicle
+i want to know how to travel from X-stop to X-stop
+i want to know how to travel from X-stop to X-stop
+i want to know how to travel from X-stop to X-stop
+to X-stop at X-number o'clock
+to X-stop at X-number o'clock
+to X-stop at X-number o'clock
+i want to leave at X-number X-ampm
+i want to leave at X-number X-ampm
+i want to leave at X-number X-ampm
+and what time would the next connection be
+and what time would the next connection be
+and what time would the next connection be
+can i get an alternative at X-number in the X-ampm
+can i get an alternative at X-number in the X-ampm
+can i get an alternative at X-number in the X-ampm
+i want to arrive at X-stop
+i want to arrive at X-stop
+i want to arrive at X-stop
+going to X-stop
+going to X-stop
+going to X-stop
+yes i want to depart from X-stop
+yes i want to depart from X-stop
+yes i want to depart from X-stop
+to X-stop at X-number o'clock
+to X-stop at X-number o'clock
+to X-stop at X-number o'clock
+what about from X-stop to X-stop
+what about from X-stop to X-stop
+what about from X-stop to X-stop
+connection by X-vehicle
+connection by X-vehicle
+connection by X-vehicle
+yes i'm looking for transportation from X-stop to
+yes i'm looking for transportation from X-stop to
+yes i'm looking for transportation from X-stop to
+what about later options
+what about later options
+what about later options
+how long will the ride take
+how long will the ride take
+how long will the ride take
+is there a connection by X-vehicle
+is there a connection by X-vehicle
+is there a connection by X-vehicle
+i am traveling to X-stop
+i am traveling to X-stop
+i am traveling to X-stop
+i want to arrive in X-stop
+i want to arrive in X-stop
+i want to arrive in X-stop
+change the destination to X-stop
+change the destination to X-stop
+change the destination to X-stop
+when will i arrive
+when will i arrive
+when will i arrive
+i want to arrive in X-stop
+i want to arrive in X-stop
+i want to arrive in X-stop
+i rather take the X-vehicle
+i rather take the X-vehicle
+i rather take the X-vehicle
+is there a X-vehicle option
+is there a X-vehicle option
+is there a X-vehicle option
+how long will it take to get to the destination and what time will you get there
+how long will it take to get to the destination and what time will you get there
+how long will it take to get to the destination and what time will you get there
+yes i would like to travel from X-stop and go to X-stop
+yes i would like to travel from X-stop and go to X-stop
+yes i would like to travel from X-stop and go to X-stop
+connection in X-number minutes
+connection in X-number minutes
+connection in X-number minutes
+i want to change my destination to X-stop
+i want to change my destination to X-stop
+i want to change my destination to X-stop
+the distance of the trip
+the distance of the trip
+the distance of the trip
+i want to find a connection from X-stop queen to X-stop
+i want to find a connection from X-stop queen to X-stop
+i want to find a connection from X-stop queen to X-stop
+what is the duration of that
+what is the duration of that
+what is the duration of that
+i am starting from X-stop and heading towards X-stop
+i am starting from X-stop and heading towards X-stop
+i am starting from X-stop and heading towards X-stop
+how much time is needed for the journey and
+how much time is needed for the journey and
+how much time is needed for the journey and
+i wanna leave at X-number X-ampm by X-vehicle
+i wanna leave at X-number X-ampm by X-vehicle
+i wanna leave at X-number X-ampm by X-vehicle
+port authority to X-stop
+port authority to X-stop
+port authority to X-stop
+what's the connection at X-number
+what's the connection at X-number
+what's the connection at X-number
+i would like my departure time at X-number X-ampm
+i would like my departure time at X-number X-ampm
+i would like my departure time at X-number X-ampm
+i want to go to X-stop by 
+i want to go to X-stop by 
+i want to go to X-stop by 
+do you have an alternative at a later time oh
+do you have an alternative at a later time oh
+do you have an alternative at a later time oh
+yes be at the X-vehicle
+yes be at the X-vehicle
+yes be at the X-vehicle
+i would like to leave or depart at X-number X-ampm
+i would like to leave or depart at X-number X-ampm
+i would like to leave or depart at X-number X-ampm
+X-vehicle line
+X-vehicle line
+X-vehicle line
+i would like to go from X-stop
+i would like to go from X-stop
+i would like to go from X-stop
+by X-vehicle
+by X-vehicle
+by X-vehicle
+an alternative at X-number X-ampm by X-vehicle
+an alternative at X-number X-ampm by X-vehicle
+an alternative at X-number X-ampm by X-vehicle
+i want to travel to X-stop
+i want to travel to X-stop
+i want to travel to X-stop
+yes i'd like details on a trip from X-stop to X-stop
+yes i'd like details on a trip from X-stop to X-stop
+yes i'd like details on a trip from X-stop to X-stop
+can i get a ride at X-number X-ampm
+can i get a ride at X-number X-ampm
+can i get a ride at X-number X-ampm
+last connection
+last connection
+last connection
+from X-stop to X-stop
+from X-stop to X-stop
+from X-stop to X-stop
+okay can i get another ride
+okay can i get another ride
+okay can i get another ride
+no i want to go from X-stop to X-stop
+no i want to go from X-stop to X-stop
+no i want to go from X-stop to X-stop
+i need a public transit route from departing from X-stop
+i need a public transit route from departing from X-stop
+i need a public transit route from departing from X-stop
+my destination is X-stop c o r t l a n d t st-
+my destination is X-stop c o r t l a n d t st-
+my destination is X-stop c o r t l a n d t st-
+i need to know the duration of the trip
+i need to know the duration of the trip
+i need to know the duration of the trip
+i would like to go from X-stop to
+i would like to go from X-stop to
+i would like to go from X-stop to
+how many transfers and what is the distance of the trip
+how many transfers and what is the distance of the trip
+how many transfers and what is the distance of the trip
+to X-stop
+to X-stop
+to X-stop
+last connection
+last connection
+last connection
+street at X-number o'clock X-ampm
+street at X-number o'clock X-ampm
+street at X-number o'clock X-ampm
+what is the duration and arrival time
+what is the duration and arrival time
+what is the duration and arrival time
+connection by X-vehicle
+connection by X-vehicle
+connection by X-vehicle
+i want to find a connection from X-stop queen to X-stop
+i want to find a connection from X-stop queen to X-stop
+i want to find a connection from X-stop queen to X-stop
+yes i would like to travel from X-stop to X-stop 
+yes i would like to travel from X-stop to X-stop 
+yes i would like to travel from X-stop to X-stop 
+yes be at the X-vehicle
+yes be at the X-vehicle
+yes be at the X-vehicle
+search for a route X-number X-ampm to X-stop
+search for a route X-number X-ampm to X-stop
+search for a route X-number X-ampm to X-stop
+what time will i get to X-stop
+what time will i get to X-stop
+what time will i get to X-stop
+what time will i be at my destination
+what time will i be at my destination
+what time will i be at my destination
+are there any connections
+are there any connections
+are there any connections
+is there an option at X-number X-ampm
+is there an option at X-number X-ampm
+is there an option at X-number X-ampm
+i need to know how to depart from X-stop and finish at X-stop
+i need to know how to depart from X-stop and finish at X-stop
+i need to know how to depart from X-stop and finish at X-stop
+X-number X-ampm schedule by X-vehicle
+X-number X-ampm schedule by X-vehicle
+X-number X-ampm schedule by X-vehicle
+X-number X-ampm take the X-vehicle
+X-number X-ampm take the X-vehicle
+X-number X-ampm take the X-vehicle
+the second option
+the second option
+the second option
+i need to go to X-stop
+i need to go to X-stop
+i need to go to X-stop
+i'd like to leave at X-number X-ampm
+i'd like to leave at X-number X-ampm
+i'd like to leave at X-number X-ampm
+at X-number X-ampm
+at X-number X-ampm
+at X-number X-ampm
+what about X-number in the X-ampm
+what about X-number in the X-ampm
+what about X-number in the X-ampm
+i need information about a X-number o'clock ride but
+i need information about a X-number o'clock ride but
+i need information about a X-number o'clock ride but
+ask about the time requirement
+ask about the time requirement
+ask about the time requirement
+is there another alternative
+is there another alternative
+is there another alternative
+yes i need a ride from X-stop to X-stop
+yes i need a ride from X-stop to X-stop
+yes i need a ride from X-stop to X-stop
+distance
+distance
+distance
+is there an option at X-number X-ampm
+is there an option at X-number X-ampm
+is there an option at X-number X-ampm
+yes i would like to leave later at X-number X-ampm
+yes i would like to leave later at X-number X-ampm
+yes i would like to leave later at X-number X-ampm
+yes how do i get from X-stop to X-stop
+yes how do i get from X-stop to X-stop
+yes how do i get from X-stop to X-stop
+i want to go i want to go from X-stop
+i want to go i want to go from X-stop
+i want to go i want to go from X-stop
+can i how about if i leave at X-number X-ampm
+can i how about if i leave at X-number X-ampm
+can i how about if i leave at X-number X-ampm
+is there a connection by X-vehicle
+is there a connection by X-vehicle
+is there a connection by X-vehicle
+i need a pub- public transit leaving from X-stop
+i need a pub- public transit leaving from X-stop
+i need a pub- public transit leaving from X-stop
+can i get a connection at a later time
+can i get a connection at a later time
+can i get a connection at a later time
+what connection will i be in X-number an hour
+what connection will i be in X-number an hour
+what connection will i be in X-number an hour
+can i get a schedule at X-number X-ampm
+can i get a schedule at X-number X-ampm
+can i get a schedule at X-number X-ampm
+i would rather go by X-vehicle
+i would rather go by X-vehicle
+i would rather go by X-vehicle
+is there an option at X-number X-ampm
+is there an option at X-number X-ampm
+is there an option at X-number X-ampm
+i would like to go to X-stop f-
+i would like to go to X-stop f-
+i would like to go to X-stop f-
+find X-vehicle connection from X-stop to X-stop
+find X-vehicle connection from X-stop to X-stop
+find X-vehicle connection from X-stop to X-stop
+i need to find a X-vehicle connection
+i need to find a X-vehicle connection
+i need to find a X-vehicle connection
+X-number o'clock from
+X-number o'clock from
+X-number o'clock from
+connection from X-stop to X-stop
+connection from X-stop to X-stop
+connection from X-stop to X-stop
+i'd like to find out connection at X-number X-ampm
+i'd like to find out connection at X-number X-ampm
+i'd like to find out connection at X-number X-ampm
+yes X-number X-ampm
+yes X-number X-ampm
+yes X-number X-ampm
+X-number o'clock
+X-number o'clock
+X-number o'clock
+i'm traveling from X-stop to X-stop
+i'm traveling from X-stop to X-stop
+i'm traveling from X-stop to X-stop
+destination is X-stop
+destination is X-stop
+destination is X-stop
+can i go from X-stop to X-stop
+can i go from X-stop to X-stop
+can i go from X-stop to X-stop
+yes i'd like to travel from X-stop to X-stop
+yes i'd like to travel from X-stop to X-stop
+yes i'd like to travel from X-stop to X-stop
+is there a connection after that
+is there a connection after that
+is there a connection after that
+option at a later time
+option at a later time
+option at a later time
+is there an alternative at X-number in the X-ampm
+is there an alternative at X-number in the X-ampm
+is there an alternative at X-number in the X-ampm
+what's the connection at X-number
+what's the connection at X-number
+what's the connection at X-number
+no i want to arrive at X-stop
+no i want to arrive at X-stop
+no i want to arrive at X-stop
+is there an alternative later time
+is there an alternative later time
+is there an alternative later time
+hey what if i am going to X-stop
+hey what if i am going to X-stop
+hey what if i am going to X-stop
+i'm changing go to X-stop
+i'm changing go to X-stop
+i'm changing go to X-stop
+yes i'm looking for transportation from X-stop to
+yes i'm looking for transportation from X-stop to
+yes i'm looking for transportation from X-stop to
+starting from X-stop
+starting from X-stop
+starting from X-stop
+is there a X-vehicle connection
+is there a X-vehicle connection
+is there a X-vehicle connection
+transit itinerary from X-stop
+transit itinerary from X-stop
+transit itinerary from X-stop
+is there a schedule at X-number o'clock X-ampm
+is there a schedule at X-number o'clock X-ampm
+is there a schedule at X-number o'clock X-ampm
+yes i want to depart from X-stop yes
+yes i want to depart from X-stop yes
+yes i want to depart from X-stop yes
+X-stop to X-stop
+X-stop to X-stop
+X-stop to X-stop
+i want to find a connection from X-stop man
+i want to find a connection from X-stop man
+i want to find a connection from X-stop man
+yes i'd like to travel from X-stop to X-stop
+yes i'd like to travel from X-stop to X-stop
+yes i'd like to travel from X-stop to X-stop
+i want to travel from X-stop
+i want to travel from X-stop
+i want to travel from X-stop
+yes i am still here can we take the X-vehicle 
+yes i am still here can we take the X-vehicle 
+yes i am still here can we take the X-vehicle 
+from X-stop 
+from X-stop 
+from X-stop 
+instead of going to X-stop i'd like to g-
+instead of going to X-stop i'd like to g-
+instead of going to X-stop i'd like to g-
+ok how long would the trip be
+ok how long would the trip be
+ok how long would the trip be
+can i get information about a connection at X-number X-ampm
+can i get information about a connection at X-number X-ampm
+can i get information about a connection at X-number X-ampm
+X-stop to bleeker street
+X-stop to bleeker street
+X-stop to bleeker street
+no i want a X-vehicle option
+no i want a X-vehicle option
+no i want a X-vehicle option
+X-vehicle connection
+X-vehicle connection
+X-vehicle connection
+i need to know how to start from X-stop and get to X-stop
+i need to know how to start from X-stop and get to X-stop
+i need to know how to start from X-stop and get to X-stop
+i want to leave at X-number X-ampm by X-vehicle
+i want to leave at X-number X-ampm by X-vehicle
+i want to leave at X-number X-ampm by X-vehicle
+is there an alternative at X-number in the X-ampm
+is there an alternative at X-number in the X-ampm
+is there an alternative at X-number in the X-ampm
+yes i'm looking for transportation from X-stop to
+yes i'm looking for transportation from X-stop to
+yes i'm looking for transportation from X-stop to
+there a X-number o'clock schedule
+there a X-number o'clock schedule
+there a X-number o'clock schedule
+i need to find out the connection in X-number minutes
+i need to find out the connection in X-number minutes
+i need to find out the connection in X-number minutes
+how long is it
+how long is it
+how long is it
+is there an alternate time later
+is there an alternate time later
+is there an alternate time later
+i need a X-vehicle connection from X-stop to X-stop
+i need a X-vehicle connection from X-stop to X-stop
+i need a X-vehicle connection from X-stop to X-stop
+yes i'd like details on a trip from X-stop to X-stop
+yes i'd like details on a trip from X-stop to X-stop
+yes i'd like details on a trip from X-stop to X-stop
+is there a connection at X-number in the X-ampm
+is there a connection at X-number in the X-ampm
+is there a connection at X-number in the X-ampm
+change to X-stop
+change to X-stop
+change to X-stop
+an alternative at X-number X-ampm by X-vehicle
+an alternative at X-number X-ampm by X-vehicle
+an alternative at X-number X-ampm by X-vehicle
+i want to find a connection from X-stop
+i want to find a connection from X-stop
+i want to find a connection from X-stop
+is there a connection in X-number an hour
+is there a connection in X-number an hour
+is there a connection in X-number an hour
+depart in X-number minutes
+depart in X-number minutes
+depart in X-number minutes
+i would like to depart from X-stop and go to X-stop
+i would like to depart from X-stop and go to X-stop
+i would like to depart from X-stop and go to X-stop
+connection in X-number an hour
+connection in X-number an hour
+connection in X-number an hour
+yes i would like to ride from X-stop to X-stop
+yes i would like to ride from X-stop to X-stop
+yes i would like to ride from X-stop to X-stop
+from X-stop t-
+from X-stop t-
+from X-stop t-
+how to travel from X-stop
+how to travel from X-stop
+how to travel from X-stop
+to X-stop
+to X-stop
+to X-stop
+ok and i need to find out the connection in a X-number an hour
+ok and i need to find out the connection in a X-number an hour
+ok and i need to find out the connection in a X-number an hour
+starting from X-stop
+starting from X-stop
+starting from X-stop
+how do i get from X-stop to X-stop
+how do i get from X-stop to X-stop
+how do i get from X-stop to X-stop
+can i get a schedule at X-number X-ampm
+can i get a schedule at X-number X-ampm
+can i get a schedule at X-number X-ampm
+yes i would like to go from X-stop to X-stop
+yes i would like to go from X-stop to X-stop
+yes i would like to go from X-stop to X-stop
+and how long will it take to get there
+and how long will it take to get there
+and how long will it take to get there
+is there an alternative later time
+is there an alternative later time
+is there an alternative later time
+i want to go to X-stop
+i want to go to X-stop
+i want to go to X-stop
+from X-stop t-
+from X-stop t-
+from X-stop t-
+yes i want to depart from X-stop yes
+yes i want to depart from X-stop yes
+yes i want to depart from X-stop yes
+i'm traveling from X-stop
+i'm traveling from X-stop
+i'm traveling from X-stop
+no i want to go to X-stop
+no i want to go to X-stop
+no i want to go to X-stop
+from X-stop t-
+from X-stop t-
+from X-stop t-
+i want to go i want to go from X-stop
+i want to go i want to go from X-stop
+i want to go i want to go from X-stop
+is there a connection in X-number minutes
+is there a connection in X-number minutes
+is there a connection in X-number minutes
+yes i want to go from X-stop to X-stop on the X-vehicle
+yes i want to go from X-stop to X-stop on the X-vehicle
+yes i want to go from X-stop to X-stop on the X-vehicle
+use X-vehicle
+use X-vehicle
+use X-vehicle
+at X-number X-ampm
+at X-number X-ampm
+at X-number X-ampm
+okay what if i'd rather ride the X-vehicle
+okay what if i'd rather ride the X-vehicle
+okay what if i'd rather ride the X-vehicle
+alright if i go by X-vehicle
+alright if i go by X-vehicle
+alright if i go by X-vehicle
+i am traveling to X-stop
+i am traveling to X-stop
+i am traveling to X-stop
+how long will the journey take
+how long will the journey take
+how long will the journey take
+i want to go from X-stop
+i want to go from X-stop
+i want to go from X-stop
+alright if i go by X-vehicle
+alright if i go by X-vehicle
+alright if i go by X-vehicle
+an alternative at X-number X-ampm by X-vehicle
+an alternative at X-number X-ampm by X-vehicle
+an alternative at X-number X-ampm by X-vehicle
+i would like the X-vehicle connection from X-stop
+i would like the X-vehicle connection from X-stop
+i would like the X-vehicle connection from X-stop
+i want to arrive at X-stop how long will it take
+i want to arrive at X-stop how long will it take
+i want to arrive at X-stop how long will it take
+i would like to travel from X-stop to X-stop
+i would like to travel from X-stop to X-stop
+i would like to travel from X-stop to X-stop
+no i want to go from X-stop to X-stop
+no i want to go from X-stop to X-stop
+no i want to go from X-stop to X-stop
+yes how do i get from X-stop to X-stop
+yes how do i get from X-stop to X-stop
+yes how do i get from X-stop to X-stop
+i need to go from X-stop to X-stop
+i need to go from X-stop to X-stop
+i need to go from X-stop to X-stop
+i wanna leave at X-number X-ampm by X-vehicle
+i wanna leave at X-number X-ampm by X-vehicle
+i wanna leave at X-number X-ampm by X-vehicle
+yes i like to travel to X-stop
+yes i like to travel to X-stop
+yes i like to travel to X-stop
+i need -tation route departing from X-stop
+i need -tation route departing from X-stop
+i need -tation route departing from X-stop
+and i'm going to X-stop
+and i'm going to X-stop
+and i'm going to X-stop

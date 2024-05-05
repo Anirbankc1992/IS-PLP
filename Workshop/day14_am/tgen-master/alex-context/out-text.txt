@@ -1,0 +1,1116 @@
+Take line X X at X from X direction X .
+Take line X X at X from X direction X .
+Take line X X at X from X direction X .
+Take line X X at X from X direction X .
+Take line X X at X from X direction X .
+Take line X X at X from X direction X .
+I 'm sorry there is no X connection .
+I 'm sorry there is no X connection .
+I 'm sorry there is no X connection .
+Take X from where to where ?
+Take X from where to where ?
+Take X from where to where ?
+A X from X to X is not found .
+A X from X to X is not found .
+A X from X to X is not found .
+Yes , in the X .
+Yes , in the X .
+Yes , in the X .
+Not found from X to X .
+Not found from X to X .
+Not found from X to X .
+From where to where ?
+From where to where ?
+From where to where ?
+Take X from where to where ?
+Take X from where to where ?
+Take X from where to where ?
+It will take X .
+It will take X .
+It will take X .
+Not found from X .
+Not found from X .
+Not found from X .
+Take line X X at X from X direction X .
+Take line X X at X from X direction X .
+Take line X X at X from X direction X .
+From X to where ?
+From X to where ?
+From X to where ?
+It will take X .
+It will take X .
+It will take X .
+A X from X to X is not found .
+A X from X to X is not found .
+A X from X to X is not found .
+Take line X X at X from X direction X .
+Take line X X at X from X direction X .
+Take line X X at X from X direction X .
+Take line X X at X from X direction X .
+Take line X X at X from X direction X .
+Take line X X at X from X direction X .
+From X to X .
+From X to X .
+From X to X .
+From where to where ?
+From where to where ?
+From where to where ?
+From X to where ?
+From X to where ?
+From X to where ?
+Take line X X at X from X direction X .
+Take line X X at X from X direction X .
+Take line X X at X from X direction X .
+You want a connection at X X .
+You want a connection at X X .
+You want a connection at X X .
+From where to X ?
+From where to X ?
+From where to X ?
+From where to where ?
+From where to where ?
+From where to where ?
+The next connection is not found .
+The next connection is not found .
+The next connection is not found .
+Next connection .
+Next connection .
+Next connection .
+From where to where ?
+From where to where ?
+From where to where ?
+The distance is X .
+The distance is X .
+The distance is X .
+From X to where ?
+From X to where ?
+From X to where ?
+In X minutes .
+In X minutes .
+In X minutes .
+From where to where ?
+From where to where ?
+From where to where ?
+Take line X X at X from X direction X .
+Take line X X at X from X direction X .
+Take line X X at X from X direction X .
+The next connection is not found .
+The next connection is not found .
+The next connection is not found .
+From where to where ?
+From where to where ?
+From where to where ?
+From X to X .
+From X to X .
+From X to X .
+From where to X ?
+From where to X ?
+From where to X ?
+Where are you leaving from and where do you want to go to at X ?
+Where are you leaving from and where do you want to go to at X ?
+Where are you leaving from and where do you want to go to at X ?
+I 'm sorry there is no X connection .
+I 'm sorry there is no X connection .
+I 'm sorry there is no X connection .
+From where ?
+From where ?
+From where ?
+From where ?
+From where ?
+From where ?
+Sorry , a X X X is not found .
+Sorry , a X X X is not found .
+Sorry , a X X X is not found .
+From where ?
+From where ?
+From where ?
+At X X , from what station and to what direction ?
+At X X , from what station and to what direction ?
+At X X , from what station and to what direction ?
+Take line X X at X from X direction X .
+Take line X X at X from X direction X .
+Take line X X at X from X direction X .
+It will take X .
+It will take X .
+It will take X .
+Take line X X at X from X direction X .
+Take line X X at X from X direction X .
+Take line X X at X from X direction X .
+Not found at X X *AMPM .
+Not found at X X *AMPM .
+Not found at X X *AMPM .
+From where to where ?
+From where to where ?
+From where to where ?
+You want a connection at X X .
+You want a connection at X X .
+You want a connection at X X .
+From where to where ?
+From where to where ?
+From where to where ?
+You want to go to X .
+You want to go to X .
+You want to go to X .
+From where to X ?
+From where to X ?
+From where to X ?
+Not found to X .
+Not found to X .
+Not found to X .
+You will arrive at X .
+You will arrive at X .
+You will arrive at X .
+You want to go to X .
+You want to go to X .
+You want to go to X .
+Take line X X at X from X direction X .
+Take line X X at X from X direction X .
+Take line X X at X from X direction X .
+Not found from X .
+Not found from X .
+Not found from X .
+Take line X X at X from X direction X .
+Take line X X at X from X direction X .
+Take line X X at X from X direction X .
+I 'm sorry there is no X connection .
+I 'm sorry there is no X connection .
+I 'm sorry there is no X connection .
+Not found from X .
+Not found from X .
+Not found from X .
+You want to go to X .
+You want to go to X .
+You want to go to X .
+Take line X X at X from X direction X .
+Take line X X at X from X direction X .
+Take line X X at X from X direction X .
+Where do you want to go ?
+Where do you want to go ?
+Where do you want to go ?
+Not found from X to X .
+Not found from X to X .
+Not found from X to X .
+From where to X ?
+From where to X ?
+From where to X ?
+A X from X to X is not found .
+A X from X to X is not found .
+A X from X to X is not found .
+It will take X .
+It will take X .
+It will take X .
+I 'm sorry , I can not find a connection at X .
+I 'm sorry , I can not find a connection at X .
+I 'm sorry , I can not find a connection at X .
+From where to X ?
+From where to X ?
+From where to X ?
+Take X from where to where ?
+Take X from where to where ?
+Take X from where to where ?
+You want to take the X .
+You want to take the X .
+You want to take the X .
+Take line X X at X from X direction X .
+Take line X X at X from X direction X .
+Take line X X at X from X direction X .
+Take line X X at X from X direction X .
+Take line X X at X from X direction X .
+Take line X X at X from X direction X .
+Take line X X at X from X direction X .
+Take line X X at X from X direction X .
+Take line X X at X from X direction X .
+You want to go to X .
+You want to go to X .
+You want to go to X .
+It will take X .
+It will take X .
+It will take X .
+From X to X .
+From X to X .
+From X to X .
+Take X from where to where ?
+Take X from where to where ?
+Take X from where to where ?
+From where to where ?
+From where to where ?
+From where to where ?
+Not found from X to X .
+Not found from X to X .
+Not found from X to X .
+It will take X and you will arrive at X .
+It will take X and you will arrive at X .
+It will take X and you will arrive at X .
+Take line X X at X from X direction X .
+Take line X X at X from X direction X .
+Take line X X at X from X direction X .
+From X to X .
+From X to X .
+From X to X .
+From X to where ?
+From X to where ?
+From X to where ?
+Take X from where to where ?
+Take X from where to where ?
+Take X from where to where ?
+Not found from X to X .
+Not found from X to X .
+Not found from X to X .
+Take line X X at X from X direction X .
+Take line X X at X from X direction X .
+Take line X X at X from X direction X .
+From X to X .
+From X to X .
+From X to X .
+Where do you want to go ?
+Where do you want to go ?
+Where do you want to go ?
+Next connection .
+Next connection .
+Next connection .
+Take line X X at X from X direction X .
+Take line X X at X from X direction X .
+Take line X X at X from X direction X .
+Take line X X at X from X direction X .
+Take line X X at X from X direction X .
+Take line X X at X from X direction X .
+From where to where ?
+From where to where ?
+From where to where ?
+From where to X ?
+From where to X ?
+From where to X ?
+Take line X X at X from X direction X .
+Take line X X at X from X direction X .
+Take line X X at X from X direction X .
+From X to X .
+From X to X .
+From X to X .
+It will take X .
+It will take X .
+It will take X .
+From where to X ?
+From where to X ?
+From where to X ?
+Not found to X .
+Not found to X .
+Not found to X .
+From X to X .
+From X to X .
+From X to X .
+From where to where ?
+From where to where ?
+From where to where ?
+From where ?
+From where ?
+From where ?
+Next connection .
+Next connection .
+Next connection .
+In X minutes , from what station and to what direction ?
+In X minutes , from what station and to what direction ?
+In X minutes , from what station and to what direction ?
+It will take X .
+It will take X .
+It will take X .
+You want to go to X .
+You want to go to X .
+You want to go to X .
+Not found from X .
+Not found from X .
+Not found from X .
+You want to take the X .
+You want to take the X .
+You want to take the X .
+From where to where ?
+From where to where ?
+From where to where ?
+You want to go to X .
+You want to go to X .
+You want to go to X .
+Yes , from X .
+Yes , from X .
+Yes , from X .
+In X minutes , from what station and to what direction ?
+In X minutes , from what station and to what direction ?
+In X minutes , from what station and to what direction ?
+Not found from X .
+Not found from X .
+Not found from X .
+You want to go to X .
+You want to go to X .
+You want to go to X .
+From where to where ?
+From where to where ?
+From where to where ?
+From X to X .
+From X to X .
+From X to X .
+Next connection .
+Next connection .
+Next connection .
+Not found from X .
+Not found from X .
+Not found from X .
+Not found from X .
+Not found from X .
+Not found from X .
+Take line X X at X from X direction X .
+Take line X X at X from X direction X .
+Take line X X at X from X direction X .
+It will take X .
+It will take X .
+It will take X .
+From X to where ?
+From X to where ?
+From X to where ?
+Take line X X at X from X direction X .
+Take line X X at X from X direction X .
+Take line X X at X from X direction X .
+From where to X ?
+From where to X ?
+From where to X ?
+At X X , from what station and to what direction ?
+At X X , from what station and to what direction ?
+At X X , from what station and to what direction ?
+It will take X and it will take X .
+It will take X and it will take X .
+It will take X and it will take X .
+Take line X X at X from X direction X .
+Take line X X at X from X direction X .
+Take line X X at X from X direction X .
+From where to X ?
+From where to X ?
+From where to X ?
+You want to take the X .
+You want to take the X .
+You want to take the X .
+You want to go to X .
+You want to go to X .
+You want to go to X .
+From where to where ?
+From where to where ?
+From where to where ?
+Take line X X at X from X direction X .
+Take line X X at X from X direction X .
+Take line X X at X from X direction X .
+In X minutes , from what station and to what direction ?
+In X minutes , from what station and to what direction ?
+In X minutes , from what station and to what direction ?
+The next connection is not found .
+The next connection is not found .
+The next connection is not found .
+You want to take the X .
+You want to take the X .
+You want to take the X .
+A X from X to X is not found .
+A X from X to X is not found .
+A X from X to X is not found .
+Take line X X at X from X direction X .
+Take line X X at X from X direction X .
+Take line X X at X from X direction X .
+The next connection is not found .
+The next connection is not found .
+The next connection is not found .
+Take line X X at X from X direction X .
+Take line X X at X from X direction X .
+Take line X X at X from X direction X .
+From where to X ?
+From where to X ?
+From where to X ?
+It takes X to X .
+It takes X to X .
+It takes X to X .
+Where do you want to go ?
+Where do you want to go ?
+Where do you want to go ?
+At X X , from what station and to what direction ?
+At X X , from what station and to what direction ?
+At X X , from what station and to what direction ?
+Take line X X at X from X direction X .
+Take line X X at X from X direction X .
+Take line X X at X from X direction X .
+Take line X X at X from X direction X .
+Take line X X at X from X direction X .
+Take line X X at X from X direction X .
+Take X from where to X ?
+Take X from where to X ?
+Take X from where to X ?
+You want to take the X .
+You want to take the X .
+You want to take the X .
+You want to go to X .
+You want to go to X .
+You want to go to X .
+Take line X X at X from X direction X .
+Take line X X at X from X direction X .
+Take line X X at X from X direction X .
+Not found from X to X .
+Not found from X to X .
+Not found from X to X .
+It will take X and you will arrive at X .
+It will take X and you will arrive at X .
+It will take X and you will arrive at X .
+From where ?
+From where ?
+From where ?
+From where to X ?
+From where to X ?
+From where to X ?
+Take X from where to where ?
+Take X from where to where ?
+Take X from where to where ?
+It will take X and you will arrive at X .
+It will take X and you will arrive at X .
+It will take X and you will arrive at X .
+From where to where ?
+From where to where ?
+From where to where ?
+I 'm sorry there is no X connection .
+I 'm sorry there is no X connection .
+I 'm sorry there is no X connection .
+Where do you want to go ?
+Where do you want to go ?
+Where do you want to go ?
+Not found to X .
+Not found to X .
+Not found to X .
+You want a connection at X X .
+You want a connection at X X .
+You want a connection at X X .
+I 'm sorry there is no X connection .
+I 'm sorry there is no X connection .
+I 'm sorry there is no X connection .
+Take line X X at X from X direction X .
+Take line X X at X from X direction X .
+Take line X X at X from X direction X .
+Take line X X at X from X direction X .
+Take line X X at X from X direction X .
+Take line X X at X from X direction X .
+You want to go to X .
+You want to go to X .
+You want to go to X .
+You will arrive at X .
+You will arrive at X .
+You will arrive at X .
+From X to X .
+From X to X .
+From X to X .
+Not found at X X *AMPM .
+Not found at X X *AMPM .
+Not found at X X *AMPM .
+Take line X X at X from X direction X .
+Take line X X at X from X direction X .
+Take line X X at X from X direction X .
+You want to go to X .
+You want to go to X .
+You want to go to X .
+From where to where ?
+From where to where ?
+From where to where ?
+Yes , from X .
+Yes , from X .
+Yes , from X .
+It will take X .
+It will take X .
+It will take X .
+Take X from where to where ?
+Take X from where to where ?
+Take X from where to where ?
+You want to take the X .
+You want to take the X .
+You want to take the X .
+Take line X X at X from X direction X .
+Take line X X at X from X direction X .
+Take line X X at X from X direction X .
+Not found to X .
+Not found to X .
+Not found to X .
+From where ?
+From where ?
+From where ?
+You will arrive at X .
+You will arrive at X .
+You will arrive at X .
+Not found to X .
+Not found to X .
+Not found to X .
+You want to go to X .
+You want to go to X .
+You want to go to X .
+From where ?
+From where ?
+From where ?
+From where to where ?
+From where to where ?
+From where to where ?
+The distance is X .
+The distance is X .
+The distance is X .
+I 'm sorry there is no X connection .
+I 'm sorry there is no X connection .
+I 'm sorry there is no X connection .
+Not found from X to X .
+Not found from X to X .
+Not found from X to X .
+Not found at X to X .
+Not found at X to X .
+Not found at X to X .
+Not found at X X *AMPM .
+Not found at X X *AMPM .
+Not found at X X *AMPM .
+The next connection at X .
+The next connection at X .
+The next connection at X .
+You want a connection at X X .
+You want a connection at X X .
+You want a connection at X X .
+From where ?
+From where ?
+From where ?
+You want to go to X .
+You want to go to X .
+You want to go to X .
+Not found from X .
+Not found from X .
+Not found from X .
+You want to go to X at X .
+You want to go to X at X .
+You want to go to X at X .
+Not found from X to X .
+Not found from X to X .
+Not found from X to X .
+I 'm sorry there is no X connection .
+I 'm sorry there is no X connection .
+I 'm sorry there is no X connection .
+From X to where ?
+From X to where ?
+From X to where ?
+Next connection .
+Next connection .
+Next connection .
+It will take X .
+It will take X .
+It will take X .
+Take line X X at X from X direction X .
+Take line X X at X from X direction X .
+Take line X X at X from X direction X .
+You want to go to X .
+You want to go to X .
+You want to go to X .
+From where ?
+From where ?
+From where ?
+You want to go to X .
+You want to go to X .
+You want to go to X .
+You will arrive at X .
+You will arrive at X .
+You will arrive at X .
+From where to X ?
+From where to X ?
+From where to X ?
+Take line X X at X from X direction X .
+Take line X X at X from X direction X .
+Take line X X at X from X direction X .
+Take X from where to where ?
+Take X from where to where ?
+Take X from where to where ?
+It will take X and you will arrive at X .
+It will take X and you will arrive at X .
+It will take X and you will arrive at X .
+Take line X X at X from X direction X .
+Take line X X at X from X direction X .
+Take line X X at X from X direction X .
+From where to where ?
+From where to where ?
+From where to where ?
+Take line X X at X from X direction X .
+Take line X X at X from X direction X .
+Take line X X at X from X direction X .
+The distance is X .
+The distance is X .
+The distance is X .
+Take line X X at X from X direction X .
+Take line X X at X from X direction X .
+Take line X X at X from X direction X .
+It will take X .
+It will take X .
+It will take X .
+Take line X X at X from X direction X .
+Take line X X at X from X direction X .
+Take line X X at X from X direction X .
+It will take X .
+It will take X .
+It will take X .
+At X X by X , from what station and to what direction ?
+At X X by X , from what station and to what direction ?
+At X X by X , from what station and to what direction ?
+From where to X ?
+From where to X ?
+From where to X ?
+I 'm sorry , I can not find a connection at X .
+I 'm sorry , I can not find a connection at X .
+I 'm sorry , I can not find a connection at X .
+At X X , from what station and to what direction ?
+At X X , from what station and to what direction ?
+At X X , from what station and to what direction ?
+Take line X X at X from X direction X .
+Take line X X at X from X direction X .
+Take line X X at X from X direction X .
+Next connection .
+Next connection .
+Next connection .
+From where to where ?
+From where to where ?
+From where to where ?
+Not found at X X *AMPM .
+Not found at X X *AMPM .
+Not found at X X *AMPM .
+You want to take the X .
+You want to take the X .
+You want to take the X .
+From X to where ?
+From X to where ?
+From X to where ?
+Take line X X at X from X direction X .
+Take line X X at X from X direction X .
+Take line X X at X from X direction X .
+At X X by X , from what station and to what direction ?
+At X X by X , from what station and to what direction ?
+At X X by X , from what station and to what direction ?
+Take line X X at X from X direction X .
+Take line X X at X from X direction X .
+Take line X X at X from X direction X .
+From X to X .
+From X to X .
+From X to X .
+Not found at X X *AMPM .
+Not found at X X *AMPM .
+Not found at X X *AMPM .
+Take line X X at X from X direction X .
+Take line X X at X from X direction X .
+Take line X X at X from X direction X .
+Take line X X at X from X direction X .
+Take line X X at X from X direction X .
+Take line X X at X from X direction X .
+Take line X X at X from X direction X .
+Take line X X at X from X direction X .
+Take line X X at X from X direction X .
+Not found from X to X .
+Not found from X to X .
+Not found from X to X .
+Where do you want to go ?
+Where do you want to go ?
+Where do you want to go ?
+From where ?
+From where ?
+From where ?
+It will take X .
+It will take X .
+It will take X .
+Yes , from X .
+Yes , from X .
+Yes , from X .
+Only X transfers and distance is X .
+Only X transfers and distance is X .
+Only X transfers and distance is X .
+From where to X ?
+From where to X ?
+From where to X ?
+The next connection is not found .
+The next connection is not found .
+The next connection is not found .
+From where to where ?
+From where to where ?
+From where to where ?
+It will take X and you will arrive at X .
+It will take X and you will arrive at X .
+It will take X and you will arrive at X .
+You want to take the X .
+You want to take the X .
+You want to take the X .
+From X to X .
+From X to X .
+From X to X .
+Take line X X at X from X direction X .
+Take line X X at X from X direction X .
+Take line X X at X from X direction X .
+I 'm sorry there is no X connection .
+I 'm sorry there is no X connection .
+I 'm sorry there is no X connection .
+Take line X X at X from X direction X .
+Take line X X at X from X direction X .
+Take line X X at X from X direction X .
+You want to go to X .
+You want to go to X .
+You want to go to X .
+You will arrive at X .
+You will arrive at X .
+You will arrive at X .
+Take line X X at X from X direction X .
+Take line X X at X from X direction X .
+Take line X X at X from X direction X .
+Take line X X at X from X direction X .
+Take line X X at X from X direction X .
+Take line X X at X from X direction X .
+Not found from X .
+Not found from X .
+Not found from X .
+From where to where ?
+From where to where ?
+From where to where ?
+From where to where ?
+From where to where ?
+From where to where ?
+Next connection .
+Next connection .
+Next connection .
+From where to X ?
+From where to X ?
+From where to X ?
+From where to where ?
+From where to where ?
+From where to where ?
+You want a connection at X X .
+You want a connection at X X .
+You want a connection at X X .
+You want a connection at X X .
+You want a connection at X X .
+You want a connection at X X .
+You want to leave at X .
+You want to leave at X .
+You want to leave at X .
+It will take X .
+It will take X .
+It will take X .
+Next connection .
+Next connection .
+Next connection .
+Not found from X to X .
+Not found from X to X .
+Not found from X to X .
+The distance is X .
+The distance is X .
+The distance is X .
+At X X , from what station and to what direction ?
+At X X , from what station and to what direction ?
+At X X , from what station and to what direction ?
+From where to where ?
+From where to where ?
+From where to where ?
+Take line X X at X from X direction X .
+Take line X X at X from X direction X .
+Take line X X at X from X direction X .
+Where do you want to go ?
+Where do you want to go ?
+Where do you want to go ?
+You want a connection at X X .
+You want a connection at X X .
+You want a connection at X X .
+Take X from where to where ?
+Take X from where to where ?
+Take X from where to where ?
+From X to where ?
+From X to where ?
+From X to where ?
+Next connection .
+Next connection .
+Next connection .
+A connection in X is not found .
+A connection in X is not found .
+A connection in X is not found .
+Not found at X X *AMPM .
+Not found at X X *AMPM .
+Not found at X X *AMPM .
+From where to where ?
+From where to where ?
+From where to where ?
+You want a connection at X X .
+You want a connection at X X .
+You want a connection at X X .
+Not found to X .
+Not found to X .
+Not found to X .
+Take line X X at X from X direction X .
+Take line X X at X from X direction X .
+Take line X X at X from X direction X .
+Take line X X at X from X direction X .
+Take line X X at X from X direction X .
+Take line X X at X from X direction X .
+From where to where ?
+From where to where ?
+From where to where ?
+Not found from X to X .
+Not found from X to X .
+Not found from X to X .
+You want a connection at X X .
+You want a connection at X X .
+You want a connection at X X .
+At X X , from what station and to what direction ?
+At X X , from what station and to what direction ?
+At X X , from what station and to what direction ?
+You want to leave at X .
+You want to leave at X .
+You want to leave at X .
+From X to X .
+From X to X .
+From X to X .
+You want to go to X .
+You want to go to X .
+You want to go to X .
+Not found from X to X .
+Not found from X to X .
+Not found from X to X .
+Not found from X to X .
+Not found from X to X .
+Not found from X to X .
+The next connection is not found .
+The next connection is not found .
+The next connection is not found .
+Take line X X at X from X direction X .
+Take line X X at X from X direction X .
+Take line X X at X from X direction X .
+You want a connection at X X .
+You want a connection at X X .
+You want a connection at X X .
+Where are you leaving from and where do you want to go to at X ?
+Where are you leaving from and where do you want to go to at X ?
+Where are you leaving from and where do you want to go to at X ?
+From where ?
+From where ?
+From where ?
+The next connection is not found .
+The next connection is not found .
+The next connection is not found .
+Not found to X .
+Not found to X .
+Not found to X .
+Not found to X .
+Not found to X .
+Not found to X .
+Take line X X at X from X direction X .
+Take line X X at X from X direction X .
+Take line X X at X from X direction X .
+Yes , from X .
+Yes , from X .
+Yes , from X .
+I 'm sorry there is no X connection .
+I 'm sorry there is no X connection .
+I 'm sorry there is no X connection .
+Yes , from X .
+Yes , from X .
+Yes , from X .
+Take line X X at X from X direction X .
+Take line X X at X from X direction X .
+Take line X X at X from X direction X .
+Not found from X .
+Not found from X .
+Not found from X .
+Not found from X to X .
+Not found from X to X .
+Not found from X to X .
+From X to where ?
+From X to where ?
+From X to where ?
+From X to X .
+From X to X .
+From X to X .
+Take line X X at X from X direction X .
+Take line X X at X from X direction X .
+Take line X X at X from X direction X .
+You want to take the X .
+You want to take the X .
+You want to take the X .
+Where do you want to go ?
+Where do you want to go ?
+Where do you want to go ?
+From where ?
+From where ?
+From where ?
+It will take X and X .
+It will take X and X .
+It will take X and X .
+You want a connection at X X .
+You want a connection at X X .
+You want a connection at X X .
+Take line X X at X from X direction X .
+Take line X X at X from X direction X .
+Take line X X at X from X direction X .
+From where to where ?
+From where to where ?
+From where to where ?
+Take X from where to where ?
+Take X from where to where ?
+Take X from where to where ?
+Take line X X at X from X direction X .
+Take line X X at X from X direction X .
+Take line X X at X from X direction X .
+You want a X X X .
+You want a X X X .
+You want a X X X .
+Not found at X X *AMPM .
+Not found at X X *AMPM .
+Not found at X X *AMPM .
+Yes , from X .
+Yes , from X .
+Yes , from X .
+Take line X X at X from X direction X .
+Take line X X at X from X direction X .
+Take line X X at X from X direction X .
+In X minutes .
+In X minutes .
+In X minutes .
+The distance is X .
+The distance is X .
+The distance is X .
+The next connection is not found .
+The next connection is not found .
+The next connection is not found .
+Take line X X at X from X direction X .
+Take line X X at X from X direction X .
+Take line X X at X from X direction X .
+Not found from X to X .
+Not found from X to X .
+Not found from X to X .
+You want a connection at X X .
+You want a connection at X X .
+You want a connection at X X .
+You want to go to X .
+You want to go to X .
+You want to go to X .
+Take line X X at X from X direction X .
+Take line X X at X from X direction X .
+Take line X X at X from X direction X .
+Not found from X .
+Not found from X .
+Not found from X .
+In X minutes .
+In X minutes .
+In X minutes .
+A connection in X is not found .
+A connection in X is not found .
+A connection in X is not found .
+Not found from X to X .
+Not found from X to X .
+Not found from X to X .
+A connection in X is not found .
+A connection in X is not found .
+A connection in X is not found .
+From X to X .
+From X to X .
+From X to X .
+Where do you want to go ?
+Where do you want to go ?
+Where do you want to go ?
+Take line X X at X from X direction X .
+Take line X X at X from X direction X .
+Take line X X at X from X direction X .
+Take line X X at X from X direction X .
+Take line X X at X from X direction X .
+Take line X X at X from X direction X .
+Take line X X at X from X direction X .
+Take line X X at X from X direction X .
+Take line X X at X from X direction X .
+Where do you want to go ?
+Where do you want to go ?
+Where do you want to go ?
+From X to X .
+From X to X .
+From X to X .
+Take line X X at X from X direction X .
+Take line X X at X from X direction X .
+Take line X X at X from X direction X .
+Not found from X to X .
+Not found from X to X .
+Not found from X to X .
+It will take X .
+It will take X .
+It will take X .
+Take line X X at X from X direction X .
+Take line X X at X from X direction X .
+Take line X X at X from X direction X .
+You want to go to X .
+You want to go to X .
+You want to go to X .
+Yes , from X .
+Yes , from X .
+Yes , from X .
+From X to where ?
+From X to where ?
+From X to where ?
+From X to where ?
+From X to where ?
+From X to where ?
+Not found to X .
+Not found to X .
+Not found to X .
+Take line X X at X from X direction X .
+Take line X X at X from X direction X .
+Take line X X at X from X direction X .
+Yes , from X .
+Yes , from X .
+Yes , from X .
+In X minutes .
+In X minutes .
+In X minutes .
+A X from X to X is not found .
+A X from X to X is not found .
+A X from X to X is not found .
+Take X from where to where ?
+Take X from where to where ?
+Take X from where to where ?
+From where to where ?
+From where to where ?
+From where to where ?
+You want to take the X .
+You want to take the X .
+You want to take the X .
+Take line X X at X from X direction X .
+Take line X X at X from X direction X .
+Take line X X at X from X direction X .
+Not found to X .
+Not found to X .
+Not found to X .
+It will take X .
+It will take X .
+It will take X .
+Yes , from X .
+Yes , from X .
+Yes , from X .
+You want to take the X .
+You want to take the X .
+You want to take the X .
+A X X X is not found .
+A X X X is not found .
+A X X X is not found .
+Where do you want to go ?
+Where do you want to go ?
+Where do you want to go ?
+It will take X .
+It will take X .
+It will take X .
+Not found from X to X .
+Not found from X to X .
+Not found from X to X .
+From X to X .
+From X to X .
+From X to X .
+Not found from X to X .
+Not found from X to X .
+Not found from X to X .
+From X to X .
+From X to X .
+From X to X .
+You want a X X X .
+You want a X X X .
+You want a X X X .
+From where to X ?
+From where to X ?
+From where to X ?
+Yes , from X .
+Yes , from X .
+Yes , from X .
+From where to X ?
+From where to X ?
+From where to X ?

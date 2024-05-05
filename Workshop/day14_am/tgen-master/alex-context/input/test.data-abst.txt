@@ -1,0 +1,1116 @@
+line=1:4-5	direction=Inwood:7-8	from_stop="Columbus Circle":9-10	departure_time="8:16am":2-3	vehicle=subway:3-4
+line=1:2-3	direction=Inwood:10-11	from_stop="Columbus Circle":8-9	departure_time="8:16am":6-7	vehicle=subway:0-1
+line=1:3-4	direction=Inwood:7-8	from_stop="Columbus Circle":5-6	departure_time="8:16am":9-10	vehicle=subway:1-2
+vehicle=bus:9-10	line=M104:11-12	departure_time="4:11pm":7-8	from_stop="Cathedral Parkway":4-5	direction="Grand Street":2-3
+vehicle=bus:3-4	line=M104:13-14	departure_time="4:11pm":5-6	from_stop="Cathedral Parkway":8-9	direction="Grand Street":10-11
+vehicle=bus:1-2	line=M104:3-4	departure_time="4:11pm":5-6	from_stop="Cathedral Parkway":7-8	direction="Grand Street":9-10
+vehicle=subway:3-4
+vehicle=subway:8-9
+vehicle=subway:8-9
+vehicle=subway:1-2
+vehicle=subway:2-3
+vehicle=subway:3-4
+from_stop="Franklin Street":10-11	to_stop="Houston Street":12-13	vehicle=subway:14-15
+from_stop="Franklin Street":11-12	to_stop="Houston Street":13-14	vehicle=subway:8-9
+from_stop="Franklin Street":10-11	to_stop="Houston Street":12-13	vehicle=subway:7-8
+ampm=pm:3-4
+ampm=pm:5-6
+ampm=pm:4-5
+from_stop="Columbus Circle":4-5	to_stop="Delancey Street":6-7
+from_stop="Columbus Circle":7-8	to_stop="Delancey Street":9-10
+from_stop="Columbus Circle":9-10	to_stop="Delancey Street":11-12
+
+
+
+vehicle=bus:3-4
+vehicle=bus:9-10
+vehicle=bus:8-9
+duration="13 minutes":3-4
+duration="13 minutes":3-4
+duration="13 minutes":3-4
+from_stop="Canal Street":4-5
+from_stop="Canal Street":9-10
+from_stop="Canal Street":8-9
+line=Q:5-6	from_stop="Washington Square":7-8	direction="Canal Street":9-10	vehicle=subway:2-3	departure_time="11:03am":11-12
+line=Q:5-6	from_stop="Washington Square":1-2	direction="Canal Street":12-13	vehicle=subway:6-7	departure_time="11:03am":8-9
+line=Q:2-3	from_stop="Washington Square":5-6	direction="Canal Street":9-10	vehicle=subway:0-1	departure_time="11:03am":7-8
+from_stop="Rector Street":1-2
+from_stop="Rector Street":6-7
+from_stop="Rector Street":3-4
+duration="51 minutes":3-4
+duration="51 minutes":3-4
+duration="51 minutes":3-4
+from_stop="Herald Square":12-13	to_stop="Rockefeller Center":14-15	vehicle=bus:8-9
+from_stop="Herald Square":10-11	to_stop="Rockefeller Center":12-13	vehicle=bus:14-15
+from_stop="Herald Square":10-11	to_stop="Rockefeller Center":12-13	vehicle=bus:7-8
+direction="Park Place":7-8	from_stop="Grand Street":5-6	line=M5:11-12	vehicle=bus:12-13	departure_time="12:10pm":14-15
+direction="Park Place":9-10	from_stop="Grand Street":7-8	line=M5:2-3	vehicle=bus:3-4	departure_time="12:10pm":5-6
+direction="Park Place":7-8	from_stop="Grand Street":5-6	line=M5:2-3	vehicle=bus:3-4	departure_time="12:10pm":9-10
+line=M66:7-8	direction="Bowling Green":1-2	vehicle=bus:2-3	departure_time="10:01am":9-10
+line=M66:4-5	direction="Bowling Green":8-9	vehicle=bus:5-6	departure_time="10:01am":10-11
+line=M66:9-10	direction="Bowling Green":15-16	vehicle=bus:5-6	departure_time="10:01am":7-8
+from_stop="Fulton Street":8-9	to_stop="Marble Hill":6-7
+from_stop="Fulton Street":1-2	to_stop="Marble Hill":3-4
+from_stop="Fulton Street":7-8	to_stop="Marble Hill":9-10
+
+
+
+from_stop="Essex Street":8-9
+from_stop="Essex Street":2-3
+from_stop="Essex Street":8-9
+vehicle=bus:3-4	direction="Park Place":10-11	departure_time="7:09pm":1-2	from_stop="City Hall":8-9	line=M116:5-6
+vehicle=bus:3-4	direction="Park Place":7-8	departure_time="7:09pm":9-10	from_stop="City Hall":5-6	line=M116:2-3
+vehicle=bus:1-2	direction="Park Place":13-14	departure_time="7:09pm":7-8	from_stop="City Hall":9-10	line=M116:3-4
+departure_time="6:00":6-7	ampm=pm:7-8
+departure_time="6:00":2-3	ampm=pm:3-4
+departure_time="6:00":5-6	ampm=pm:6-7
+to_stop="Marble Hill":7-8
+to_stop="Marble Hill":5-6
+to_stop="Marble Hill":7-8
+
+
+
+
+
+
+
+
+
+
+
+
+distance="5.0 miles":2-3
+distance="5.0 miles":2-3
+distance="5.0 miles":5-6
+from_stop="Washington Square":3-4
+from_stop="Washington Square":1-2
+from_stop="Washington Square":6-7
+departure_time_rel="0:15":1-2
+departure_time_rel="0:15":5-6
+departure_time_rel="0:15":7-8
+
+
+
+direction="Union Square":9-10	line=M96:2-3	vehicle=bus:3-4	departure_time="10:10am":5-6	from_stop="Roosevelt Island":7-8
+direction="Union Square":9-10	line=M96:7-8	vehicle=bus:6-7	departure_time="10:10am":3-4	from_stop="Roosevelt Island":1-2
+direction="Union Square":9-10	line=M96:3-4	vehicle=bus:2-3	departure_time="10:10am":5-6	from_stop="Roosevelt Island":7-8
+
+
+
+
+
+
+from_stop="Broad Street":1-2	to_stop="City Hall":3-4
+from_stop="Broad Street":7-8	to_stop="City Hall":9-10
+from_stop="Broad Street":7-8	to_stop="City Hall":9-10
+to_stop="Fulton Street":8-9
+to_stop="Fulton Street":5-6
+to_stop="Fulton Street":8-9
+departure_time="0:30":5-6
+departure_time="0:30":10-11
+departure_time="0:30":5-6
+vehicle=subway:10-11
+vehicle=subway:7-8
+vehicle=subway:11-12
+
+
+
+
+
+
+departure_time="6:00":11-12	ampm=pm:12-13	vehicle=subway:9-10
+departure_time="6:00":7-8	ampm=pm:8-9	vehicle=subway:4-5
+departure_time="6:00":9-10	ampm=pm:10-11	vehicle=subway:14-15
+
+
+
+departure_time="6:00":1-2	ampm=pm:2-3
+departure_time="6:00":5-6	ampm=pm:6-7
+departure_time="6:00":7-8	ampm=pm:8-9
+from_stop="Cathedral Parkway":10-11	direction="Lincoln Center":13-14	departure_time="9:19pm":5-6	line=J:18-19	vehicle=subway:6-7
+from_stop="Cathedral Parkway":11-12	direction="Lincoln Center":13-14	departure_time="9:19pm":9-10	line=J:7-8	vehicle=subway:3-4
+from_stop="Cathedral Parkway":11-12	direction="Lincoln Center":13-14	departure_time="9:19pm":6-7	line=J:9-10	vehicle=subway:4-5
+duration="55 minutes":3-4
+duration="55 minutes":2-3
+duration="55 minutes":3-4
+direction="East Broadway":9-10	line=E:2-3	vehicle=subway:3-4	from_stop="Canal Street":7-8	departure_time="7:04pm":5-6
+direction="East Broadway":2-3	line=E:8-9	vehicle=subway:6-7	from_stop="Canal Street":4-5	departure_time="7:04pm":10-11
+direction="East Broadway":10-11	line=E:4-5	vehicle=subway:2-3	from_stop="Canal Street":6-7	departure_time="7:04pm":8-9
+departure_time="1:00":14-15	ampm=pm:15-16
+departure_time="1:00":7-8	ampm=pm:8-9
+departure_time="1:00":3-4	ampm=pm:4-5
+
+
+
+departure_time="10:00":1-2	ampm=pm:2-3
+departure_time="10:00":4-5	ampm=pm:5-6
+departure_time="10:00":3-4	ampm=pm:4-5
+
+
+
+to_stop="Lincoln Center":9-10
+to_stop="Lincoln Center":7-8
+to_stop="Lincoln Center":8-9
+to_stop="Canal Street":6-7
+to_stop="Canal Street":2-3
+to_stop="Canal Street":8-9
+to_stop="Bleecker Street":8-9
+to_stop="Bleecker Street":2-3
+to_stop="Bleecker Street":4-5
+arrival_time="11:46am":3-4
+arrival_time="11:46am":4-5
+arrival_time="11:46am":5-6
+to_stop="Fulton Street":6-7
+to_stop="Fulton Street":6-7
+to_stop="Fulton Street":7-8
+from_stop="Broad Street":9-10	departure_time="6:03pm":5-6	direction="Essex Street":7-8	vehicle=bus:2-3	line=M116:3-4
+from_stop="Broad Street":8-9	departure_time="6:03pm":1-2	direction="Essex Street":10-11	vehicle=bus:2-3	line=M116:4-5
+from_stop="Broad Street":7-8	departure_time="6:03pm":12-13	direction="Essex Street":9-10	vehicle=bus:5-6	line=M116:4-5
+from_stop="Fulton Street":8-9
+from_stop="Fulton Street":4-5
+from_stop="Fulton Street":9-10
+line=G:7-8	direction="Canal Street":3-4	from_stop="Herald Square":1-2	departure_time="8:08pm":9-10	vehicle=subway:5-6
+line=G:5-6	direction="Canal Street":7-8	from_stop="Herald Square":1-2	departure_time="8:08pm":9-10	vehicle=subway:3-4
+line=G:3-4	direction="Canal Street":5-6	from_stop="Herald Square":7-8	departure_time="8:08pm":9-10	vehicle=subway:12-13
+vehicle=bus:5-6
+vehicle=bus:7-8
+vehicle=bus:14-15
+from_stop="Union Square":8-9
+from_stop="Union Square":9-10
+from_stop="Union Square":9-10
+to_stop="City Hall":2-3
+to_stop="City Hall":4-5
+to_stop="City Hall":6-7
+direction=Inwood:3-4	from_stop="Grand Street":1-2	vehicle=subway:5-6	line=J:7-8	departure_time="11:14am":9-10
+direction=Inwood:8-9	from_stop="Grand Street":6-7	vehicle=subway:2-3	line=J:4-5	departure_time="11:14am":10-11
+direction=Inwood:3-4	from_stop="Grand Street":1-2	vehicle=subway:4-5	line=J:7-8	departure_time="11:14am":9-10
+
+
+
+from_stop="Bowling Green":3-4	to_stop="Rector Street":5-6
+from_stop="Bowling Green":4-5	to_stop="Rector Street":6-7
+from_stop="Bowling Green":4-5	to_stop="Rector Street":6-7
+to_stop="Franklin Street":3-4
+to_stop="Franklin Street":5-6
+to_stop="Franklin Street":4-5
+to_stop="Bowling Green":11-12	from_stop="Prince Street":9-10	vehicle=bus:6-7
+to_stop="Bowling Green":5-6	from_stop="Prince Street":3-4	vehicle=bus:1-2
+to_stop="Bowling Green":8-9	from_stop="Prince Street":6-7	vehicle=bus:4-5
+duration="65 minutes":3-4
+duration="65 minutes":2-3
+duration="65 minutes":5-6
+departure_time="6:30":3-4
+departure_time="6:30":8-9
+departure_time="6:30":11-12
+to_stop="Essex Street":3-4
+to_stop="Essex Street":4-5
+to_stop="Essex Street":3-4
+vehicle=bus:1-2
+vehicle=bus:7-8
+vehicle=bus:2-3
+vehicle=subway:3-4
+vehicle=subway:7-8
+vehicle=subway:4-5
+direction="Grand Central":9-10	from_stop="Lincoln Center":7-8	departure_time="10:17pm":5-6	vehicle=subway:3-4	line=A:2-3
+direction="Grand Central":13-14	from_stop="Lincoln Center":11-12	departure_time="10:17pm":5-6	vehicle=subway:3-4	line=A:2-3
+direction="Grand Central":9-10	from_stop="Lincoln Center":7-8	departure_time="10:17pm":1-2	vehicle=subway:3-4	line=A:5-6
+line=F:5-6	departure_time="7:01pm":12-13	vehicle=subway:6-7	from_stop="Port Authority Bus Terminal":8-9	direction="Fulton Street":10-11
+line=F:6-7	departure_time="7:01pm":8-9	vehicle=subway:4-5	from_stop="Port Authority Bus Terminal":1-2	direction="Fulton Street":10-11
+line=F:9-10	departure_time="7:01pm":4-5	vehicle=subway:5-6	from_stop="Port Authority Bus Terminal":11-12	direction="Fulton Street":13-14
+direction="Delancey Street":9-10	from_stop="Columbus Circle":7-8	departure_time="12:18pm":1-2	line=M14:5-6	vehicle=bus:3-4
+direction="Delancey Street":10-11	from_stop="Columbus Circle":8-9	departure_time="12:18pm":5-6	line=M14:13-14	vehicle=bus:3-4
+direction="Delancey Street":9-10	from_stop="Columbus Circle":7-8	departure_time="12:18pm":5-6	line=M14:3-4	vehicle=bus:1-2
+to_stop="Central Park":2-3
+to_stop="Central Park":5-6
+to_stop="Central Park":1-2
+duration="16 minutes":3-4
+duration="16 minutes":6-7
+duration="16 minutes":3-4
+from_stop="Bryant Park":6-7	to_stop="Union Square":8-9
+from_stop="Bryant Park":1-2	to_stop="Union Square":3-4
+from_stop="Bryant Park":1-2	to_stop="Union Square":3-4
+vehicle=subway:1-2
+vehicle=subway:10-11
+vehicle=subway:6-7
+
+
+
+from_stop="Wall Street":10-11	to_stop="Cortlandt Street":12-13
+from_stop="Wall Street":4-5	to_stop="Cortlandt Street":6-7
+from_stop="Wall Street":4-5	to_stop="Cortlandt Street":6-7
+duration="44 minutes":3-4	arrival_time="5:26pm":1-2
+duration="44 minutes":9-10	arrival_time="5:26pm":4-5
+duration="44 minutes":2-3	arrival_time="5:26pm":8-9
+line=M14:5-6	vehicle=bus:3-4	direction="Bowling Green":9-10	departure_time="7:03pm":1-2	from_stop=Inwood:7-8
+line=M14:1-2	vehicle=bus:2-3	direction="Bowling Green":13-14	departure_time="7:03pm":7-8	from_stop=Inwood:5-6
+line=M14:3-4	vehicle=bus:2-3	direction="Bowling Green":7-8	departure_time="7:03pm":9-10	from_stop=Inwood:5-6
+from_stop="Roosevelt Island":5-6	to_stop="Bleecker Street":7-8
+from_stop="Roosevelt Island":7-8	to_stop="Bleecker Street":9-10
+from_stop="Roosevelt Island":3-4	to_stop="Bleecker Street":5-6
+from_stop="East Broadway":5-6
+from_stop="East Broadway":4-5
+from_stop="East Broadway":7-8
+vehicle=subway:8-9
+vehicle=subway:7-8
+vehicle=subway:5-6
+from_stop="Central Park":3-4	to_stop="Union Square":5-6
+from_stop="Central Park":9-10	to_stop="Union Square":11-12
+from_stop="Central Park":9-10	to_stop="Union Square":11-12
+departure_time="9:04am":1-2	from_stop="Houston Street":7-8	line=M104:5-6	vehicle=bus:3-4	direction="Central Park":9-10
+departure_time="9:04am":5-6	from_stop="Houston Street":8-9	line=M104:13-14	vehicle=bus:3-4	direction="Central Park":10-11
+departure_time="9:04am":5-6	from_stop="Houston Street":7-8	line=M104:3-4	vehicle=bus:1-2	direction="Central Park":9-10
+from_stop="Cathedral Parkway":1-2	to_stop="East Broadway":3-4
+from_stop="Cathedral Parkway":6-7	to_stop="East Broadway":8-9
+from_stop="Cathedral Parkway":6-7	to_stop="East Broadway":8-9
+
+
+
+
+
+
+line=M34:7-8	from_stop="Marble Hill":1-2	direction="Wall Street":3-4	vehicle=bus:5-6	departure_time="9:14am":9-10
+line=M34:4-5	from_stop="Marble Hill":8-9	direction="Wall Street":10-11	vehicle=bus:2-3	departure_time="9:14am":6-7
+line=M34:4-5	from_stop="Marble Hill":1-2	direction="Wall Street":7-8	vehicle=bus:5-6	departure_time="9:14am":9-10
+line=M15:5-6	vehicle=bus:4-5	direction="Columbia University":10-11	from_stop="Bleecker Street":1-2	departure_time="7:04am":7-8
+line=M15:5-6	vehicle=bus:6-7	direction="Columbia University":3-4	from_stop="Bleecker Street":1-2	departure_time="7:04am":8-9
+line=M15:5-6	vehicle=bus:3-4	direction="Columbia University":9-10	from_stop="Bleecker Street":7-8	departure_time="7:04am":11-12
+
+
+
+to_stop="Chambers Street":8-9
+to_stop="Chambers Street":5-6
+to_stop="Chambers Street":1-2
+vehicle=subway:3-4	departure_time="8:17am":5-6	direction="Cortlandt Street":9-10	from_stop="Fulton Street":7-8	line=2:2-3
+vehicle=subway:7-8	departure_time="8:17am":13-14	direction="Cortlandt Street":11-12	from_stop="Fulton Street":9-10	line=2:4-5
+vehicle=subway:3-4	departure_time="8:17am":9-10	direction="Cortlandt Street":7-8	from_stop="Fulton Street":5-6	line=2:2-3
+from_stop="Times Square":4-5	to_stop="Marble Hill":2-3
+from_stop="Times Square":5-6	to_stop="Marble Hill":7-8
+from_stop="Times Square":7-8	to_stop="Marble Hill":9-10
+duration="28 minutes":3-4
+duration="28 minutes":2-3
+duration="28 minutes":3-4
+to_stop="Grand Central":6-7
+to_stop="Grand Central":3-4
+to_stop="Grand Central":12-13
+to_stop="Broad Street":2-3
+to_stop="Broad Street":4-5
+to_stop="Broad Street":4-5
+from_stop="Penn Station":1-2	to_stop="Chambers Street":3-4
+from_stop="Penn Station":6-7	to_stop="Chambers Street":8-9
+from_stop="Penn Station":1-2	to_stop="Chambers Street":3-4
+
+
+
+
+
+
+
+
+
+departure_time_rel="0:30":2-3
+departure_time_rel="0:30":6-7
+departure_time_rel="0:30":5-6
+duration="38 minutes":4-5
+duration="38 minutes":3-4
+duration="38 minutes":3-4
+to_stop="Astor Place":1-2	arrival_time="9:00":3-4
+to_stop="Astor Place":5-6	arrival_time="9:00":7-8
+to_stop="Astor Place":2-3	arrival_time="9:00":4-5
+from_stop="Grand Street":10-11
+from_stop="Grand Street":4-5
+from_stop="Grand Street":4-5
+vehicle=subway:1-2
+vehicle=subway:2-3
+vehicle=subway:5-6
+
+
+
+to_stop="Dyckman Street":2-3
+to_stop="Dyckman Street":5-6
+to_stop="Dyckman Street":7-8
+from_stop="East Broadway":1-2
+from_stop="East Broadway":3-4
+from_stop="East Broadway":5-6
+departure_time_rel="0:15":3-4
+departure_time_rel="0:15":8-9
+departure_time_rel="0:15":7-8
+from_stop="Houston Street":9-10
+from_stop="Houston Street":9-10
+from_stop="Houston Street":9-10
+to_stop="Essex Street":2-3
+to_stop="Essex Street":8-9
+to_stop="Essex Street":3-4
+
+
+
+from_stop="Bryant Park":1-2	to_stop="Rockefeller Center":3-4
+from_stop="Bryant Park":4-5	to_stop="Rockefeller Center":6-7
+from_stop="Bryant Park":6-7	to_stop="Rockefeller Center":13-14
+
+
+
+from_stop="Union Square":3-4
+from_stop="Union Square":13-14
+from_stop="Union Square":9-10
+from_stop="Cathedral Parkway":11-12
+from_stop="Cathedral Parkway":9-10
+from_stop="Cathedral Parkway":3-4
+direction="Grand Central":7-8	line=M102:2-3	departure_time="9:14am":5-6	from_stop="Bleecker Street":9-10	vehicle=bus:3-4
+direction="Grand Central":8-9	line=M102:6-7	departure_time="9:14am":14-15	from_stop="Bleecker Street":2-3	vehicle=bus:11-12
+direction="Grand Central":8-9	line=M102:4-5	departure_time="9:14am":10-11	from_stop="Bleecker Street":6-7	vehicle=bus:2-3
+duration="51 minutes":3-4
+duration="51 minutes":3-4
+duration="51 minutes":2-3
+from_stop="Cortlandt Street":1-2
+from_stop="Cortlandt Street":1-2
+from_stop="Cortlandt Street":7-8
+departure_time="10:14pm":6-7	vehicle=subway:4-5	direction="Union Square":3-4	line=L:9-10	from_stop="Times Square":1-2
+departure_time="10:14pm":5-6	vehicle=subway:3-4	direction="Union Square":9-10	line=L:2-3	from_stop="Times Square":7-8
+departure_time="10:14pm":13-14	vehicle=subway:9-10	direction="Union Square":23-24	line=L:17-18	from_stop="Times Square":11-12
+to_stop="Cathedral Parkway":1-2
+to_stop="Cathedral Parkway":7-8
+to_stop="Cathedral Parkway":4-5
+departure_time="10:00":7-8	ampm=pm:8-9
+departure_time="10:00":3-4	ampm=pm:4-5
+departure_time="10:00":6-7	ampm=pm:7-8
+duration="49 minutes":3-4	departure_time="6:24pm":9-10
+duration="49 minutes":3-4	departure_time="6:24pm":10-11
+duration="49 minutes":11-12	departure_time="6:24pm":5-6
+direction="Cathedral Parkway":10-11	line=A:3-4	departure_time="3:19pm":6-7	vehicle=subway:4-5	from_stop="Bryant Park":8-9
+direction="Cathedral Parkway":8-9	line=A:4-5	departure_time="3:19pm":10-11	vehicle=subway:2-3	from_stop="Bryant Park":6-7
+direction="Cathedral Parkway":4-5	line=A:7-8	departure_time="3:19pm":9-10	vehicle=subway:2-3	from_stop="Bryant Park":1-2
+to_stop="Marble Hill":5-6
+to_stop="Marble Hill":5-6
+to_stop="Marble Hill":6-7
+vehicle=bus:7-8
+vehicle=bus:4-5
+vehicle=bus:5-6
+to_stop="Houston Street":8-9
+to_stop="Houston Street":5-6
+to_stop="Houston Street":8-9
+
+
+
+direction="Wall Street":8-9	line=5:4-5	vehicle=subway:2-3	from_stop="Herald Square":6-7	departure_time="1:10pm":10-11
+direction="Wall Street":5-6	line=5:3-4	vehicle=subway:2-3	from_stop="Herald Square":7-8	departure_time="1:10pm":9-10
+direction="Wall Street":8-9	line=5:4-5	vehicle=subway:2-3	from_stop="Herald Square":6-7	departure_time="1:10pm":10-11
+departure_time_rel="0:30":1-2
+departure_time_rel="0:30":1-2
+departure_time_rel="0:30":2-3
+
+
+
+vehicle=bus:5-6
+vehicle=bus:2-3
+vehicle=bus:7-8
+from_stop=Inwood:4-5	to_stop="Delancey Street":6-7	vehicle=subway:1-2
+from_stop=Inwood:7-8	to_stop="Delancey Street":9-10	vehicle=subway:4-5
+from_stop=Inwood:10-11	to_stop="Delancey Street":12-13	vehicle=subway:8-9
+line=M10:2-3	vehicle=bus:3-4	departure_time="4:03pm":5-6	direction="Marble Hill":9-10	from_stop="Chambers Street":7-8
+line=M10:2-3	vehicle=bus:0-1	departure_time="4:03pm":6-7	direction="Marble Hill":12-13	from_stop="Chambers Street":14-15
+line=M10:3-4	vehicle=bus:1-2	departure_time="4:03pm":5-6	direction="Marble Hill":9-10	from_stop="Chambers Street":7-8
+
+
+
+direction="Dyckman Street":8-9	departure_time="4:16pm":10-11	from_stop="Central Park":6-7	vehicle=bus:3-4	line=M4:13-14
+direction="Dyckman Street":13-14	departure_time="4:16pm":9-10	from_stop="Central Park":11-12	vehicle=bus:3-4	line=M4:7-8
+direction="Dyckman Street":8-9	departure_time="4:16pm":12-13	from_stop="Central Park":10-11	vehicle=bus:6-7	line=M4:1-2
+to_stop="Penn Station":1-2
+to_stop="Penn Station":3-4
+to_stop="Penn Station":1-2
+to_stop="Bowling Green":3-4	duration="54 minutes":7-8
+to_stop="Bowling Green":7-8	duration="54 minutes":3-4
+to_stop="Bowling Green":4-5	duration="54 minutes":2-3
+
+
+
+departure_time="9:00":1-2	ampm=pm:2-3
+departure_time="9:00":1-2	ampm=pm:2-3
+departure_time="9:00":1-2	ampm=pm:2-3
+departure_time="3:14pm":10-11	direction="Grand Street":8-9	line=M15:3-4	from_stop="Cortlandt Street":6-7	vehicle=bus:4-5
+departure_time="3:14pm":10-11	direction="Grand Street":8-9	line=M15:4-5	from_stop="Cortlandt Street":6-7	vehicle=bus:2-3
+departure_time="3:14pm":5-6	direction="Grand Street":7-8	line=M15:2-3	from_stop="Cortlandt Street":9-10	vehicle=bus:3-4
+vehicle=bus:3-4	line=M10:2-3	from_stop="Houston Street":7-8	direction=Bowery:9-10	departure_time="1:05pm":5-6
+vehicle=bus:4-5	line=M10:3-4	from_stop="Houston Street":6-7	direction=Bowery:8-9	departure_time="1:05pm":10-11
+vehicle=bus:3-4	line=M10:2-3	from_stop="Houston Street":5-6	direction=Bowery:7-8	departure_time="1:05pm":9-10
+to_stop=Inwood:5-6	vehicle=bus:7-8
+to_stop=Inwood:8-9	vehicle=bus:6-7
+to_stop=Inwood:9-10	vehicle=bus:7-8
+vehicle=bus:4-5
+vehicle=bus:7-8
+vehicle=bus:5-6
+to_stop="Grand Central":2-3
+to_stop="Grand Central":7-8
+to_stop="Grand Central":4-5
+departure_time="8:08am":8-9	from_stop="Rector Street":11-12	vehicle=bus:3-4	direction="City Hall":13-14	line=M98:6-7
+departure_time="8:08am":5-6	from_stop="Rector Street":9-10	vehicle=bus:3-4	direction="City Hall":7-8	line=M98:2-3
+departure_time="8:08am":4-5	from_stop="Rector Street":2-3	vehicle=bus:7-8	direction="City Hall":10-11	line=M98:8-9
+to_stop="Roosevelt Island":9-10	from_stop="Rockefeller Center":7-8
+to_stop="Roosevelt Island":2-3	from_stop="Rockefeller Center":4-5
+to_stop="Roosevelt Island":11-12	from_stop="Rockefeller Center":13-14
+duration="69 minutes":4-5	arrival_time="5:52pm":12-13
+duration="69 minutes":3-4	arrival_time="5:52pm":9-10
+duration="69 minutes":3-4	arrival_time="5:52pm":6-7
+
+
+
+to_stop="Franklin Street":6-7
+to_stop="Franklin Street":2-3
+to_stop="Franklin Street":8-9
+vehicle=subway:1-2
+vehicle=subway:4-5
+vehicle=subway:2-3
+duration="65 minutes":3-4	arrival_time="10:06pm":6-7
+duration="65 minutes":4-5	arrival_time="10:06pm":10-11
+duration="65 minutes":4-5	arrival_time="10:06pm":10-11
+
+
+
+vehicle=subway:5-6
+vehicle=subway:12-13
+vehicle=subway:3-4
+
+
+
+to_stop="City Hall":3-4
+to_stop="City Hall":9-10
+to_stop="City Hall":8-9
+departure_time="2:00":4-5	ampm=pm:5-6
+departure_time="2:00":5-6	ampm=pm:6-7
+departure_time="2:00":7-8	ampm=pm:8-9
+vehicle=subway:6-7
+vehicle=subway:1-2
+vehicle=subway:9-10
+from_stop="Broad Street":11-12	line=M101:6-7	direction="Cortlandt Street":15-16	vehicle=bus:3-4	departure_time="9:12am":8-9
+from_stop="Broad Street":7-8	line=M101:2-3	direction="Cortlandt Street":9-10	vehicle=bus:3-4	departure_time="9:12am":5-6
+from_stop="Broad Street":7-8	line=M101:5-6	direction="Cortlandt Street":9-10	vehicle=bus:4-5	departure_time="9:12am":1-2
+direction="Marble Hill":5-6	from_stop="City Hall":7-8	line=M23:10-11	vehicle=bus:11-12	departure_time="12:14pm":13-14
+direction="Marble Hill":12-13	from_stop="City Hall":10-11	line=M23:8-9	vehicle=bus:6-7	departure_time="12:14pm":1-2
+direction="Marble Hill":6-7	from_stop="City Hall":8-9	line=M23:18-19	vehicle=bus:19-20	departure_time="12:14pm":15-16
+to_stop="Marble Hill":2-3
+to_stop="Marble Hill":5-6
+to_stop="Marble Hill":5-6
+arrival_time="9:25am":4-5
+arrival_time="9:25am":7-8
+arrival_time="9:25am":4-5
+from_stop="Park Place":1-2	to_stop="Grand Street":3-4
+from_stop="Park Place":1-2	to_stop="Grand Street":3-4
+from_stop="Park Place":1-2	to_stop="Grand Street":3-4
+departure_time="10:00":11-12	ampm=am:12-13
+departure_time="10:00":11-12	ampm=am:14-15
+departure_time="10:00":10-11	ampm=am:11-12
+direction="Essex Street":3-4	departure_time="8:03pm":6-7	vehicle=subway:4-5	from_stop=Inwood:1-2	line=2:9-10
+direction="Essex Street":9-10	departure_time="8:03pm":5-6	vehicle=subway:2-3	from_stop=Inwood:7-8	line=2:3-4
+direction="Essex Street":13-14	departure_time="8:03pm":7-8	vehicle=subway:2-3	from_stop=Inwood:11-12	line=2:5-6
+to_stop="Chambers Street":2-3
+to_stop="Chambers Street":4-5
+to_stop="Chambers Street":7-8
+
+
+
+from_stop="Park Place":6-7
+from_stop="Park Place":7-8
+from_stop="Park Place":8-9
+duration="14 minutes":3-4
+duration="14 minutes":2-3
+duration="14 minutes":4-5
+vehicle=bus:1-2
+vehicle=bus:5-6
+vehicle=bus:1-2
+vehicle=subway:5-6
+vehicle=subway:7-8
+vehicle=subway:5-6
+line=M23:15-16	departure_time="9:12pm":10-11	direction="Port Authority Bus Terminal":8-9	vehicle=bus:1-2	from_stop="Cortlandt Street":6-7
+line=M23:7-8	departure_time="9:12pm":9-10	direction="Port Authority Bus Terminal":13-14	vehicle=bus:3-4	from_stop="Cortlandt Street":11-12
+line=M23:2-3	departure_time="9:12pm":5-6	direction="Port Authority Bus Terminal":9-10	vehicle=bus:3-4	from_stop="Cortlandt Street":7-8
+to_stop="Park Place":11-12
+to_stop="Park Place":11-12
+to_stop="Park Place":9-10
+
+
+
+arrival_time="12:53pm":4-5
+arrival_time="12:53pm":3-4
+arrival_time="12:53pm":3-4
+to_stop="Astor Place":11-12
+to_stop="Astor Place":4-5
+to_stop="Astor Place":8-9
+to_stop="Franklin Street":5-6
+to_stop="Franklin Street":1-2
+to_stop="Franklin Street":1-2
+
+
+
+
+
+
+distance="10.4 miles":3-4
+distance="10.4 miles":3-4
+distance="10.4 miles":6-7
+vehicle=subway:1-2
+vehicle=subway:1-2
+vehicle=subway:8-9
+from_stop="Union Square":3-4	to_stop="Roosevelt Island":5-6
+from_stop="Union Square":10-11	to_stop="Roosevelt Island":12-13
+from_stop="Union Square":10-11	to_stop="Roosevelt Island":12-13
+to_stop="Houston Street":5-6	departure_time="7:00":3-4
+to_stop="Houston Street":5-6	departure_time="7:00":7-8
+to_stop="Houston Street":11-12	departure_time="7:00":13-14
+departure_time="8:00":6-7	ampm=pm:7-8
+departure_time="8:00":9-10	ampm=pm:10-11
+departure_time="8:00":9-10	ampm=pm:10-11
+departure_time="3:55pm":3-4
+departure_time="3:55pm":11-12
+departure_time="3:55pm":5-6
+departure_time="10:00":1-2	ampm=am:2-3
+departure_time="10:00":5-6	ampm=am:6-7
+departure_time="10:00":5-6	ampm=am:6-7
+
+
+
+to_stop="Grand Central":3-4
+to_stop="Grand Central":5-6
+to_stop="Grand Central":5-6
+from_stop="Penn Station":12-13
+from_stop="Penn Station":10-11
+from_stop="Penn Station":5-6
+to_stop="Park Place":2-3	departure_time="5:00":4-5
+to_stop="Park Place":3-4	departure_time="5:00":1-2
+to_stop="Park Place":2-3	departure_time="5:00":4-5
+from_stop="World Trade Center":1-2	to_stop="Union Square":3-4
+from_stop="World Trade Center":11-12	to_stop="Union Square":13-14
+from_stop="World Trade Center":3-4	to_stop="Union Square":5-6
+vehicle=subway:2-3
+vehicle=subway:9-10
+vehicle=subway:11-12
+from_stop="Roosevelt Island":2-3
+from_stop="Roosevelt Island":6-7
+from_stop="Roosevelt Island":8-9
+
+
+
+duration="40 minutes":4-5
+duration="40 minutes":3-4
+duration="40 minutes":4-5
+direction="Washington Square":10-11	from_stop="Prince Street":8-9	vehicle=subway:3-4	line=4:4-5	departure_time="3:14pm":6-7
+direction="Washington Square":13-14	from_stop="Prince Street":9-10	vehicle=subway:3-4	line=4:5-6	departure_time="3:14pm":11-12
+direction="Washington Square":9-10	from_stop="Prince Street":7-8	vehicle=subway:3-4	line=4:2-3	departure_time="3:14pm":5-6
+to_stop="Broad Street":2-3
+to_stop="Broad Street":5-6
+to_stop="Broad Street":2-3
+
+
+
+to_stop="Penn Station":2-3
+to_stop="Penn Station":5-6
+to_stop="Penn Station":7-8
+arrival_time="6:43pm":4-5
+arrival_time="6:43pm":4-5
+arrival_time="6:43pm":4-5
+to_stop="Broad Street":5-6
+to_stop="Broad Street":5-6
+to_stop="Broad Street":6-7
+vehicle=bus:4-5	departure_time="8:01am":12-13	direction="Cathedral Parkway":8-9	from_stop="Bowling Green":6-7	line=M15:3-4
+vehicle=bus:3-4	departure_time="8:01am":6-7	direction="Cathedral Parkway":10-11	from_stop="Bowling Green":8-9	line=M15:4-5
+vehicle=bus:1-2	departure_time="8:01am":6-7	direction="Cathedral Parkway":8-9	from_stop="Bowling Green":4-5	line=M15:2-3
+vehicle=subway:7-8
+vehicle=subway:1-2
+vehicle=subway:5-6
+duration="70 minutes":3-4	arrival_time="12:43pm":11-12
+duration="70 minutes":3-4	arrival_time="12:43pm":10-11
+duration="70 minutes":3-4	arrival_time="12:43pm":12-13
+departure_time="10:16pm":1-2	line=M79:5-6	from_stop="Herald Square":7-8	vehicle=bus:3-4	direction="Grand Central":9-10
+departure_time="10:16pm":5-6	line=M79:13-14	from_stop="Herald Square":8-9	vehicle=bus:3-4	direction="Grand Central":10-11
+departure_time="10:16pm":5-6	line=M79:3-4	from_stop="Herald Square":7-8	vehicle=bus:1-2	direction="Grand Central":9-10
+
+
+
+line=M2:4-5	direction="Washington Square":12-13	departure_time="11:14am":3-4	vehicle=bus:5-6	from_stop="Bowling Green":10-11
+line=M2:15-16	direction="Washington Square":9-10	departure_time="11:14am":4-5	vehicle=bus:5-6	from_stop="Bowling Green":7-8
+line=M2:4-5	direction="Washington Square":10-11	departure_time="11:14am":6-7	vehicle=bus:3-4	from_stop="Bowling Green":8-9
+distance="6.0 miles":3-4
+distance="6.0 miles":4-5
+distance="6.0 miles":3-4
+departure_time="10:01pm":9-10	line=Q:3-4	from_stop="Park Place":5-6	direction="Roosevelt Island":7-8	vehicle=subway:1-2
+departure_time="10:01pm":6-7	line=Q:4-5	from_stop="Park Place":8-9	direction="Roosevelt Island":10-11	vehicle=subway:2-3
+departure_time="10:01pm":5-6	line=Q:6-7	from_stop="Park Place":9-10	direction="Roosevelt Island":11-12	vehicle=subway:7-8
+duration="26 minutes":2-3
+duration="26 minutes":4-5
+duration="26 minutes":3-4
+line=M86:7-8	direction="Grand Central":3-4	vehicle=bus:5-6	from_stop="Herald Square":1-2	departure_time="3:11pm":9-10
+line=M86:3-4	direction="Grand Central":9-10	vehicle=bus:1-2	from_stop="Herald Square":7-8	departure_time="3:11pm":5-6
+line=M86:8-9	direction="Grand Central":10-11	vehicle=bus:7-8	from_stop="Herald Square":2-3	departure_time="3:11pm":4-5
+duration="55 minutes":4-5
+duration="55 minutes":4-5
+duration="55 minutes":2-3
+departure_time="10:00":7-8	ampm=am:8-9	vehicle=subway:9-10
+departure_time="10:00":7-8	ampm=am:8-9	vehicle=subway:5-6
+departure_time="10:00":8-9	ampm=am:9-10	vehicle=subway:12-13
+to_stop="Broad Street":1-2
+to_stop="Broad Street":5-6
+to_stop="Broad Street":3-4
+departure_time="9:00":4-5
+departure_time="9:00":8-9
+departure_time="9:00":8-9
+departure_time="9:00":4-5	ampm=pm:5-6
+departure_time="9:00":8-9	ampm=pm:9-10
+departure_time="9:00":6-7	ampm=pm:7-8
+vehicle=subway:1-2	departure_time="7:07am":11-12	line=B:3-4	from_stop="Grand Central":5-6	direction="Franklin Street":7-8
+vehicle=subway:5-6	departure_time="7:07am":12-13	line=B:7-8	from_stop="Grand Central":4-5	direction="Franklin Street":10-11
+vehicle=subway:0-1	departure_time="7:07am":6-7	line=B:2-3	from_stop="Grand Central":9-10	direction="Franklin Street":14-15
+
+
+
+
+
+
+departure_time="6:00":7-8	ampm=pm:8-9
+departure_time="6:00":6-7	ampm=pm:7-8
+departure_time="6:00":12-13	ampm=pm:13-14
+vehicle=bus:5-6
+vehicle=bus:7-8
+vehicle=bus:2-3
+from_stop="World Trade Center":1-2
+from_stop="World Trade Center":3-4
+from_stop="World Trade Center":4-5
+vehicle=subway:3-4	line=G:2-3	direction="Grand Central":9-10	from_stop="Lincoln Center":7-8	departure_time="9:14pm":5-6
+vehicle=subway:3-4	line=G:5-6	direction="Grand Central":9-10	from_stop="Lincoln Center":7-8	departure_time="9:14pm":1-2
+vehicle=subway:2-3	line=G:7-8	direction="Grand Central":4-5	from_stop="Lincoln Center":1-2	departure_time="9:14pm":9-10
+departure_time="8:00":1-2	ampm=pm:2-3	vehicle=subway:4-5
+departure_time="8:00":3-4	ampm=pm:4-5	vehicle=subway:5-6
+departure_time="8:00":7-8	ampm=pm:8-9	vehicle=subway:10-11
+from_stop="Grand Street":8-9	line=M15:3-4	departure_time="7:17pm":6-7	direction="Union Square":10-11	vehicle=bus:4-5
+from_stop="Grand Street":6-7	line=M15:4-5	departure_time="7:17pm":10-11	direction="Union Square":8-9	vehicle=bus:2-3
+from_stop="Grand Street":8-9	line=M15:11-12	departure_time="7:17pm":13-14	direction="Union Square":6-7	vehicle=bus:4-5
+from_stop="Dyckman Street":2-3	to_stop="Grand Street":4-5
+from_stop="Dyckman Street":9-10	to_stop="Grand Street":7-8
+from_stop="Dyckman Street":1-2	to_stop="Grand Street":3-4
+departure_time="8:00":8-9	ampm=am:9-10
+departure_time="8:00":9-10	ampm=am:10-11
+departure_time="8:00":9-10	ampm=am:10-11
+vehicle=bus:3-4	line=M86:4-5	from_stop="Rector Street":5-6	direction="Dyckman Street":7-8	departure_time="7:00pm":9-10
+vehicle=bus:11-12	line=M86:13-14	from_stop="Rector Street":4-5	direction="Dyckman Street":6-7	departure_time="7:00pm":9-10
+vehicle=bus:8-9	line=M86:5-6	from_stop="Rector Street":10-11	direction="Dyckman Street":12-13	departure_time="7:00pm":14-15
+vehicle=subway:3-4	direction="Canal Street":13-14	departure_time="9:18pm":8-9	line=D:6-7	from_stop="Franklin Street":11-12
+vehicle=subway:4-5	direction="Canal Street":8-9	departure_time="9:18pm":6-7	line=D:2-3	from_stop="Franklin Street":10-11
+vehicle=subway:2-3	direction="Canal Street":8-9	departure_time="9:18pm":10-11	line=D:4-5	from_stop="Franklin Street":6-7
+vehicle=bus:5-6	from_stop="Cathedral Parkway":11-12	line=M100:4-5	direction="Grand Street":13-14	departure_time="9:08pm":7-8
+vehicle=bus:5-6	from_stop="Cathedral Parkway":8-9	line=M100:3-4	direction="Grand Street":10-11	departure_time="9:08pm":12-13
+vehicle=bus:6-7	from_stop="Cathedral Parkway":1-2	line=M100:5-6	direction="Grand Street":3-4	departure_time="9:08pm":8-9
+from_stop="Port Authority Bus Terminal":10-11	to_stop="Prince Street":12-13
+from_stop="Port Authority Bus Terminal":2-3	to_stop="Prince Street":4-5
+from_stop="Port Authority Bus Terminal":4-5	to_stop="Prince Street":6-7
+
+
+
+
+
+
+duration="47 minutes":7-8
+duration="47 minutes":4-5
+duration="47 minutes":4-5
+from_stop="Marble Hill":9-10
+from_stop="Marble Hill":7-8
+from_stop="Marble Hill":7-8
+distance="12.0 miles":3-4	num_transfers=0:7-8
+distance="12.0 miles":6-7	num_transfers=0:8-9
+distance="12.0 miles":9-10	num_transfers=0:3-4
+to_stop=Inwood:6-7
+to_stop=Inwood:3-4
+to_stop=Inwood:7-8
+
+
+
+
+
+
+duration="67 minutes":4-5	arrival_time="12:47pm":10-11
+duration="67 minutes":0-1	arrival_time="12:47pm":2-3
+duration="67 minutes":3-4	arrival_time="12:47pm":7-8
+vehicle=bus:6-7
+vehicle=bus:6-7
+vehicle=bus:7-8
+from_stop="Penn Station":3-4	to_stop="Astor Place":5-6
+from_stop="Penn Station":4-5	to_stop="Astor Place":6-7
+from_stop="Penn Station":3-4	to_stop="Astor Place":5-6
+departure_time="8:08am":1-2	from_stop="Grand Street":7-8	direction="Cortlandt Street":9-10	line=M100:5-6	vehicle=bus:3-4
+departure_time="8:08am":5-6	from_stop="Grand Street":7-8	direction="Cortlandt Street":9-10	line=M100:2-3	vehicle=bus:0-1
+departure_time="8:08am":7-8	from_stop="Grand Street":5-6	direction="Cortlandt Street":9-10	line=M100:2-3	vehicle=bus:3-4
+vehicle=bus:12-13
+vehicle=bus:7-8
+vehicle=bus:3-4
+departure_time="6:17pm":1-2	from_stop="Bleecker Street":7-8	line=Z:5-6	direction="Columbus Circle":9-10	vehicle=subway:3-4
+departure_time="6:17pm":6-7	from_stop="Bleecker Street":8-9	line=Z:4-5	direction="Columbus Circle":10-11	vehicle=subway:3-4
+departure_time="6:17pm":5-6	from_stop="Bleecker Street":7-8	line=Z:3-4	direction="Columbus Circle":9-10	vehicle=subway:1-2
+to_stop="Roosevelt Island":6-7
+to_stop="Roosevelt Island":2-3
+to_stop="Roosevelt Island":7-8
+arrival_time="12:36pm":4-5
+arrival_time="12:36pm":3-4
+arrival_time="12:36pm":4-5
+line=7:2-3	departure_time="8:11am":5-6	direction="World Trade Center":9-10	from_stop="Rockefeller Center":7-8	vehicle=subway:3-4
+line=7:4-5	departure_time="8:11am":8-9	direction="World Trade Center":13-14	from_stop="Rockefeller Center":10-11	vehicle=subway:6-7
+line=7:10-11	departure_time="8:11am":5-6	direction="World Trade Center":14-15	from_stop="Rockefeller Center":12-13	vehicle=subway:8-9
+line=M72:6-7	vehicle=bus:3-4	from_stop="Marble Hill":11-12	direction="Rockefeller Center":13-14	departure_time="11:02am":8-9
+line=M72:19-20	vehicle=bus:5-6	from_stop="Marble Hill":11-12	direction="Rockefeller Center":14-15	departure_time="11:02am":21-22
+line=M72:7-8	vehicle=bus:8-9	from_stop="Marble Hill":10-11	direction="Rockefeller Center":12-13	departure_time="11:02am":1-2
+from_stop="Delancey Street":11-12
+from_stop="Delancey Street":9-10
+from_stop="Delancey Street":14-15
+
+
+
+
+
+
+alternative=2:3-4
+alternative=2:3-4
+alternative=2:0-1
+to_stop="Cathedral Parkway":8-9
+to_stop="Cathedral Parkway":5-6
+to_stop="Cathedral Parkway":5-6
+
+
+
+departure_time="5:00":5-6	ampm=pm:6-7
+departure_time="5:00":5-6	ampm=pm:6-7
+departure_time="5:00":5-6	ampm=pm:6-7
+departure_time="10:00":5-6	ampm=am:6-7
+departure_time="10:00":2-3	ampm=am:3-4
+departure_time="10:00":8-9	ampm=am:9-10
+departure_time="6:00":1-2
+departure_time="6:00":5-6
+departure_time="6:00":7-8
+duration="48 minutes":3-4
+duration="48 minutes":3-4
+duration="48 minutes":3-4
+
+
+
+from_stop="Cortlandt Street":11-12	to_stop="Penn Station":13-14
+from_stop="Cortlandt Street":7-8	to_stop="Penn Station":9-10
+from_stop="Cortlandt Street":9-10	to_stop="Penn Station":11-12
+distance="9.2 miles":2-3
+distance="9.2 miles":6-7
+distance="9.2 miles":4-5
+departure_time="10:00":1-2	ampm=am:2-3
+departure_time="10:00":5-6	ampm=am:6-7
+departure_time="10:00":0-1	ampm=am:1-2
+
+
+
+vehicle=bus:6-7	from_stop="Marble Hill":1-2	departure_time="6:13pm":8-9	line=M101:5-6	direction="Rector Street":12-13
+vehicle=bus:5-6	from_stop="Marble Hill":8-9	departure_time="6:13pm":12-13	line=M101:3-4	direction="Rector Street":10-11
+vehicle=bus:6-7	from_stop="Marble Hill":1-2	departure_time="6:13pm":8-9	line=M101:5-6	direction="Rector Street":3-4
+
+
+
+departure_time="7:00":7-8	ampm=pm:8-9
+departure_time="7:00":4-5	ampm=pm:7-8
+departure_time="7:00":2-3	ampm=pm:3-4
+vehicle=subway:5-6
+vehicle=subway:6-7
+vehicle=subway:0-1
+from_stop="Roosevelt Island":4-5
+from_stop="Roosevelt Island":5-6
+from_stop="Roosevelt Island":6-7
+
+
+
+departure_time_rel="0:30":8-9
+departure_time_rel="0:30":4-5
+departure_time_rel="0:30":11-12
+departure_time="4:00":2-3	ampm=pm:3-4
+departure_time="4:00":4-5	ampm=pm:5-6
+departure_time="4:00":3-4	ampm=pm:4-5
+
+
+
+departure_time="10:00":6-7	ampm=am:7-8
+departure_time="10:00":6-7	ampm=am:7-8
+departure_time="10:00":7-8	ampm=am:10-11
+to_stop="Central Park":10-11
+to_stop="Central Park":10-11
+to_stop="Central Park":10-11
+direction="Wall Street":10-11	from_stop="Franklin Street":8-9	departure_time="7:03pm":6-7	line=M4:3-4	vehicle=bus:4-5
+direction="Wall Street":5-6	from_stop="Franklin Street":9-10	departure_time="7:03pm":7-8	line=M4:2-3	vehicle=bus:3-4
+direction="Wall Street":8-9	from_stop="Franklin Street":6-7	departure_time="7:03pm":10-11	line=M4:4-5	vehicle=bus:2-3
+line=M22:2-3	departure_time="6:12pm":6-7	direction="Port Authority Bus Terminal":8-9	vehicle=bus:1-2	from_stop="Cortlandt Street":4-5
+line=M22:4-5	departure_time="6:12pm":11-12	direction="Port Authority Bus Terminal":9-10	vehicle=bus:5-6	from_stop="Cortlandt Street":7-8
+line=M22:2-3	departure_time="6:12pm":9-10	direction="Port Authority Bus Terminal":7-8	vehicle=bus:3-4	from_stop="Cortlandt Street":5-6
+
+
+
+from_stop="Broad Street":10-11	to_stop="East Broadway":8-9
+from_stop="Broad Street":7-8	to_stop="East Broadway":9-10
+from_stop="Broad Street":2-3	to_stop="East Broadway":4-5
+departure_time="11:00":5-6	ampm=am:6-7
+departure_time="11:00":5-6	ampm=am:6-7
+departure_time="11:00":5-6	ampm=am:6-7
+departure_time="11:00":10-11	ampm=am:11-12
+departure_time="11:00":5-6	ampm=am:6-7
+departure_time="11:00":5-6	ampm=am:6-7
+departure_time="9:00":5-6
+departure_time="9:00":0-1
+departure_time="9:00":2-3
+to_stop="Central Park":5-6	from_stop="Herald Square":7-8
+to_stop="Central Park":7-8	from_stop="Herald Square":5-6
+to_stop="Central Park":7-8	from_stop="Herald Square":5-6
+to_stop=Bowery:5-6
+to_stop=Bowery:6-7
+to_stop=Bowery:6-7
+from_stop="Bryant Park":2-3	to_stop="Union Square":4-5
+from_stop="Bryant Park":12-13	to_stop="Union Square":14-15
+from_stop="Bryant Park":9-10	to_stop="Union Square":11-12
+from_stop="Canal Street":5-6	to_stop="Rector Street":7-8
+from_stop="Canal Street":12-13	to_stop="Rector Street":14-15
+from_stop="Canal Street":5-6	to_stop="Rector Street":7-8
+
+
+
+departure_time="3:14pm":1-2	vehicle=subway:3-4	direction="Marble Hill":10-11	line=5:5-6	from_stop="Cathedral Parkway":8-9
+departure_time="3:14pm":7-8	vehicle=subway:1-2	direction="Marble Hill":9-10	line=5:3-4	from_stop="Cathedral Parkway":5-6
+departure_time="3:14pm":1-2	vehicle=subway:4-5	direction="Marble Hill":10-11	line=5:6-7	from_stop="Cathedral Parkway":8-9
+departure_time="11:00":8-9	ampm=am:9-10
+departure_time="11:00":5-6	ampm=am:6-7
+departure_time="11:00":10-11	ampm=am:11-12
+departure_time="12:00":7-8
+departure_time="12:00":2-3
+departure_time="12:00":12-13
+
+
+
+
+
+
+to_stop="Essex Street":3-4
+to_stop="Essex Street":9-10
+to_stop="Essex Street":9-10
+to_stop="Fulton Street":8-9
+to_stop="Fulton Street":7-8
+to_stop="Fulton Street":15-16
+vehicle=bus:2-3	departure_time="1:04pm":4-5	line=M34:1-2	direction="Broad Street":11-12	from_stop="Grand Central":9-10
+vehicle=bus:3-4	departure_time="1:04pm":8-9	line=M34:6-7	direction="Broad Street":13-14	from_stop="Grand Central":11-12
+vehicle=bus:3-4	departure_time="1:04pm":9-10	line=M34:7-8	direction="Broad Street":13-14	from_stop="Grand Central":11-12
+from_stop="Rockefeller Center":3-4
+from_stop="Rockefeller Center":6-7
+from_stop="Rockefeller Center":5-6
+vehicle=subway:8-9
+vehicle=subway:9-10
+vehicle=subway:6-7
+from_stop="Grand Central":3-4
+from_stop="Grand Central":6-7
+from_stop="Grand Central":5-6
+vehicle=subway:3-4	from_stop=Bowery:5-6	departure_time="7:11am":7-8	line=Q:9-10	direction="Canal Street":11-12
+vehicle=subway:7-8	from_stop=Bowery:11-12	departure_time="7:11am":5-6	line=Q:9-10	direction="Canal Street":13-14
+vehicle=subway:5-6	from_stop=Bowery:7-8	departure_time="7:11am":14-15	line=Q:12-13	direction="Canal Street":9-10
+from_stop="Penn Station":8-9
+from_stop="Penn Station":4-5
+from_stop="Penn Station":11-12
+from_stop="Canal Street":0-1	to_stop="Times Square":2-3
+from_stop="Canal Street":4-5	to_stop="Times Square":6-7
+from_stop="Canal Street":8-9	to_stop="Times Square":10-11
+from_stop="Washington Square":1-2
+from_stop="Washington Square":1-2
+from_stop="Washington Square":1-2
+from_stop="Washington Square":1-2	to_stop="Fulton Street":3-4
+from_stop="Washington Square":1-2	to_stop="Fulton Street":3-4
+from_stop="Washington Square":1-2	to_stop="Fulton Street":3-4
+vehicle=subway:4-5	departure_time="10:11pm":1-2	line=A:6-7	direction="Lincoln Center":10-11	from_stop="Herald Square":8-9
+vehicle=subway:3-4	departure_time="10:11pm":5-6	line=A:2-3	direction="Lincoln Center":9-10	from_stop="Herald Square":7-8
+vehicle=subway:5-6	departure_time="10:11pm":4-5	line=A:9-10	direction="Lincoln Center":13-14	from_stop="Herald Square":11-12
+vehicle=bus:5-6
+vehicle=bus:9-10
+vehicle=bus:9-10
+
+
+
+
+
+
+distance="9.6 miles":6-7	duration="21 minutes":4-5
+distance="9.6 miles":4-5	duration="21 minutes":8-9
+distance="9.6 miles":3-4	duration="21 minutes":7-8
+departure_time="7:00":5-6	ampm=am:6-7
+departure_time="7:00":5-6	ampm=am:6-7
+departure_time="7:00":5-6	ampm=am:6-7
+direction="Dyckman Street":5-6	vehicle=bus:9-10	line=M66:8-9	from_stop="Marble Hill":3-4	departure_time="1:05pm":11-12
+direction="Dyckman Street":9-10	vehicle=bus:3-4	line=M66:5-6	from_stop="Marble Hill":7-8	departure_time="1:05pm":11-12
+direction="Dyckman Street":12-13	vehicle=bus:2-3	line=M66:1-2	from_stop="Marble Hill":7-8	departure_time="1:05pm":5-6
+
+
+
+vehicle=subway:1-2
+vehicle=subway:3-4
+vehicle=subway:2-3
+direction="Canal Street":9-10	line=M79:3-4	vehicle=bus:2-3	from_stop="Rector Street":7-8	departure_time="9:05pm":5-6
+direction="Canal Street":7-8	line=M79:3-4	vehicle=bus:1-2	from_stop="Rector Street":5-6	departure_time="9:05pm":9-10
+direction="Canal Street":8-9	line=M79:5-6	vehicle=bus:6-7	from_stop="Rector Street":1-2	departure_time="9:05pm":12-13
+departure_time="11:00":5-6	ampm=am:6-7	vehicle=bus:8-9
+departure_time="11:00":5-6	ampm=am:6-7	vehicle=bus:8-9
+departure_time="11:00":5-6	ampm=am:6-7	vehicle=bus:7-8
+departure_time="4:00":8-9	ampm=pm:9-10
+departure_time="4:00":10-11	ampm=pm:11-12
+departure_time="4:00":8-9	ampm=pm:9-10
+from_stop="Roosevelt Island":1-2
+from_stop="Roosevelt Island":5-6
+from_stop="Roosevelt Island":3-4
+direction="Essex Street":12-13	from_stop="Marble Hill":10-11	line=L:4-5	departure_time="7:02pm":14-15	vehicle=subway:8-9
+direction="Essex Street":7-8	from_stop="Marble Hill":5-6	line=L:2-3	departure_time="7:02pm":9-10	vehicle=subway:3-4
+direction="Essex Street":10-11	from_stop="Marble Hill":8-9	line=L:6-7	departure_time="7:02pm":1-2	vehicle=subway:4-5
+departure_time_rel="0:15":4-5
+departure_time_rel="0:15":7-8
+departure_time_rel="0:15":5-6
+distance="6.5 miles":3-4
+distance="6.5 miles":2-3
+distance="6.5 miles":3-4
+
+
+
+line=M8:3-4	departure_time="9:08pm":5-6	vehicle=bus:1-2	direction="Marble Hill":9-10	from_stop="Grand Street":7-8
+line=M8:13-14	departure_time="9:08pm":5-6	vehicle=bus:3-4	direction="Marble Hill":10-11	from_stop="Grand Street":8-9
+line=M8:3-4	departure_time="9:08pm":5-6	vehicle=bus:1-2	direction="Marble Hill":9-10	from_stop="Grand Street":7-8
+from_stop="Rector Street":9-10	to_stop="Union Square":11-12
+from_stop="Rector Street":3-4	to_stop="Union Square":5-6
+from_stop="Rector Street":8-9	to_stop="Union Square":10-11
+departure_time="8:00":3-4	ampm=pm:4-5
+departure_time="8:00":5-6	ampm=pm:6-7
+departure_time="8:00":1-2	ampm=pm:2-3
+to_stop="Port Authority Bus Terminal":5-6
+to_stop="Port Authority Bus Terminal":5-6
+to_stop="Port Authority Bus Terminal":2-3
+vehicle=subway:4-5	from_stop="Marble Hill":8-9	direction="Grand Street":10-11	line=1:6-7	departure_time="11:18am":1-2
+vehicle=subway:4-5	from_stop="Marble Hill":13-14	direction="Grand Street":15-16	line=1:7-8	departure_time="11:18am":3-4
+vehicle=subway:8-9	from_stop="Marble Hill":13-14	direction="Grand Street":15-16	line=1:5-6	departure_time="11:18am":10-11
+from_stop="Franklin Street":3-4
+from_stop="Franklin Street":10-11
+from_stop="Franklin Street":5-6
+departure_time_rel="0:30":3-4
+departure_time_rel="0:30":7-8
+departure_time_rel="0:30":1-2
+departure_time_rel="0:15":8-9
+departure_time_rel="0:15":7-8
+departure_time_rel="0:15":7-8
+from_stop="Park Place":4-5	to_stop="Penn Station":6-7
+from_stop="Park Place":13-14	to_stop="Penn Station":15-16
+from_stop="Park Place":10-11	to_stop="Penn Station":12-13
+departure_time_rel="0:30":4-5
+departure_time_rel="0:30":7-8
+departure_time_rel="0:30":12-13
+from_stop="Washington Square":5-6	to_stop="Bryant Park":7-8
+from_stop="Washington Square":10-11	to_stop="Bryant Park":8-9
+from_stop="Washington Square":10-11	to_stop="Bryant Park":8-9
+
+
+
+direction=Bowery:13-14	vehicle=subway:3-4	from_stop="Prince Street":11-12	departure_time="3:02pm":9-10	line=R:7-8
+direction=Bowery:11-12	vehicle=subway:5-6	from_stop="Prince Street":9-10	departure_time="3:02pm":13-14	line=R:2-3
+direction=Bowery:9-10	vehicle=subway:2-3	from_stop="Prince Street":7-8	departure_time="3:02pm":5-6	line=R:3-4
+from_stop="Essex Street":7-8	direction="Columbia University":9-10	departure_time="3:08pm":1-2	line=M79:5-6	vehicle=bus:3-4
+from_stop="Essex Street":8-9	direction="Columbia University":10-11	departure_time="3:08pm":5-6	line=M79:13-14	vehicle=bus:3-4
+from_stop="Essex Street":7-8	direction="Columbia University":9-10	departure_time="3:08pm":5-6	line=M79:3-4	vehicle=bus:2-3
+vehicle=subway:2-3	direction="Houston Street":8-9	departure_time="10:02am":4-5	from_stop="Delancey Street":6-7	line=G:1-2
+vehicle=subway:4-5	direction="Houston Street":10-11	departure_time="10:02am":12-13	from_stop="Delancey Street":8-9	line=G:6-7
+vehicle=subway:3-4	direction="Houston Street":10-11	departure_time="10:02am":1-2	from_stop="Delancey Street":8-9	line=G:5-6
+
+
+
+from_stop="Broad Street":10-11	to_stop="Delancey Street":8-9
+from_stop="Broad Street":8-9	to_stop="Delancey Street":10-11
+from_stop="Broad Street":2-3	to_stop="Delancey Street":4-5
+direction="Lincoln Center":8-9	vehicle=subway:1-2	line=G:2-3	departure_time="12:03pm":4-5	from_stop="Penn Station":6-7
+direction="Lincoln Center":4-5	vehicle=subway:2-3	line=G:7-8	departure_time="12:03pm":9-10	from_stop="Penn Station":1-2
+direction="Lincoln Center":9-10	vehicle=subway:1-2	line=G:3-4	departure_time="12:03pm":5-6	from_stop="Penn Station":7-8
+from_stop=Bowery:4-5	to_stop="Cortlandt Street":6-7
+from_stop=Bowery:3-4	to_stop="Cortlandt Street":5-6
+from_stop=Bowery:4-5	to_stop="Cortlandt Street":6-7
+duration="24 minutes":3-4
+duration="24 minutes":3-4
+duration="24 minutes":3-4
+from_stop="Park Place":8-9	vehicle=bus:4-5	line=M72:6-7	direction="Prince Street":10-11	departure_time="4:13pm":1-2
+from_stop="Park Place":5-6	vehicle=bus:3-4	line=M72:2-3	direction="Prince Street":7-8	departure_time="4:13pm":9-10
+from_stop="Park Place":13-14	vehicle=bus:10-11	line=M72:11-12	direction="Prince Street":15-16	departure_time="4:13pm":6-7
+to_stop="Houston Street":2-3
+to_stop="Houston Street":5-6
+to_stop="Houston Street":5-6
+from_stop="Herald Square":5-6
+from_stop="Herald Square":4-5
+from_stop="Herald Square":5-6
+from_stop="Delancey Street":5-6
+from_stop="Delancey Street":5-6
+from_stop="Delancey Street":2-3
+from_stop="Cortlandt Street":3-4
+from_stop="Cortlandt Street":1-2
+from_stop="Cortlandt Street":16-17
+to_stop="Rector Street":10-11
+to_stop="Rector Street":6-7
+to_stop="Rector Street":7-8
+direction="Columbus Circle":9-10	from_stop="Cathedral Parkway":7-8	vehicle=bus:2-3	line=M60:3-4	departure_time="11:07pm":5-6
+direction="Columbus Circle":9-10	from_stop="Cathedral Parkway":7-8	vehicle=bus:3-4	line=M60:2-3	departure_time="11:07pm":5-6
+direction="Columbus Circle":11-12	from_stop="Cathedral Parkway":9-10	vehicle=bus:5-6	line=M60:4-5	departure_time="11:07pm":7-8
+from_stop="City Hall":2-3
+from_stop="City Hall":6-7
+from_stop="City Hall":5-6
+departure_time_rel="0:30":1-2
+departure_time_rel="0:30":1-2
+departure_time_rel="0:30":7-8
+from_stop="Rector Street":6-7	to_stop="Bryant Park":8-9	vehicle=subway:3-4
+from_stop="Rector Street":13-14	to_stop="Bryant Park":15-16	vehicle=subway:10-11
+from_stop="Rector Street":7-8	to_stop="Bryant Park":9-10	vehicle=subway:12-13
+vehicle=subway:1-2
+vehicle=subway:5-6
+vehicle=subway:3-4
+
+
+
+vehicle=subway:6-7
+vehicle=subway:5-6
+vehicle=subway:8-9
+direction="Columbia University":9-10	from_stop="Dyckman Street":7-8	vehicle=subway:1-2	line=F:3-4	departure_time="7:02am":5-6
+direction="Columbia University":10-11	from_stop="Dyckman Street":8-9	vehicle=subway:2-3	line=F:4-5	departure_time="7:02am":6-7
+direction="Columbia University":12-13	from_stop="Dyckman Street":10-11	vehicle=subway:5-6	line=F:6-7	departure_time="7:02am":8-9
+to_stop="Broad Street":10-11
+to_stop="Broad Street":12-13
+to_stop="Broad Street":7-8
+duration="51 minutes":2-3
+duration="51 minutes":4-5
+duration="51 minutes":1-2
+from_stop=Bowery:7-8
+from_stop=Bowery:6-7
+from_stop=Bowery:4-5
+vehicle=subway:5-6
+vehicle=subway:2-3
+vehicle=subway:6-7
+departure_time="2:00":3-4	ampm=pm:4-5	vehicle=bus:1-2
+departure_time="2:00":9-10	ampm=pm:10-11	vehicle=bus:6-7
+departure_time="2:00":8-9	ampm=pm:9-10	vehicle=bus:6-7
+
+
+
+duration="26 minutes":3-4
+duration="26 minutes":2-3
+duration="26 minutes":3-4
+from_stop="Astor Place":8-9	to_stop=Bowery:10-11
+from_stop="Astor Place":0-1	to_stop=Bowery:2-3
+from_stop="Astor Place":4-5	to_stop=Bowery:6-7
+from_stop="Cortlandt Street":1-2	to_stop="Lincoln Center":3-4
+from_stop="Cortlandt Street":5-6	to_stop="Lincoln Center":7-8
+from_stop="Cortlandt Street":7-8	to_stop="Lincoln Center":9-10
+from_stop="East Broadway":8-9	to_stop="Canal Street":10-11
+from_stop="East Broadway":3-4	to_stop="Canal Street":5-6
+from_stop="East Broadway":10-11	to_stop="Canal Street":12-13
+to_stop="Park Place":5-6	from_stop="Marble Hill":9-10
+to_stop="Park Place":7-8	from_stop="Marble Hill":5-6
+to_stop="Park Place":8-9	from_stop="Marble Hill":10-11
+departure_time="10:00":5-6	ampm=am:6-7	vehicle=subway:8-9
+departure_time="10:00":7-8	ampm=am:8-9	vehicle=subway:5-6
+departure_time="10:00":5-6	ampm=am:6-7	vehicle=subway:7-8
+to_stop="City Hall":3-4
+to_stop="City Hall":7-8
+to_stop="City Hall":2-3
+from_stop="Fulton Street":5-6
+from_stop="Fulton Street":4-5
+from_stop="Fulton Street":7-8
+to_stop="Penn Station":4-5
+to_stop="Penn Station":7-8
+to_stop="Penn Station":4-5

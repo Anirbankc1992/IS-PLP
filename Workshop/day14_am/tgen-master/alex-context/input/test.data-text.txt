@@ -1,0 +1,1116 @@
+Take the X X X line to X from X . 
+X line X , departing at X from X to X . 
+Take X line X from X to X at X . 
+Going to X from X , at X by X line X . 
+There is a X at X going from X to X using line X . 
+Take X line X at X from X to X . 
+Apologies , a X connection is not found . 
+I 'm sorry I can not find a X connection . 
+I 'm sorry I can not find a X . 
+By X , from what station and to what direction ? 
+Take the X from where to where ? 
+You need a X connection , please provide from which stop and to which stop . 
+Sorry sir but I could not found any connection from X to X on X . 
+I 'm sorry I can not find a X connection from X to X . 
+I am sorry , there is no X connection from X to X . 
+You want the X . 
+OK , you want a X connection . 
+I understand you want X . 
+No route found from X to X . 
+I have not found a connection from X to X . 
+I apologize but such a info not found from X to X . 
+Connection from where , to where ? 
+I need destination points from where to where . 
+From which stop to which stop sir ? 
+You want a X . Where are you traveling from and where is your destination ? 
+OK , so you want to go on the X instead . Where are you coming from and where are you trying to go to ? 
+I understand that you want to take the X , but from where to where ? 
+It will take X . 
+It will take X . 
+Journey time is X . 
+Sorry your trip from X is not found . 
+I apologize but such a info not found from X . 
+I did not find information on departures from X . 
+Take the X on line X from X towards X at X . 
+From X , take line X X at X to go to X . 
+X line X departs from X at X towards X . 
+From X to what direction ? 
+You would like to go from X , where would you like to go to ? 
+To where from X ? 
+It will take X . 
+The trip is X . 
+It 'll last X . 
+I apologize but such a route with a X not found from X to X . 
+Sorry sir but I could not found any connection from X to X by X . 
+I 'm really sorry but the required X transportation from X to X is not found . 
+You want to leave from X to X by taking the X X at X . 
+Take the X X at X from X direction X . 
+Take the X X from X to X at X . 
+From X X to *DIRECTION in line X at X . 
+If you take the X X line from X at X , you will arrive at *DIRECTION . 
+You need to take the X at X line X from bowing green to reach X . 
+You would like to travel to X from X . 
+From X to X . 
+OK , you want a schedule from X to X . 
+From what station and to what direction ? 
+Where to and from ? 
+From which stop to which stop sir ? 
+OK , so you want to leave from X . Where are you going to ? 
+You want X . To where ? 
+I understand that you want to go from X , but to where ? 
+At X by X line X , from X destination X . 
+Take the X X from X to X at X . 
+Take X route X , departing at X from X , arriving at X . 
+So you want to leave at X X . 
+You want X X . 
+I understand that you want X X . 
+Please confirm you want to travel to X from where ? 
+You want to travel to X . What station are you coming from ? 
+Where do you want to travel to X from ? 
+From where to where , please ? 
+What station are you coming from and to what direction ? 
+From what station and to what direction ? 
+Apologies , a later connection is not found . 
+I 'm sorry I can not find a next connection . 
+I 'm sorry I can not find a connection after . 
+OK , you want a later option . 
+You want a later option . 
+You would like to find a later service . 
+From what station and to what direction ? 
+From where to where ? 
+Where are you departing from , and where is your destination ? 
+It takes X . 
+It is X . 
+It is a distance of X . 
+Yes , from X but where would you like to go ? 
+From X to where ? 
+Once you 'll have departed from X where do you want to go ? 
+In X . 
+OK you will depart in X . 
+I confirm you wish to leave in X minutes . 
+From which place to where ? 
+Where do you need to connect from and to where ? 
+From what station and to what direction ? 
+Take the X X at X from X direction X . 
+From X at X , take X X to X . 
+Take the X X at X from X destination X . 
+A later time is not found . 
+No route found later . 
+I 'm sorry , I could not find you a later connection . 
+From what station and to what destination ? 
+Where would you like to go from and to where ? 
+From where to where ? 
+From X to X . 
+OK , you want a connection from X to X . 
+I understand your request to get from X to X . 
+Where do you want to travel from to X ? 
+You want to go to X but where are you departing from ? 
+I understand that you want to go to X , where are you going from ? 
+From where to where in X . 
+Where do you want to go from and to in X . 
+You want to go in X but where from and to ? 
+Sorry sir but I could not found any path by X . 
+I 'm sorry there is not a X connection . 
+I 'm sorry , I could not find a connection by X . 
+Where are you coming from ? 
+Yes , but from where you would like to go ? 
+Where are you leaving from ? 
+From what station ? 
+Where would you like to go from ? 
+From where , sir ? 
+Sorry but I could not find next alternative by X at X X . 
+Apologies , a later X connection at X X is not found . 
+Sorry , I can not find another alternative for X X by taking the X . 
+From what station ? 
+Where do you want to depart from ? 
+From which stop are you coming ? 
+At X X , from what station and to what direction ? 
+You want a schedule for X X . From where is it coming and to where is it going . 
+Where would you like to go at X X ? 
+OK , there is the X X that goes from X to the X . It is route X . 
+Just take a X in the line X at X from X to X . 
+You can go by X at X on line X from X to X . 
+It will take X . 
+It takes X . 
+It will take X . 
+Take line X X at X from X direction X . 
+Going to X from X by X line X at X . 
+Take the X line X from X at X direction X . 
+I 'm sorry , but I was not able to find a connection at X X . 
+Really sorry but the requested transportation at X X is not found . 
+A connection at X X is not found . 
+From what station and to what direction ? 
+Where would you like to go from and to where ? 
+From which stop to which stop ? 
+At X X . 
+You need it at X X . 
+Yes , from X X . 
+Where would you like to go from and to where ? 
+From where to where , please ? 
+From which place to where ? 
+I see that you would like to go to X . 
+I can search those direction to the X for you now . 
+OK then , you want to go to X . 
+You would like to go to X from where ? Please provide more information . 
+Confirming to X , but from where ? 
+From where would you like to go to X ? 
+I 'm sorry there is no connection to X . 
+Going to X is not found . 
+No route found to X . 
+Arrival time is X . 
+You will arrive at X . 
+Your arrival time will be X . 
+Alright , you are going to X . 
+You would like to go to X . 
+I understand you want to travel to X . 
+Please use X X at X to X from X . 
+The X X line X is traveling from X to X . 
+Yes , the line X X from X to X is at X . 
+I 'm sorry there is no connection from X . 
+No route found from X . 
+I 'm sorry there are no connections leaving from X . 
+From X to X by X line X at X . 
+From X take X line X to X at X . 
+You will take X to X from X at X on a X . 
+I 'm sorry , a X connection was not found . 
+I did not find information about a X connection . 
+I 'm sorry , I was not able to find you a connection by X . 
+I 'm sorry there is no connection to X . 
+I am sorry there is not a connection from X . 
+I apologize but such a route not found from X . 
+Going to X . 
+You 're traveling to X . 
+OK you want to travel to X . 
+From X to X by X line X at X . 
+Take the X line X from X direction X at X . 
+From X to X X at line X at X . 
+And where would you like to go to ? 
+Can you please confirm to where ? 
+Where do you want to go to ? 
+A route from X to X is not found . 
+Sorry a service from X to X is not found . 
+No route found from X to X . 
+Yes , to X but from where ? 
+You want to go to X from where ? 
+You are departing from X . Where is your destination ? 
+I 'm sorry there is no X connection from X to X . 
+A X from X to X is not found . 
+No route found by X from X to X . 
+It will take X . 
+It takes X to get there . 
+Sir the ride takes approximately X . 
+Not found at X . 
+I 'm sorry there is no connection at X . 
+I 'm sorry there are no modes of transport leaving at X . 
+From where to X ? 
+So you go to X from which stop ? 
+From where to X ? 
+Take X from where to where ? 
+You wish to make the connection by X , where are you traveling from and where would you like to go to ? 
+Connection by X from where to where ? 
+Yes , by X . 
+So you 'd like to travel by X . 
+OK , traveling by X . 
+Take line X X at X from X direction X . 
+There is X X at X that will take you from X to X . It is line *LINE . 
+At X by X line X from X to X . 
+You can take the line X X from X to X at X . 
+From X take the X line X at X direction X . 
+You can take the X X on the line X from X to X . 
+At X by X line X from X direction X . 
+There is a X at X going from X to X using line X . 
+Take X line X at X from X to X . 
+Traveling to X . 
+You want to go to X . 
+To X . 
+It would take X to reach this area . 
+It will take no more that X . 
+It will take X . 
+You would like to go from X to X . 
+From X to X . 
+From X to X . 
+Take X from where to where ? 
+Where do you want to go from and to by X ? 
+OK you want to go by X but I need you to tell me from where and to where you are going ? 
+Where would you like to go from and to where ? 
+From where to where , please ? 
+From where to which place ? 
+I 'm sorry I can not find a connection from X to X . 
+Information to go from X to X is not found . 
+No route found from X to X . 
+At X takes X . 
+The arrival time is X and it will take X . 
+It takes X ; you 'll arrive at X . 
+At X by X line X from X to X . 
+The X X , leaving X at X , will take you to X . 
+Take the X X from X to X at X . 
+You want to travel from X to X . 
+I 'll check for a trip from X to X . 
+Yes , from X to X . 
+You want to leave from X to where ? 
+Once you depart from X where do you want to go to ? 
+Where do you want to go from X to ? 
+I understand that you wan na go by X , where would you go from and to ? 
+I confirm you want to go by X , and can I please ask where you would like to travel from and to ? 
+You want to go by X . Where do you wish to depart from and go to . 
+The trip from X to X is not found . 
+I apologize but such a info not found from X to X . 
+I did not find information about a connection from X to X . 
+At X by X line X from X to X . 
+There is a X at X going from X to X using line X . 
+Take X line X at X from X to X . 
+From X to X . 
+So you want to go from X to X . 
+OK you need to go from X to X . 
+Where are you going to ? 
+Where do you want to travel to ? 
+What is the destination stop ? 
+You would like a ride next . 
+OK , you are looking for the next journey . 
+Get the next ride . 
+From X to X by X line X at X . 
+Take a X line X at X from X to X . 
+From X take the X X to X at X . 
+From X , take X X at X to reach X . 
+From X to X on X X at X . 
+There is a X line X from X to X at X . 
+From where to where ? 
+Where would you like to travel from and where would you like to go ? 
+Yes , but where ? Where would you like to go ? 
+From where you would like to go to X . 
+You want to go to X , where do you want to depart from ? 
+To X , from what station ? 
+Take line X X at X from X direction X . 
+You can get line X of the X from X to X at X . 
+Take the X X from X to X at X . 
+Going to X from X . 
+You want to go from X to X . 
+I understand you wish to travel from X to X . 
+It will take X . 
+It takes X . 
+It will take X . 
+You would like to go to X , where would you like to go from ? 
+From where to X ? 
+Please let me know where you are leaving from when going to X . 
+Connection to X not found . 
+Sorry a connection to X is not found . 
+No connections found to X . 
+From X to X . 
+You would like to go from X to X . 
+From X to X . 
+From where to where do you want to go ? 
+Where are you going from and to ? 
+Where are you traveling from and where do you want to go ? 
+Where are you traveling from ? 
+Where do you want to travel from ? 
+Where are you starting from ? 
+Yes , later on . 
+You want to take a later connection . 
+I understand that you want a departure at a later time . 
+Yes , X . But from where ? And where to go ? 
+You would like a connection in X minutes . Can you tell me from where going to where . 
+You want a connection in X minutes , where are you traveling from and what is your destination ? 
+Your trip will take X . 
+No more than X . 
+Time will be X . 
+To X at X . 
+You would to go to X at X . 
+Go to X at X . 
+I 'm sorry I can not find a connection from X . 
+Information for leaving from X is not found . 
+No route found from X . 
+By X . 
+Take the X . 
+I 'll check for a X connection . 
+But from where ? And where you would like to go ? 
+From where to where ? 
+You want to go from where to where ? 
+Confirming to X . 
+You want to go to X . 
+OK , you want to go to X . 
+From X . 
+OK no from X . 
+You want a connection from X . 
+A connection in X , from what station are you coming and to what direction ? 
+Where are coming from and going to in X minutes ? 
+OK , you want a connection in X minutes , where are you traveling from and where are you going to ? 
+I did not find information about a connection from X . 
+I apologize but such a route not found from X . 
+Sorry , I can not find a connection from X . 
+You want X . 
+I understand that you want to go to X . 
+Yes , to X . 
+From what station and to what direction ? 
+From where to where ? 
+From where to where man ? 
+From X to X . 
+Yes , going from X to X . 
+You said you are departing from X and you are going to the X . 
+You want a later connection . 
+I 'll check for the next connection . 
+Yes , later on . 
+Travel information from X not found . 
+I have received your question and information is not found for travel from X and I apologize that I can not find what you were asking for . 
+I apologize I can not find a connection from X . 
+I 'm sorry , I could not find a connection from X . 
+I 'm really sorry but the requested transportation from X is not found . 
+A route from X is not found . 
+Take the X X at X direction X from X . 
+Starting from X and taking the X to X , your X departs at X . 
+Yes , X line X from X to X from X . 
+It will take X . 
+The duration is X . 
+It takes X . 
+From X to where ? 
+From X , to what direction ? 
+OK , you want a connection from X , where do you want to go to ? 
+From X to X X at X on line X . 
+Take line X X at X from X direction X . 
+OK sir , you just have to take the X from X at X in the line X in order to go to X . 
+To X , from what station ? 
+OK sir you want to go to X but I need you to tell me from where do you want to go there ? 
+You want go to X leaving from where ? 
+I understand you want to travel at X X . Please confirm where you are leaving from and where you are going to ? 
+Yes , from X X . But from where ? Where would you like to go ? 
+From where to where man at X X ? 
+It will take X and the next connection is X . 
+It will take X . The next connection is at X . 
+The next connection is at X and it should take you X to get to your destination . 
+Take the line X X at X from X towards X . 
+Yes , X line X from X to X at X . 
+From X X to X in line X at X . 
+You want to travel to X . Where are you traveling from ? 
+I understand . But from X to where ? 
+I confirm wish to travel to X , and can I ask where you are traveling from ? 
+I understand you want to go by X . 
+Yes , with a X . 
+You want to use the X . 
+OK , so you want to go to X . 
+You want to go to X . 
+I understand that you want to go to X . 
+From what station and to what destination ? 
+From where to where , please ? 
+Where are you traveling from and where are you going ? 
+Take the X line X from X towards X at X . 
+Take the X X direction X from X at X . 
+Yes , X line X from X to X at X . 
+In X minutes , from what station and to what direction ? 
+In X minutes from where to where ? 
+Yes , X minutes but from where ? Where would you like to go ? 
+The next trip is not found . 
+I apologize but such a info not found for later on . 
+I did not find a later alternative . 
+You wish to travel by X . 
+Traveling by X . 
+You wish to make the connection by X . 
+No X found from X to X , sorry . 
+I apologize , the X connection from X to X was not found . 
+Sorry but I did not not found any X from X to X . 
+Take the X X at X from X to X . 
+X line X , departing at X , in the direction of X from X . 
+Take X line X at X from X to X . 
+I 'm sorry I can not find the next option . 
+An option for later is not found . 
+No route found later , sir . 
+There is a X route from X to X at X , line X . 
+Just take a X in the line X at X from X to X . 
+Line X will take you by X to X from X at X . 
+To X , from what station ? 
+From where to X ? 
+To X , from what station ? 
+To get to X will be about X . 
+It will take X to get to X . 
+It is X to X . 
+To what direction ? 
+Where would you like to go to ? 
+You want to find a connection to which stop ? 
+At X X , from what station and to what direction ? 
+From X X from where to where OK ? 
+At X X *AMPM from where to where ? 
+Take the line X X from X towards X at X . 
+Yes , X line X from X to X at X . 
+Take the X X at X direction X form X . 
+Take line X X at X from X direction X . 
+There is a X X from X to X at X . 
+Take the X X from X to X at X . 
+You want to go to X by X ? Where are you coming from ? 
+OK you need a ride by X to X but I need you to tell me where you come from ? 
+Where do you want to ride the X to X from ? 
+Yes , with a X . 
+I 'll check for info about the X ! 
+You want to go by X . 
+Going to X . 
+I understand you want to go to X . 
+You are going to X . 
+There 's a X on line X at X traveling from X to X . 
+Take the X X at X direction X from X . 
+Departing from X at X , take X X to X . 
+Sorry , no route was found from X to X . 
+Travel to X from X is not found . 
+I 'm sorry but I 've not found a route to X from X . 
+The trip will take X and you will reach your destination at X . 
+It will take X and you will arrive at X . 
+No more than X , at X . 
+Where do you want to depart from ? 
+From where will you be leaving ? 
+Where do you want to leave from ? 
+So you want to go to X . Where are you coming from ? 
+You want X . From where ? 
+I understand that you want to go to X , but from where are you leaving ? 
+By X , from what station and to what direction ? 
+You are taking the X but from where and to where ? 
+Take the X from where to where , please ? 
+It will take X arriving at X . 
+The time needed is X and you 'll arrive at X . 
+The time needed is X and you will arrive at X . 
+From where to where are you going ? 
+From where to where ? 
+Where from and to ? 
+A way to travel by X is not found . 
+I 'm sorry , I was unable to find a connection by X . 
+Not found by X . 
+To what direction ? 
+Where are you traveling to ? 
+Where do you want to go to ? 
+Not found to X . 
+I apologize I can not find a connection to X . 
+I 'm sorry but the required transportation to X is not found . 
+You would like a X X connection . 
+You want to go at X X . 
+My understanding is that you need a X X connection . 
+I 'm sorry there is no X connection . 
+No X found , sorry . 
+I 'm really sorry but the required transportation by X is not found . 
+There is a X on line X at X departing from X and traveling to X . 
+Take the X X at X from X direction X . 
+At X , take X X from X to X . 
+There is a connection to X from X on line X X on X . 
+At X , there is a X line X from X direction X . 
+You want to go directly from X to X ? There is a connection at X on the X X line . 
+Direction to X . 
+You wish to go to X . 
+You want to go to X . 
+You will arrive at X . 
+You will arrive at your destination at X . 
+You will arrive at X . 
+From X to X . 
+From X to X . 
+From X to X . 
+I 'm sorry , I could not find a connection at X X . 
+I 'm sorry , I can not find a departure at X in the X . 
+I 'm really sorry , but the requested transportation at X X is not found . 
+From X to X X at X on line X . 
+Please use X X at X from X to X . 
+Connection by X on line X at X , traveling from X to X . 
+Destination to X . 
+Yes , going to X . 
+You want to change the destination to X . 
+From what station and to what direction ? 
+OK sir , but from and to where do you want to leave ? 
+Leave from where going to where ? 
+I understand you are traveling from X . 
+OK , you want a connection from X . 
+I confirm , you want to depart from X . 
+It takes around X . 
+It takes X to get there . 
+The trip will take X . 
+By X , from what station and to what direction ? 
+You want to take the X but where to and from ? 
+Take X from where to where ? 
+You want to take the X . 
+I confirm you want to take the X . 
+You are looking for the X as an alternative option , correct ? 
+A X can take you from X to X at X . It is line X . 
+Just take a X in the line X at X from X from X . 
+Take the X X at X from X to X . 
+I 'm sorry , I can not find a route to X . 
+Sorry sir , but I can not find any path to X . 
+I apologize but such a route not found to X . 
+Where are you traveling from ? 
+Where are you leaving from ? 
+Where do you want to travel from ? 
+You will arrive at X . 
+It arrives at X . 
+It arrives at X . 
+I 'm sorry , I can not find a connection to X . 
+No connections found to X . 
+I 'm sorry , but your trip to X is not found . 
+You want to go to X . 
+To X . 
+To X is that right . 
+Yes , but from where you would like to go ? 
+Where do you want to take it from ? 
+Where are you coming from ? 
+Where are you traveling from and where is your destination ? 
+Where are you going to and where are you leaving from ? 
+From where to where ? 
+The distance is X . 
+It is around X . 
+The trip covers a distance of X . 
+A X was not found . 
+No X found , sorry . 
+I 'm sorry there are no connections by X at present . 
+Not found from X to X . 
+I apologize but such a route not found , from X to X . 
+I 'm sorry , I have not found anything from X to X . 
+Not found at X to X . 
+Apologies , a connection to X at X is not found . 
+I 'm sorry , I could not find a route to X at X . 
+Such a route not found from X X . 
+Sir but I could not find any connection at X X . 
+I apologize but such a route not found from X X . 
+Next connection at X . 
+You would like the next connection , this will be at X . 
+The next one is at X . 
+At X X . 
+You want an alternative at X X . 
+I 'll check for a X X alternative . 
+What station are you coming from ? 
+From where are you leaving ? 
+From where are you departing ? 
+From where to X . 
+You want to go to X . 
+OK you are going to X . 
+I apologize but such a route has not been found , from X . 
+I 'm sorry but I have not found anything from X . 
+Sorry results for departure from X not found . 
+You want X at X . 
+At X to X . 
+Going to X at X . 
+From X to X I can not find . 
+I 'm sorry , I could not find a connection from X to X . 
+Not found from X to X . 
+Connection by X not found . 
+I 'm sorry that journey you requested by the X could not be found . 
+I 'm sorry I can not find any information on the X . 
+You want X , to where ? 
+OK , you are traveling from X , where would you like to go ? 
+I understand that you want to leave from X , but where do you want to get ? 
+A connection at later time . 
+You want information about later options . 
+I confirm that you want to know later options . 
+It will take around X . 
+It will take X . 
+The ride will take X . 
+Please use the X X at X from X to X . 
+You can take X line X , departing from X at X to X . 
+Take line X X at X from X direction X . 
+Going to X . 
+You need to go to X . 
+Traveling to X . 
+From what station ? 
+From where to where ? 
+And can I ask where you would are traveling from ? 
+Destination to X . 
+You want to go to X . 
+OK , you wish to travel to X . 
+You should arrive at X . 
+You will arrive at X . 
+You will arrive at X . 
+You want to go to X . Where are you coming from ? 
+You want to go to X . Where are you traveling from ? 
+OK you want to arrive in X but I need you to tell me where you come from ? 
+Take the line X X from X towards X , departing at X . 
+You can use X X at X from X to X . 
+Take X X from X at X to X . 
+Where would you like to take the X from and to where ? 
+Confirming X , and from where to where ? 
+You want to take the X , where are you traveling from and where are you going ? 
+It will take X and you will reach your destination at X . 
+It will take X and you will get there at X . 
+It will take X to get there and you will arrive at X . 
+At X by X line X from X to X . 
+There is a X at X going from X to X using line X . 
+Take X line X at X from X to X . 
+Where are you traveling from and which station are you hoping to arrive at ? 
+What stop are you leaving from and what stop are you going to ? 
+You want a connection from which stop and to which stop ? 
+OK , the X X X can take you from X to X . 
+You can take the X X from X to X . It 's on the X line . 
+You can use X X at X from X to X . 
+This trip lasts X . 
+Your trip will take X . 
+The distance is X . 
+Take X line X from X direction X at X . 
+Take the X line X at X from X direction X . 
+I suggest you take the X X X from X to X . 
+It takes X . 
+Your journey should take X . 
+The duration is X . 
+From X direction X by X line X at X . 
+Take X line X at X from X to X . 
+Starting from X at X , take X X to X . 
+It will take around X . 
+The journey will take X . 
+It takes X to get there . 
+I understand you want to take the X X X , but from where to where ? 
+You want to take the X at X X . Where are you leaving from and going to ? 
+I confirm that you want to leave at X X in a X , where are you going from ? And where are you going to ? 
+To X , from what station ? 
+You want to go to X where is your start point ? 
+From where to X ? 
+No connections found at X . 
+I 'm sorry there is no connection at X . 
+I 'm sorry there is no connection at X . 
+Your departure time is X X , please tell me where you would like to go from and your destination ? 
+I confirm that the time you depart is X X . Where are you going from ? What is your destination ? 
+You would like to depart at X X . Where would you like to travel to and from ? 
+Take X line X from X towards X , leaving at X . 
+You can go from X X on X line to X at X . 
+X line X , departing at X , from X in the direction of X . 
+A next connection . 
+You need alternatives later , sir . 
+I 'll check for an alternative later . 
+Where would you like to travel from and to ? 
+Where are you going from and to where ? 
+From which stop to which stop sir ? 
+I 'm sorry , a connection at X X was not found . 
+I did not find info about X X trip . 
+I 'm sorry , I could not find a connection leaving at X X . 
+Yes you 'll take a X . 
+I confirm you want information on a X line . 
+I understand X line . 
+From X to which stop ? 
+OK , from X going where to ? 
+You are departing from X but where are you going to ? 
+Take line X X at X from X direction X . 
+At X by X line X from X to X . 
+From X X to X in line X at X . 
+At X X by X , from what station and to what direction ? 
+You want an X X X connection , please tell me where you want to go from and where you want to go to . 
+I confirm you want to leave at X X by X , and can I confirm where you are traveling from and to ? 
+Take the line X X at X from X towards X . 
+Yes , X line X from X to X at X . 
+You can go by X to X from X on line X at X . 
+Details from X to X . 
+OK , great you are going to X from X . 
+From X to X . 
+I 'm sorry there is no connection at X X . 
+Sorry but I could not find any ride at X X . 
+Sorry but I did not find any ride at X X . 
+You can take X X X to X at X . 
+The last connection from X to X is at X on X line X . 
+Your last connection is line X on the X from X to X at X . 
+There is a X on line X at X traveling from X to X . 
+Take the X line X at X direction X from X . 
+Yes , X line X from X to X from X . 
+You can take the X X at X to get from X to X . 
+Yes , line X , X going from X to X from X . 
+From X to X on X X at X . 
+I 'm sorry I can not find a connection from X to X . 
+Going from X to X could not be found . 
+No connections found from X to X . 
+Where would you like to go from your original destination ? 
+I need information to where ? 
+Where would you like to go to ? 
+What station are you coming from ? 
+Where are you coming from ? 
+And can I ask where you are traveling from ? 
+The duration of the trip is approximately X . 
+The trip will take X . 
+The trip will take X . 
+I see that you would like to board from X . 
+I confirm you wish to travel from X . 
+OK , you want to travel from X . 
+The trip is X . There are X transfers . 
+The trip is a distance of X with X transfers needed . 
+This trip has X transfers for a distance of X . 
+I understand you are going to X . Please confirm where you are coming from . 
+Yes , to X but from where to ? 
+Where do you want to go to X from ? 
+I 'm sorry I can not find a last connection . 
+I 'm sorry , last connection was not found . 
+I am sorry I can not find the last connection . 
+Where are you coming from and where are you trying to go to ? 
+Where are you traveling from , and where is your destination ? 
+I need you to tell me where you come from and where you are going ? 
+The trip will take X and you should arrive at X . 
+X or X . 
+The trip is X and arrives at X . 
+You can get a connection by X . 
+You would like to travel by X . 
+I confirm you wish to travel by X . 
+A connection from X to X . 
+OK , so from X to X then . 
+A connection from X to X . 
+At X by X line X from X direction X . 
+X line X departs at X from X to X . 
+Take the X X from X at X to X . 
+I apologize but such a info not found to go with a X . 
+I did not find information about a X connection . 
+Not found by X . 
+At X by X line X from X to X . 
+You can use X X at X from X to X . 
+Take X line X at X from X direction X . 
+You would like to get to X . 
+Arrival to X . 
+OK , you want to go to X . 
+You will arrive at X . 
+It arrives at X , sir . 
+You will arrive at X . 
+Take line X X at X from X direction X . 
+You can take the X line X at X from X to the X . 
+There is a connection at X , take X line X from X to X . 
+There is a X on line X at X traveling from X to X . 
+Yes , there is a X that can take you from X to the X . It is *VEHICLE X at X . 
+At X , you could take the X X from X to X . 
+I 'm sorry , I can not find a route from X . 
+Sorry but I could not find any path from X . 
+With the current route , I am not able to find a departure from X . 
+From where to where are you traveling ? 
+From where to where ? 
+From which stop to which stop ? 
+Please confirm where you are coming from and where you are going to ? 
+Yes , but from where ? Where would you like to go ? 
+A connection going from where and going to where ? 
+You want number X . 
+You need option X . 
+X - th option . 
+I understand you want to get to the X , but from where will you be leaving ? 
+You want to go to X from where ? 
+You need to go to X , where are you coming from ? 
+Where are you traveling from and where is your destination ? 
+Where do you want to go to and where are you leaving from ? 
+OK , but where ? Where to ? 
+You want a connection at X X . 
+I 'll check for a X X trip . 
+You want a connection at X X . 
+You want a connection at X X . 
+You want X X . 
+I understand that you want to leave at X X . 
+At X . 
+You want a connection at X . 
+I 'll check for info about the X ride . 
+It will take X . 
+It will take X . 
+It will take X . 
+Next one OK . 
+You need later connections . 
+Yes , next . 
+I 'm sorry , I can not find a route from X to X . 
+I 'm sorry , a trip from X to X was not found . 
+Sorry but I could not find any ride from X to X . 
+It is X , sir . 
+The distance of this trip is X . 
+The distance is approximately X . 
+At X X , from what station and to what direction ? 
+You want to go at X X . Where to and from ? 
+X X ? From where to where ? 
+From where to where do you want to go ? 
+Where are you leaving from and going to ? 
+Where are you traveling from and where are you going to ? 
+From X , take the X X at X to get to X . 
+Yes , line X , X going from X to X at X . 
+From X to X on X X at X . 
+Please provide more information of where you want to go . 
+I need additional information to where ? 
+Where do you want to go to ? 
+I understand you want to journey at X X . 
+If you leave at X in the X . 
+You want X X . 
+You want to take the X . Where is your start and end point ? 
+You would like to travel by X . Where would you like to travel to and from ? 
+X from where to where , sir ? 
+You are leaving from X . Where are you trying to go to ? 
+You want to depart from X . Where are you traveling to ? 
+OK you need to leave from X but I need you to tell me where you are going ? 
+Next connection . 
+You would like a connection for a later time . 
+I 'll check for the next connection . 
+I 'm sorry there is no connection in X . 
+No connections found in X , sorry . 
+I 'm sorry , I could not find a connection in X . 
+Schedule at X X is not found . 
+No connections found at X X . 
+Sorry , your X X journey is not found . 
+Where are you traveling from and where is your destination ? 
+Where do you want to go to and where are you leaving from ? 
+From where to where ? 
+You would like to go at X X . 
+OK you need an option at X X . 
+Your are looking for an option at X in the X . 
+I 'm sorry I can not find a connection to X . 
+Sorry sir but I could not find any path to X . 
+I 'm sorry I can not find any connection leaving X . 
+Take the line X X at X from X towards X . 
+Take the X X direction X at X from X . 
+Yes , X line X from X to X at X . 
+Take X X from X at X to X . 
+You can take the X X from X to X at X . 
+Take the X X from X to X at X . 
+From where to where ? 
+Where do you want to go from and where do you want to go to ? 
+Where to and from ? 
+I 'm sorry there is no connection to X from X . 
+I 'm sorry , a connection from X to X was not found . 
+Sorry , X to X is not found . 
+You want a connection at X X . 
+I 'll check for a X X connection . 
+You want a connection at X X . 
+Where do you want to go from and to at X X . 
+You want to go at X X but where from and to ? 
+You want a connection at X X , where do you wish to depart from and where are you going ? 
+You want to go at X . 
+X , is that correct . 
+Yes , X . 
+You want to go to X from X . 
+OK you are traveling from X to X . 
+You want to go from X to X . 
+I understand your destination is X . 
+Confirm you wish to travel to X . 
+You would like to go to X . 
+Sorry , X to X is not found . 
+I 'm sorry , I could not find you a route from X to X . 
+I 'm really sorry but the requested transportation from X to X is not found . 
+Sorry results for travel from X to X not found . 
+I 'm sorry sir , I could not find the travel from X to X . 
+Apologies information on travel from X to X is not found . 
+I 'm sorry , I can not find a later connection . 
+I 'm sorry , a later connection was not found . 
+I 'm sorry but there is no connection after that . 
+At X by X line X , from X direction X . 
+The X line X from X at X to X . 
+At X , take X line X from X to X . 
+I understand that you want to leave at X X . 
+You want to go at X X . 
+You want to know if there is an alternative at X X . 
+I understand you want to leave at X . Where are you coming from and where are you going to ? 
+Yes , X . But from where ? Where would you like to go ? 
+You are looking from a connection to where and from where at X ? 
+Where are you coming from ? 
+I need you to tell me where you come from ? 
+Where are you departing from ? 
+I 'm sorry but I 've not found a later departure for that journey . 
+I 'm sorry there is not an alternative later time on that schedule . 
+I am sorry I can not find a later time for this service . 
+The trip to X is not found . 
+I apologize but such a info not found to X . 
+I did not find information about a connection to X . 
+I 'm sorry there is no connection to X . 
+I did not find a route to X . 
+I 'm sorry , I can not find the information you requested to go to X . 
+The X X at X can take you from X to X . 
+There is a X on line X at X traveling from X to X . 
+Just take the X in the line X at X from X to X . 
+Alright then from X sir . 
+You 're starting your trip from X . 
+You want to leave from X . 
+I 'm sorry I can not find a X connection . 
+I 'm sorry , I could not find a X connection . 
+I 'm sorry there is no X connection . 
+Transit itinerary from X . 
+You need the transit itinerary from X . 
+You want to go from X . 
+There is a X from X at X on X to X . 
+There is a connection at X , X line X from X direction X . 
+You can go directly by X from X to X on line X at X . 
+I 'm sorry there is no connection from X . 
+No routes found from X . 
+I 'm sorry , I could not find a connection from X . 
+X to X is not found . 
+Sorry a service from X to X is not found . 
+I 'm sorry there is no connection from X to X . 
+From X to where ? 
+From X to where ? 
+From X , to what direction ? 
+From X to X . 
+From X to X . 
+From X to X . 
+At X take the X line X from X direction X . 
+Take line X X at X from X direction X . 
+You can take the X X on the line X from X to X . 
+You want to travel by X . 
+You want to know if you can take the X . 
+You want to know if you can take the X . 
+Yes , but where to go ? 
+To what direction ? 
+Where are you going to ? 
+From what station ? 
+From where please ? 
+From which stop sir ? 
+The trip will take X with X . 
+The trip will be X and will take X . 
+The trip is X long , taking X . 
+You want information about the X X route . 
+You need a connection at X X . 
+You want to go at X X . 
+To travel from X to X take the X X at X . 
+There is a X line X from X to X at X . 
+Line X X leaves at X from X in the direction of X . 
+What station are you coming from and to what direction ? 
+Where are you leaving from and going to ? 
+Where are you traveling from and where are you traveling to ? 
+By X , from what station and to what direction ? 
+You want a X connection . Where are you traveling from , and where is your destination ? 
+Take the X from where to where , sir ? 
+Take the X X at X from X direction X . 
+Take X line X from X direction X at X . 
+From X , take the X X for X , departing at X . 
+You want to leave at X X by X . 
+You want to leave at X X by X . 
+I 'll check for a X X X route . 
+I 'm sorry there is no connection at X X . 
+Sorry sir but I could not find any alternative at X X . 
+Sorry I did not find any alternative at X X . 
+From X . 
+You would like transportation from X . 
+Take it from X . 
+You can take the X line of the X from X to X at X . 
+Take the X X from X to X at X . 
+At X , take X line X from X to X . 
+Alright , you want X . 
+I understand you need a connection in X . 
+You need a connection in X , sir . 
+It will be X . 
+It is X . 
+It 's a X long . 
+I 'm sorry there is no connection later . 
+I can not find a time later . 
+I did not find the next alternative . 
+A X line X at X from X to X . 
+There is a X at X going from X to X using line X . 
+Take X line X at X from X to X . 
+I apologize but such a route not found from X to X . 
+Not found from X to X . 
+I 'm sorry there is no connection from X to X . 
+A connection at X X . 
+You need a connection at X X , sir . 
+At X X . 
+OK , destination changed to X . 
+You wish to change to X . 
+Going to X . 
+At X , take X line X from X to X . 
+Yes , the X X , line X , can take you from X to X . 
+You could take the line X of the X at X , from X to X . 
+Sorry connection from X not found . 
+I 'm sorry I can not find a connection from X . 
+Apologies , a connection from X is not found . 
+Yes , in X . 
+OK , you want a connection in X minutes . 
+In X minutes . 
+I 'm sorry there is no connection in X . 
+I 'm sorry , a departure in X minutes can not be found . 
+I did not find a departure in X minutes . 
+Sorry , transport from X to X was not found . 
+I 'm sorry , but I could not find you a route from X to X . 
+I 'm sorry I can not find any connections from X to X . 
+No route found in X . 
+I 'm sorry , a connection in X minutes is not found . 
+I 'm sorry , I could not find you a connection in X minutes . 
+You want to travel from X to X . 
+OK , so you want to go to X from X . 
+I understand that you want to go to X from X . 
+Can you please confirm to where ? 
+What station are you going to ? 
+Where do you want to go to ? 
+Just take the X in the line X at X from X to X . 
+Use line X of the X to travel from X to X at X . 
+Take the X X at X from X direction X . 
+At X by X line X from X direction X . 
+There is a X at X going from X to X using line X . 
+Please use X X at X from X to X . 
+On X X at X from X to X . 
+You can take the X line X from X to X at X . 
+At X by X line X , from X to X . 
+Where are you going to ? 
+Please tell me where you wish to go to . 
+Where would you like to go ? 
+OK , so you want to go to X from X . 
+I understand that you want to go from X to X . 
+You want X to X . 
+Take X X at X from X to X . 
+From X X to X at line X on X . 
+Use X line X at X from X to X . 
+Sorry a service from X to X is not found . 
+Not found from X to X . 
+No connections found from X to X . 
+It will take X . 
+It will take X . 
+It will take X . 
+At X , by X line X from X direction X . 
+Take the X X from X to X at X . 
+Yes , you can leave at X if you take X X from X to X . 
+Going to X . 
+You want to go to X . 
+You want to go to X . 
+You want to start from X . 
+OK you want from X . 
+You want to go from X . 
+You want to travel from X . Where do you want to go to ? 
+You want to depart from X and go where ? 
+Confirming from X , but where to ? 
+Yes , from X . But where you would like to go ? 
+From X to where ? 
+OK sir but I need you to tell me the destination of your travel , from X to where ? 
+I did not find information on how to go to X . 
+I apologize such a route to X not found . 
+I did not find a route to X . 
+Please use X X at X from X to X . 
+Take line X X at X from X direction X . 
+You can take the X X at X from X to X . 
+Coming from X . 
+You would like to go from X . 
+OK then sir , from X it is . 
+In X minutes . 
+In X minutes . 
+I 'll check for a connection in X minutes . 
+Apologies , a X connection from X to X is not found . 
+I 'm sorry , I could not find you a X connection from X to X . 
+Sorry I can not find directions from X to X on the X . 
+By X , from what station and to what direction ? 
+You want to use the X but I need you to tell me from where and to where you want to go ? 
+You want a X connection . Where are you traveling from and where is your destination ? 
+Where are you coming from and where are you trying to go ? 
+From where to where ? 
+From where to where do you want to go ? 
+You want to go on the X . 
+You 'd rather ride the X . 
+I understand that you would rather ride the X , correct ? 
+Take X line X at X from X direction X . 
+Take the X line X at X from X direction X . 
+Then I suggest to take X X at X from X to X . 
+I 'm sorry I can not find a connection to X . 
+I 'm sorry there are no methods of transport currently going to X . 
+I 'm sorry , a connection to X is not found . 
+It takes X to get there . 
+The journey will take X . 
+About X . 
+OK , you want to go from X . 
+So you want to travel from X . 
+You are traveling from X . 
+You want to take the X . 
+Yes , X . 
+I understand you are going by X . 
+A X at X X is not found . 
+I 'm sorry there is no X connection at X X . 
+I 'm sorry , an alternative X at X X is not found . 
+To what station are you going ? 
+Where would you like to go to ? 
+To where , sir ? 
+It will take X . 
+It takes X . 
+No more than X . 
+I 'm sorry there is no connection from X to X . 
+X to X is not found . 
+No route found from X to X . 
+From X to X . 
+You want to go from X to X . 
+OK , you want to go from X to X . 
+I apologize but such a route not found X to X . 
+Not found from X to X . 
+I 'm sorry I can not find a connection from X to X . 
+You wish to travel to X , starting from X . 
+You need to go from X to X . 
+Yes , I can help you get to X from X . 
+You want to leave at X X by X . 
+You want to take the X at X X . 
+I 'll check for a X X X route . 
+From where to X ? 
+OK , you want to travel to X , where do you wish to leave from ? 
+Traveling to X , what station are you coming from ? 
+You want to depart from X . 
+Alrighty then , from X . 
+I confirm you wish to travel from X . 
+From where going to X ? 
+I understand that you are going to X . Where are you coming from . 
+You are going to X . From where ? 
