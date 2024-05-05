@@ -1,0 +1,134 @@
+{
+  "userSays": [
+    {
+      "id": "f44c060d-1dfb-43cd-af2a-4a35c8c92d18",
+      "data": [
+        {
+          "text": "cancel"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "aa7e1c1e-0c7e-4cfb-a154-7be795667fb2",
+      "data": [
+        {
+          "text": "stop"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "cfbcaef7-2d2a-4efc-ad47-1ad853d1b30e",
+      "data": [
+        {
+          "text": "dismiss"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "2f535f38-c564-4385-abcb-165f7c631551",
+      "data": [
+        {
+          "text": "skip"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "244d4314-6915-47b1-a332-33b1be84cfb3",
+      "data": [
+        {
+          "text": "forget that"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "1ca80f8c-2f8a-4d71-a640-549b14551dad",
+      "data": [
+        {
+          "text": "stop it"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "5646695b-b5dd-46a2-89a7-13498f915c9f",
+      "data": [
+        {
+          "text": "never mind"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "34e671e3-d275-4ee7-b7e5-077e1a2aeea2",
+      "data": [
+        {
+          "text": "do nothing"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "91eda8ee-86cc-4d49-bdb5-4f241139794d",
+      "data": [
+        {
+          "text": "just forget about it"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "d515ca0e-6d8c-46d3-89d8-cfcd822f7158",
+      "data": [
+        {
+          "text": "cancel that"
+        }
+      ],
+      "isTemplate": false,
+      "count": 3
+    }
+  ],
+  "id": "c7bf7181-a73f-4763-bb52-eae7c20df3c8",
+  "parentId": "3d235a1b-5de9-4e1b-b5d4-6af6986e5544",
+  "rootParentId": "e8f6a63e-73da-4a1a-8bfc-857183f71228",
+  "name": "room.reservation - cancel",
+  "auto": true,
+  "contexts": [
+    "roomreservation-chooseroom-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "room.reservation.cancel",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "speech": "Okay. Cancelled."
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true
+      }
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

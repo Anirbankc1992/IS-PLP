@@ -1,0 +1,25 @@
+
+# Converting sampling rate to 8kHz
+sox --i test1.wav
+sox test1.wav -r 8k test1-out-8k.wav
+sox --i test1-out-8k.wav
+
+# Converting stero audio into mono signal
+sox --i test2.wav
+sox test2.wav -c 1 test2-out.wav
+sox --i test2-out.wav
+
+# Converting raw file into wave file (adding header)
+sox -r 8k -b 8 -c 1 -e signed test3.raw test3-out.wav
+sox --i test3-out.wav
+
+# Concatenating two files into one
+sox --i test3.wav
+sox --i test2.wav 
+sox test3.wav test2.wav longfile.wav
+sox --i longfile.wav
+
+# Change the speed of the audio
+sox --i test2.wav
+sox test2.wav test2-fast.wav speed 1.1
+sox --i test2-fast.wav
