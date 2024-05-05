@@ -1,0 +1,113 @@
+{
+  "userSays": [
+    {
+      "id": "f946c60a-26e8-4f83-afb6-6c43047a8fb6",
+      "data": [
+        {
+          "text": "C",
+          "alias": "room",
+          "meta": "@room",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "300dcf3c-f2ad-4a90-a468-a108b4d3abe0",
+      "data": [
+        {
+          "text": "B",
+          "alias": "room",
+          "meta": "@room",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "041b2dcf-b8be-45ff-9f95-84be9427657c",
+      "data": [
+        {
+          "text": "A",
+          "alias": "room",
+          "meta": "@room",
+          "userDefined": false
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    }
+  ],
+  "id": "3d235a1b-5de9-4e1b-b5d4-6af6986e5544",
+  "parentId": "e8f6a63e-73da-4a1a-8bfc-857183f71228",
+  "rootParentId": "e8f6a63e-73da-4a1a-8bfc-857183f71228",
+  "name": "room.reservation - choose room",
+  "auto": true,
+  "contexts": [
+    "roomreservation-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "room.choose",
+      "affectedContexts": [
+        {
+          "name": "roomreservation-chooseroom-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "dataType": "@room",
+          "name": "room",
+          "value": "$room",
+          "isList": false
+        },
+        {
+          "name": "date",
+          "value": "#roomreservation-followup.date"
+        },
+        {
+          "name": "time",
+          "value": "#roomreservation-followup.time"
+        },
+        {
+          "name": "duration",
+          "value": "#roomreservation-followup.duration"
+        },
+        {
+          "name": "location",
+          "value": "#roomreservation-followup.location"
+        }
+      ],
+      "messages": [
+        {
+          "type": 1,
+          "platform": "facebook",
+          "title": "Confirm?",
+          "buttons": [
+            {
+              "text": "Yes"
+            },
+            {
+              "text": "No"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "speech": "Ok, here are the meeting details.\nDate: $date\nTime: $time\nDuration: $duration\nLocation: $location\nRoom: $room\nPlease confirm below."
+        }
+      ],
+      "defaultResponsePlatforms": {}
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": []
+}

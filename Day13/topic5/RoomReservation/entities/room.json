@@ -1,0 +1,27 @@
+{
+  "id": "e57238e2-e692-44ea-9216-6be1b2332e2a",
+  "name": "room",
+  "isOverridable": true,
+  "entries": [
+    {
+      "value": "A",
+      "synonyms": [
+        "A"
+      ]
+    },
+    {
+      "value": "B",
+      "synonyms": [
+        "B"
+      ]
+    },
+    {
+      "value": "C",
+      "synonyms": [
+        "C"
+      ]
+    }
+  ],
+  "isEnum": false,
+  "automatedExpansion": false
+}

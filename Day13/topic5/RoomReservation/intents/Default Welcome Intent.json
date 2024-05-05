@@ -1,0 +1,109 @@
+{
+  "userSays": [
+    {
+      "id": "60d071ec-a22e-45d5-87cc-0466314950bb",
+      "data": [
+        {
+          "text": "start"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "91acfb0a-e8cf-466a-94d7-71a38e3566ff",
+      "data": [
+        {
+          "text": "good day"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "f411f09f-73a5-4ce4-acba-c7cf96701f7f",
+      "data": [
+        {
+          "text": "greetings"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "232f2124-143f-4ff9-9592-3b8588859e4e",
+      "data": [
+        {
+          "text": "hello"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "6708a758-05e5-4ce6-a482-d04ff40cf506",
+      "data": [
+        {
+          "text": "hi"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    },
+    {
+      "id": "3dd59246-1ff4-4e8f-8dc5-5e3deecbd83d",
+      "data": [
+        {
+          "text": "hey"
+        }
+      ],
+      "isTemplate": false,
+      "count": 0
+    }
+  ],
+  "id": "58401902-76c7-4b6a-bf88-6d6271f585de",
+  "name": "Default Welcome Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.welcome",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 1,
+          "platform": "facebook",
+          "title": "Let\u0027s start!",
+          "buttons": [
+            {
+              "text": "Reserve a room"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "speech": [
+            "Hi! I\u0027m your room booking bot. I can help you to find a perfect room for your meeting and manage your reservations.",
+            "Hello! I\u0027m your room booking bot. I can help you to find a perfect room for your meeting and manage your reservations.",
+            "Good day! I\u0027m your room booking bot. I can help you to find a perfect room for your meeting and manage your reservations.",
+            "Greetings! I\u0027m your room booking bot. I can help you to find a perfect room for your meeting and manage your reservations."
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "facebook": true
+      }
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "WELCOME"
+    }
+  ]
+}
